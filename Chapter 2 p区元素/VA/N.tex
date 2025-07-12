@@ -37,12 +37,12 @@
     \ce{ [N2F]+[SbF6]- + HN3 ->T[$-78\tc$][\ce{HF}] [N5]+[SbF6]- + HF}
 \end{center}
 \ce{N5+}的结构示意如下.
-\chemfig{N5+}{\ce{N5+}的结构}
+\chemfig{N5+}{1}{\ce{N5+}的结构}
 你可以尝试画出它的共振式以验证这一结构的合理性.\\
 \indent 值得一提的是,\ce{N5+}可以形成诸如\ce{[N5]+[P(N3)6]-}和\ce{[N5]+[B(N3)4]-}的离子.它们也许是含\ce{N}量较高的化合物之一.
 \subsubsection{全氮阴离子}
 2017年,中国南京理工大学化工学院胡炳成教授课题组首次合成出室温下稳定的\ce{N5-}盐,发表于Science杂志上.
-\chemfig{N5-}{\ce{N5-}的合成路线及其结构}
+\chemfig{N5-}{1}{\ce{N5-}的合成路线及其结构}
 这一离子的稳定性部分源于其芳香性,它是咪唑阴离子的等电子体.笔者猜测\ce{HN5}也许是含\ce{N}量最高的化合物.\footnote{可惜的是,\ce{[N5]+[N5]-}理当不存在.否则我们就能见到一种看起来就很适合做炸药的物质了.}
 \subsection{氮化物}
 \subsubsection{氮化物}
@@ -82,13 +82,38 @@
 碱金属最引人注意的性质之一是它们易溶于液氮并形成亮蓝色的,具有异乎寻常性质的亚稳态溶液.重碱土金属,\ce{Eu}和\ce{Yb}也有类似的性质.\\
 \indent 这些溶液具有相似的性质.在浓度较低时,它们都呈现蓝色,而在浓度较高时则显现金属般的赤褐色.随着浓度增大,溶液的电导率先减小后增大,磁性也由低浓度的顺磁性变为抗磁性,最后又显现微弱的顺磁性.\\
 \indent 现在,我们普遍认为其中含有金属离子\ce{M^x+}的氨配合物\ce{[M(NH3)n]^x+}和分布在空穴中的自由电子\ce{e-}.这些空穴是排开\ce{NH3}分子形成的,因此会使得溶液密度大大减小.溶液显现蓝色正是由于自由电子的存在.\\
-\indent 我们可以用以下几种物质的平衡来解释金属-液氨溶液随浓度发生的性质变化\footnote{这里省略表示了\ce{NH3}的溶剂化作用.}:
+\indent 在Greenwood的元素化学中,这一现象是按照如下方法解释的.我们可以用以下几种物质的平衡来解释金属-液氨溶液随浓度发生的性质变化\footnote{这里省略表示了\ce{NH3}的溶剂化作用.}:
 \begin{center}
     \ce{M <=> M^+ + e^-}\ \ \ $K\sim10^{-2}$\\
     \ce{M + e- <=> M-}\ \ \ $K\sim10^{-3}$\\
     \ce{2M <=> M2}\ \ \ $K\sim5\times10^{3}$
 \end{center}
-当\ce{M}的总浓度较低时,第一个平衡占主要地位.此时,由于自由电子\ce{e-}的存在,溶液呈现顺磁性,并且由于\ce{e-}极高的离子迁移率,溶液的电导率也较高.当\ce{M}的浓度开始升高时,\ce{e-}开始与\ce{M}结合形成\ce{M-},电导率降低,同时二聚体\ce{M2}的形成也使得溶液呈现抗磁性.\\
+当\ce{M}的总浓度较低时,第一个平衡占主要地位.此时,由于自由电子\ce{e-}的存在,溶液呈现顺磁性,并且由于\ce{e-}极高的离子迁移率,溶液的摩尔电导率也较高.当\ce{M}的浓度升高时,\ce{e-}与\ce{M}结合形成\ce{M-},摩尔电导率降低,同时二聚体\ce{M2}的形成也使得溶液呈现抗磁性.\\
+\indent 近年来的研究表明\footnote{E. Zurek, P.P. Edwards, R. Hoffmann, A molecular perspective on lithium-ammonia solutions, \textit{Angew. Chem. Int. Ed.} \tbf{2009}, \textit{48}, 8198-8232, https://doi.org/10.1002/anie.200900373.},按照以下模型来描述可能更好.
+\begin{enumerate}[label=\tbf{\arabic*.},topsep=0pt,parsep=0pt,itemsep=0pt,partopsep=0pt]
+    \item \tbf{低浓度}(大约$<10^{-3}$ mol\%)\\
+        首先,碱金属溶于液氨并电离为\ce{[M(NH3)_n]^+}和氨合电子\ce{[e^-\text{@}(NH3)_m]}.随着浓度升高,阴阳离子发生明显的缔合作用.主要的缔合方式有两种:
+        \begin{center}
+            \ce{\ce{[M(NH3)_n]^+} + \ce{[e^-\text{@}(NH3)_m]} -> [\ce{M(NH3)_n^+}.\ce{e^-\text{@}(NH3)_m}]}\\
+            \ce{\ce{[M(NH3)_n]^+} + \ce{[e^-\text{@}(NH3)_m]} -> M(NH3)_n + m NH3}
+        \end{center}
+        以及形成一系列聚合物种.
+    \item \tbf{中等浓度}(大约$10^{-3}\sim1$ mol\%)\\
+        在此阶段,除去缔合作用以外,各种顺磁性物种还会发生缔合,使得溶液的磁导率下降:
+        \begin{center}
+            \ce{\ce{2[e^-\text{@}(NH3)_m]} -> \ce{[(e^-)_2\text{@}(NH3)_p]}}\\
+            \ce{2 M(NH3)_n -> M2(NH3)_q}
+        \end{center}
+        也许\ce{M2(NH3)_q}写作\ce{\{[M(NH3)_n]^+_2.\ce{(2e^-)\text{@}(NH3)_m}\}}比较合适.\\
+        直至大约$0.5\sim1$ mol\%时,溶液中几乎所有顺磁性物种(主要是氨合电子)都发生自旋配对,溶液呈现抗磁性.
+    \item \tbf{高浓度}(大约$>4$ mol\%)\\
+        溶液发生向金属态的转变(Transition to the Metallic State, TMS).溶液的摩尔电导率迅速上升,直至和液态金属相当,同时呈现微弱的顺磁性.自然,颜色也由蓝色变为典型的青铜色.研究认为,此时溶液主要以聚合物为主.典型的聚合物有下面几种.
+        \begin{center}
+            \ce{[\ce{M(NH3)_n^+}.\ce{e^-\text{@}(NH3)_m}]_r}\\
+            \ce{[\ce{M(NH3)_n}.\ce{e^-\text{@}(NH3)_m}]_r}\\
+            \ce{[M(NH3)_n]_r}
+        \end{center}
+\end{enumerate} 
 \indent 碱金属的液氨溶液不稳定.在有杂质作为催化剂或放置的较久的情况下,这些溶液将分解为对应的氨基盐:
 \begin{center}
     \ce{2Na + 2NH3 -> 2NaNH2 v + H2}
@@ -291,7 +316,17 @@
     二氟化二氮,化学式为\ce{N2F2},是无色气体.\\
     cis-\ce{N2F2}的熔点低于$-195\tc$,沸点为$-105.7\tc$;trans-\ce{N2F2}的熔点为$-172\tc$,沸点为$-111.4\tc$.
 \end{substance}
-\indent 顺式\ce{N2F2}中\ce{N=N}键键长为$120.9\text{ pm}$,\ce{N-F}键键长为$140.9\text{ pm}$;反式\ce{N2F2}中\ce{N=N}键键长为$122.4\text{ pm}$,\ce{N-F}键键长为$139.8\text{ pm}$.造成这一键长差异的原因主要是\ce{N}的孤对电子对$\sigma^\ast\left(\ce{N-F}\right)$轨道的超共轭作用,这一作用削弱\ce{N-F}键而加强\ce{N=N}键,也为分子提供了额外的稳定化作用.因此,顺式\ce{N2F2}在热力学上更加稳定,在气相的平衡中也占据主要.\\
+下面是两种异构体的键长数据.
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|c|c|c|}
+        \hline
+        键长/pm&\ce{N=N}&\ce{N-F}\\\hline
+        顺式\ce{N2F2}&120.9&140.9\\\hline
+        反式\ce{N2F2}&122.4&139.8\\\hline
+    \end{tabular}
+\end{table}
+造成键长差异的原因主要是\ce{N}的孤对电子对$\sigma^\ast\left(\ce{N-F}\right)$轨道的超共轭作用,这一作用削弱\ce{N-F}键而加强\ce{N=N}键,也为分子提供了额外的稳定化作用.因此,顺式\ce{N2F2}在热力学上更加稳定,在气相的平衡中也占据主要.\\
 \indent 然而,顺式\ce{N2F2}在动力学上似乎更加活泼.顺式\ce{N2F2}在玻璃容器内存放两周即完全反应:
 \begin{center}
     \ce{SiO2 + 2N2F2 -> SiF4 + 2N2O}
@@ -408,7 +443,7 @@
 正常情况下,\ce{NO}可以少量地二聚形成\ce{O=N-N=O}分子(先前也有人认为二聚体是矩形环状结构的,不过这被晶体的衍射数据所否定).\\
 \indent 在极性物质或Lewis酸存在时冷凝\ce{NO},则可以得到红色的不对称二聚体\ce{O=N-O=N}.
 \paragraph{\ce{NO}的化学性质}
-\ce{NO}具有较为活泼的化学性质.
+\ce{NO}具有较为活泼的化学性质.\\
 \indent 首先,\ce{NO}易被\ce{O2}氧化为\ce{NO2}:
 \begin{center}
     \ce{2NO + O2 -> 2NO2}
@@ -454,7 +489,7 @@
     \ce{N2O3 + 3H2SO4(conc) -> 2[NO]+[HSO4]- + [H3O]+[HSO4]-}
 \end{center}
 \subsubsection{\ce{NO2}与\ce{N2O4}}
-虽然大多数时候,分别测定平衡混合物中每种物质的状态是可行的,但由于\ce{NO2}与\ce{N2O4}处于极为快速的平衡中,因此大多数时候我们描述的都是平衡混合物的性质.
+虽然大多数时候,分别测定平衡混合物中各物质的状态是可行的,但由于\ce{NO2}与\ce{N2O4}处于极为快速的平衡中,因此大多数时候我们描述的都是平衡混合物的性质.
 \begin{substance}[\ce{NO2}]
     二氧化氮,化学式为\ce{NO2},为红棕色气体,凝固点为$-11.2\tc$,沸点为$21.5\tc$.固态和液态的\ce{NO2}中实际上几乎全部为无色的\ce{N2O4}.
 \end{substance}
@@ -571,9 +606,9 @@
     \caption{\ce{N2O3^2-}的两种异构体及其结构}
 \end{figure}
 \indent 另外,\ce{N2O2^2-}还可以作为配体.例如在\ce{[Co(NH3)5(NO)]^2+}的异构体\ce{[Co2(NH3)10(N2O2)]^4+}中就存在\ce{N2O2^2-}作为桥连配体,其结构如下:
-\chemfig{Co2N2O2}{\ce{[Co2(NH3)10(N2O2)]^4+}的结构}
+\chemfig{Co2N2O2}{1}{\ce{[Co2(NH3)10(N2O2)]^4+}的结构}
 在\ce{Pt(PPh3)2(N2O2)}中也存在\ce{N2O2^2-},其中两个\ce{O}原子对\ce{Pt}配位,形成螯合的五元环:
-\chemfig{PtN2O2}{\ce{Pt(PPh3)2(N2O2)}的结构}
+\chemfig{PtN2O2}{1}{\ce{Pt(PPh3)2(N2O2)}的结构}
 \subsubsection{亚硝酸\ce{HNO2}及其盐}
 \begin{substance}[\ce{HNO2}]
     亚硝酸,化学式为\ce{HNO2}.未分离出纯的\ce{HNO2}.
