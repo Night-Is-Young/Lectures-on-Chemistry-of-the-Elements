@@ -291,7 +291,7 @@
 \indent 最后,如果我们考虑的对象是离子,应将电荷也计入骨架电子中.\\
 \indent 按照以上的步骤,我们就能得出骨架电子数$m$.\\
 \indent $\mathit{Step\ 3.}$\ \tbf{确定骨架的结构}\\
-\indent Wade发现$m$和$n$之间的关系决定了簇合物的立体结构.简单而言,\tbf{簇合物是由$m-n-2$个顶点的闭式多面体去掉$m-2n-2$个顶点形成的多面体}.\\
+\indent Wade发现$m$和$n$之间的关系决定了簇合物的立体结构.简单而言,\tbf{簇合物是由$\dfrac{m}{2}-1$个顶点的闭式多面体去掉$\dfrac{m}{2}-n-1$个顶点形成的多面体}.\\
 \indent 上面这句话听起来很拗口.我们首先来解决第一个问题:闭式多面体的定义.简而言之,闭式多面体是全部由三角形面构成的闭合的多面体.具有$N$个顶点的闭式多面体展示如下.
 \begin{figure}[H]
     \centering
@@ -315,7 +315,7 @@
         $2n$  &单帽闭式   &Capped\ $\mathit{closo}$ & 加帽的具有$n-1$个顶点的闭式多面体 \\\hline
         $2n+2$  &闭式   &$\mathit{closo}$ & 具有$n$个顶点的闭式多面体 \\\hline
         $2n+4$  &巢式   &$\mathit{nido}$ & 具有$n+1$个顶点的闭式多面体去除$1$个顶点 \\\hline
-        $2n+6$  &蛛网式   &$\mathit{arachno}$ & 具有$n+2$个顶点的闭式多面体去除$3$个顶点 \\\hline
+        $2n+6$  &蛛网式   &$\mathit{arachno}$ & 具有$n+2$个顶点的闭式多面体去除$2$个顶点 \\\hline
         $2n+8$  &开式   &$\mathit{hypho}$ & 具有$n+3$个顶点的闭式多面体去除$3$个顶点 \\\hline
     \end{tabular}
     \caption{簇合物骨架形状与$m$和$n$的关系}
@@ -328,12 +328,12 @@
 \indent 实际上端基配体的位置是比较难以确定的.很多配体的不同配位形式所提供的电子数目一致.因此,在没有额外条件下,你可以尽量猜测研究对象具有较高的对称性.
 \paragraph{Wade规则的简单应用}
 我们在本节举几个简单的例子来说明Wade规则如何应用.\\
-$\mathit{Example\ 2.}$\ \ce{[B6H6]^2-}\\
+$\mathit{Example\ 1.}$\ \ce{[B6H6]^2-}\\
 \indent 骨架原子数$n=6$,骨架电子数$m=6\times2+2=14$,因此$m=2n+2$,采取顶点数$N=6$的正八面体结构,无需增删顶点.
 \chemfig{B6H62-}{1}{\ce{[B6H6]^2-}的结构}
 类似地,你可以知道\ce{[B_n H_n]^2-}的结构就是顶点数$N=n$的闭式多面体.\\
-$\mathit{Example\ 1.}$\ \ce{B10C2H12}\\
-\indent 骨架原子数$n=12$,骨架电子数$m=10\times2+2\times3=26$,因此$m=2n+2$,采取顶点数$N=12$的正二十面体结构,无需增删顶点.由于\ce{C}原子相对位置的不同,\ce{B10C2H12}事实上有三种异构体.
+$\mathit{Example\ 2.}$\ \ce{B10C2H12}\\
+\indent 骨架原子数$n=12$,骨架电子数$m=10\times2+2\times3=26$,因此$m=2n+2$,采取顶点数$N=12$的正二十面体结构,无需增删顶点.由于\ce{C}原子相对位置的不同,\ce{B10C2H12}事实上有三种异构体.\vspace{-5pt}
 \begin{figure}[H]
     \centering
     \subfigure[$o$-\ce{B10C2H12}]{
@@ -351,5 +351,60 @@ $\mathit{Example\ 1.}$\ \ce{B10C2H12}\\
             \centering\includegraphics{picture/B10C2H12-p.eps}
         \end{minipage}
     }
+    \caption{\ce{B10C2H12}的异构体的结构(省略所有端基\ce{H}原子)}
+\end{figure}\vspace{-10pt}
+类似地,你也可以知道\ce{B_{n-2}C2H_n}的结构就是顶点数$N=n$的闭式多面体(不考虑键长差异带来的轻微畸变).
+$\mathit{Example\ 3.}$\ \ce{B6H10}\\
+\indent 骨架原子数$n=6$,骨架电子数$m=6\times2+4\times1=16$,因此$m=2n+4$,采取顶点数$N=7$的五角双锥结构并删去一个顶点.它的投影图和平面结构如下所示.\vspace{-10pt}
+\begin{figure}[H]
+    \centering
+    \subfigure[\ce{B6H10}的立体结构示意图]{
+        \begin{minipage}[b]{.45\linewidth}
+            \centering\includegraphics{picture/B6H10-1.eps}
+        \end{minipage}
+    }
+    \subfigure[\ce{B6H10}的成键方式示意图]{
+        \begin{minipage}[b]{.45\linewidth}
+            \centering\includegraphics[scale=0.9]{picture/B6H10-2.eps}
+        \end{minipage}
+    }\caption{\ce{B6H10}的结构}
 \end{figure}
+事实上,\ce{B6H10}就是典型的巢式硼烷.\\
+$\mathit{Example\ 4.}$\ \ce{Os7(CO)21}\\
+\indent 骨架原子数$n=7$,骨架电子数$m=7\times(8+3\times2-12)=14$,因此$m=2n$,采取顶点数$N=6$的八面体结构并加一个帽.事实上,这一羰基簇合物就是单加帽八面体形的.你可以自己尝试绘出其结构.\\
+$\mathit{Example\ 5.}$\ \ce{Fe5(CO)15C}\\
+\indent 骨架原子数$n=5$,骨架电子数$m=5\times(8+3\times2-12)+4=14$,因此$m=2n+4$,采取顶点数$N=6$的八面体结构并删去一个顶点.事实上,这一羰基簇合物就是四棱锥形的,\ce{C}原子位于棱锥中心.你可以自己尝试绘出其结构.\\
+$\mathit{Example\ 6.}$\ \ce{[Pb9]^4-}\\
+\indent 骨架原子数$n=9$,骨架电子数$m=9\times2+4=22$,因此$m=2n+4$,采取顶点数$N=10$的双帽四方反棱柱结构并删去一个顶点.事实上,\ce{[Pb9]^4-}和\ce{[Sn9]^4-}都是单帽四方反棱柱形的.
+\chemfig{M94-}{1}{\ce{[M9]^4-}(\ce{M=Pb,Sn})的结构}
+$\mathit{Example\ 7.}$\ \ce{[Bi8]^2+}\\
+\indent 骨架原子数$n=8$,骨架电子数$m=8\times3-2=22$,因此$m=2n+6$,采取顶点数$N=10$的双帽四方反棱柱结构并删去两个顶点.我们在之前就已经讲过这一离子是四方反棱柱的,这也符合Wade规则所预测的结果.
+\paragraph{Wade规则的局限性}
+尽管对于简单的簇合物而言,Wade规则总是正确的,然而对于稍显奇怪的物质就不那么准确了.首先,Wade规则无法预测具有单电子的簇合物,而它们通常具有与预测结构相不同的形状.其次,对于某些元素,例如\ce{Rh}的多核团簇而言,预期的结构也与Wade规则有所差别.\\
+\indent 确切而言,使用Wade规则的最佳场景是解释某簇合物的结构,而在预测结构时则由于配体配位形式的不同使得骨架电子数不同等情况而使结果具有一定的任意性.不过大部分时候,簇合物总是符合Wade规则的(或者你可以将它解释地符合Wade规则).如果你在做题时有闲心,也可以验证一下你的答案是否符合Wade规则,但这仅仅作为参考,并不能作为决定结构正确与否的绝对依据.
+\subsubsection{价键理论对硼烷成键形式的解释与$styx$码}
+\paragraph{三中心二电子键}
+由于\ce{B}元素的缺电子性质,成键时为了满足八电子,时常需要形成非经典的$\sigma$键(IIA和IIIA族的元素经常如此).我们以最简单的硼烷\ce{B2H6}为例介绍硼烷中的成键方式.\\
+\indent 想象\footnote{这一段内容只是对\ce{B2H6}成键方式的一种形象地推理,并不具备严格的学术参考价值.}(理论上)最简单的硼氢化物\ce{BH3}.其中的\ce{B}原子并不满足八隅律,因而期望从别的地方再找一对电子来.能找到的自然只有$\sigma\left(\ce{B-H}\right)$电子,因此两个\ce{BH3}决定互相共用这一对电子,从而满足八隅律,使得结构稳定.\\
+\indent 对于这个共用的电子,两个\ce{B}各提供一个$\text{sp}^3$轨道,一个\ce{H}提供$\text{s}$轨道,组合形成新的轨道后在最低的能级填入两个电子.这就是\ce{B2H6}中的三中心二电子键的由来.
+\chemfig{3c2e}{0.25}{\ce{BHB}三中心二电子键的轨道组合方式示意图}
+我们可以把三中心二电子键画成三个原子各伸出一根短键后交汇于一点的形式.这样,\ce{B2H6}就能画成如下形式:
+\chemfig{B2H6}{1}{\ce{B2H6}的结构}
+另一种三中心二电子键是\ce{BBB}三中心二电子键.它与\ce{BHB}三中心二电子键几乎一致,除了参与组合的三个轨道均为\ce{B}的$\text{sp}^3$轨道.
+\paragraph{$styx$规则}
+在硼烷中,价电子的总数不能满足每两个相邻原子都以常规的$\sigma$键结合,因而需要形成三中心二电子键.成键的情况可以用$styx$数码表示.\\
+\indent $styx$数码分别表示\ce{BHB}三中心二电子键$(s)$,\ce{BBB}三中心二电子键$(t)$,\ce{B-B}单键$(y)$和\ce{BH2}基团$(x)$的数目.用价键理论描述硼烷的成键方式时需满足如下规则:
+\begin{enumerate}[label=\tbf{\arabic*.},topsep=0pt,parsep=0pt,itemsep=0pt,partopsep=0pt]
+    \item 相邻的\ce{B}原子均由\ce{BHB},\ce{BBB}或\ce{B-B}键连接.
+    \item 每个\ce{B}原子均用其四个价轨道成键,达到八电子组态.
+    \item 如果相邻的\ce{B}原子已经成\ce{B-B}键,那么就不能再成\ce{BHB}或\ce{BBB}键.
+    \item 每个\ce{B}原子至少与一个端基\ce{H}原子相连.
+\end{enumerate}
+遵照以上规则,我们可以对于化学式为\ce{B_n H_m}的硼烷列出以下方程:
+\[\left\{\begin{array}{l}
+    s+x=m-n\\
+    3n+m=2(n+s+t+y+x)\\
+    4n+m=2n+3(s+t)+2(x+y)
+\end{array}\right.\]
+这三个等式分别对应\ce{H}原子守恒,电子守恒和轨道数目守恒.此外,还需满足$s,t,y,x$均为非负整数这一条件.对于部分简单硼烷而言,上述方程组都有唯一解,可以根据对应的数码轻松地画出其结构.然而,也有很多硼烷对应了多种解\footnote{例如\ce{B5H9}一共有$4120,3211,2302$三种解.}.这就需要根据规则\tbf{3}对结构进行排除.下面给出了一些硼烷的结构与对应的$styx$数码.
 \end{document}
