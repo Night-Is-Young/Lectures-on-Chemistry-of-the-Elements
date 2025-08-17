@@ -1,4 +1,4 @@
-\documentclass[draft]{ctexart}
+\documentclass{ctexart}
 \usepackage{EC}
 \begin{document}
 \section{碳及其化合物}
@@ -92,7 +92,7 @@
 \subsubsection{石墨氮化碳}
 将石墨层的结构稍加修改,就能得到化学式为\ce{C3N4}的石墨氮化碳.和石墨一样,\ce{C3N4}也具有无限延伸的二维层状结构,并且有以下两种异构体:
 \bichemfig{C3N4-1}{0.9}{\ce{C3N4}的层状结构I}{C3N4-2}{0.9}{\ce{C3N4}的层状结构II}{\ce{C3N4}的层状结构}
-如果你仔细观察,就可以发现这些层状结构是由$\dfrac{n(n+1)}{2}$个三聚吡啶并接成的边长为$n$的正三角形单元和连接这些单元的\ce{N}原子组成的.然而,当$n>2$时,由于成键的限制将不能画出类似的结构.因此\ce{C3N4}似乎仅有上面两种比较合理的异构体.\\
+如果你仔细观察,就可以发现这些层状结构是由$\dfrac{n(n+1)}{2}$个均三嗪并接成的边长为$n$的正三角形单元和连接这些单元的\ce{N}原子组成的.然而,当$n>2$时,由于成键的限制将不能画出类似的结构.因此\ce{C3N4}似乎仅有上面两种比较合理的异构体.\\
 \indent 石墨氮化碳作为一种新型二维材料,在催化和能源等领域有着重要用途.
 \subsubsection{氰及其衍生物}
 \paragraph{关于氰的基本介绍}
@@ -126,8 +126,99 @@
     \ce{H2NCOCONH2 ->T[脱水] (CN)2 + 2H2O}
 \end{center}
 \subparagraph{\ce{(CN)2}的性质与反应}
+纯的\ce{(CN)2}具有相当高的热稳定性,但痕量杂质的存在将使得其在$300\sim500\tc$时发生聚合而生成顺氰,其中具有吡嗪环并接的长链结构:
+\chemfig{(CN)n}{1}{顺氰的结构}
 \ce{(CN)2}在一般的溶剂中比较稳定,但在碱性水溶液中发生类似卤素单质的歧化,生成氰根离子\ce{CN-}和氧氰阴离子\ce{OCN-}:
 \begin{center}
     \ce{(CN)2 + 2OH- -> CN- + OCN- + H2O}
 \end{center}
+\paragraph{氰化氢\ce{HCN}}
+\subparagraph{\ce{HCN}的物理性质}
+\ce{HCN}是无色的杏仁味气体\footnote{这种气味主要是因为杏仁核中的苦杏仁苷水解所产生的\ce{HCN}.此事在Clayden等所著的有机化学书中有详细的记载.}\footnote{据说能否明显地闻到此气味却决于个人的基因.},剧毒且致命.\ce{HCN}的熔点为$-13.4\tc$,沸点为$25.6\tc$,因而在标准状态下是液体.
+\subparagraph{\ce{HCN}的制备}
+以前,制备\ce{HCN}主要靠\ce{NaCN}和\ce{Ca(CN)2}等氰化物盐的酸化.甲酸铵的脱水也可以得到\ce{HCN}:
+\begin{center}
+    \ce{HCOONH4 -> HCN + 2H2O}
+\end{center}
+现在通常通过催化反应合成\ce{HCN}:
+\begin{center}
+    \tbf{Andrussow过程}:\ \ce{2CH4 + 2NH3 + 3O2 ->T[\ce{Pt/Rh/Ir}][$\Delta$] 2HCN + 6H2O}\\
+    \tbf{Degussa过程}:\ \ce{CH4 + NH3 ->T[\ce{Pt}][$\Delta$] HCN + 3H2}
+\end{center}
+\subparagraph{\ce{HCN}的性质,反应与应用}
+\ce{HCN}在水中是弱酸:
+\begin{center}
+    \ce{HCN(aq) + H2O(l) <=> H3O+(aq) + CN-(aq)}\ \ \ $K_{\text a}=2.1\times10^{-9}$
+\end{center}
+它也是中等的还原剂.
+\begin{center}
+    \ce{(CN)2 + 2H+ + 2e- -> 2HCN}\ \ \ $E^\ominus=+0.37\text{ V}$
+\end{center}
+用较强的还原剂,例如\ce{Pd/H2}即可将\ce{HCN}还原为\ce{MeNH2}.\\
+\indent 液态\ce{HCN}容易发生聚合.三聚体和四聚体的结构如下所示.
+\bichemfig{(HCN)3}{1}{\ce{HCN}的三聚体结构}{(HCN)4}{1}{\ce{HCN}的四聚体的结构}{\ce{HCN}的多聚体结构}
+\indent 其它的性质主要是\ce{CN-}的性质.因此,我们放到下一小节介绍.
+\paragraph{氰根阴离子\ce{CN-}与氰化物}
+\subparagraph{\ce{CN-}的毒性}
+应当说,绝大部分氰类化合物的毒性都来源于\ce{CN-}.它与细胞色素c氧化酶中的\ce{Fe}原子结合,抑制其活性,从而干扰正常有氧呼吸的过程.高度依赖有氧呼吸的组织,例如心脏和中枢神经系统,受此影响最大.\\
+\indent 氰化物中毒的临床症状包括:中毒者血液的pH值在中毒后两至三分钟内急剧下降\footnote{这应当是因为细胞只能采取无氧呼吸,产生大量丙酮酸的缘故.};缺氧窒息;身体散发大量类似苦杏仁味的气味;严重昏迷及面部发紫;即使痊愈后,大部分中毒者的脑部和心脏一般都已受永久性伤害.\\
+\indent 在众多侦探和悬疑小说中,通常用于毒杀他人的物质就是氢氰酸.综合而言,它容易得到,并且毒性足够强烈.现在,氰化物都列入严格管制,以免不法分子用它危害他人生命.
+\subparagraph{氰化物的制备}
+主要需要制备的简单氰化物通常是碱金属和碱土金属的氰化物.\ce{NaCN}的早期的工业制备方法是将\ce{NaNH2}与碳反应得到:
+\begin{center}
+    \ce{NaNH2 + C ->T[$\Delta$] NaCN + H2}
+\end{center}
+现在则由氰氨化钙,碳和碳酸钠反应得到:
+\begin{center}
+    \ce{CaCN2 + Na2CO3 + C -> 2NaCN + CaCO3}
+\end{center}
+\ce{NaCN}大量地用于配制金属电镀液.
+\subparagraph{\ce{CN-}的配位化学与反应}
+和它的等电子体\ce{CO}一样,\ce{CN-}也有着十分强的配位能力,其配合物也数目众多,并且一般而言用\ce{C}作为配位原子.我们在这里简单地对\ce{CN-}的配合物进行介绍,剩下的内容放到各自对应的中心元素中.\\
+\indent 氰化物曾经被大量用于金和银的开采中,它有助于溶解这些金属,从而与其他固体分离.反应的方程式如下:
+\begin{center}
+    \ce{4Au + 8NaCN + O2 + 2H2O -> 4Na[Au(CN)2] + 4NaOH}\\
+    \ce{Ag2S + 4NaCN + H2O -> 2Na[Ag(CN)2] + NaSH + NaOH}
+\end{center}
+其中\ce{[Au(CN)2]-}和\ce{[Ag(CN)2]-}都是直线形的阴离子.由于氰化物的剧毒性,这种方法对环境的破坏是相当大的,因此已经被禁止使用.然而在某些手工提取电子产品中的金的视频中,似乎仍然有人采用这种不规范的方法.\\
+\indent 除此之外,\ce{CN-}也能作为桥连配体.在\ce{AgCN}和\ce{AuCN}中,每个\ce{CN-}分别用\ce{C}和\ce{N}对两个\ce{M+}配位,形成无限延伸的一维长链.
+\bichemfig{M(CN)2-}{1}{\ce{[M(CN)2]-}的结构}{MCN}{1}{\ce{MCN}中的一维长链}{$\ce{M}(\ce{M}=\ce{Ag},\ce{Au})$的\ce{CN-}配合物}
+这种桥连的形式还存在于很多物质中,例如\ce{[Co2(NH3)10(CN)]^5+},\ce{[Au(C3H7)2(CN)]4}和层型结构的\ce{Pd(CN)2}等.这些物质的结构如下所示.
+\chemfig{Co2(NH3)10(CN)5+}{1}{\ce{[Co2(NH3)10(CN)]^5+}的结构}
+\bichemfig{(AuR2CN)4}{1}{\ce{[Au(C3H7)2(CN)]4}}{Pd(CN)2}{1}{\ce{Pd(CN)2}的结构}{\ce{CN-}桥连的平面四方配合物}
+在\ce{CuCN.NH3}中有\ce{CN-}桥连的二维结构(除去对\ce{Cu}配位的\ce{NH3}),但与上面不同的是\ce{C}同时对两个\ce{Cu^I}配位,同时这两个\ce{Cu^I}之间还有类似亲金作用的亲铜作用.这一层状结构如下所示.
+\chemfig{CuCN}{1}{\ce{CuCN.NH3}的二维层}
+\paragraph{氰的卤化物\ce{XCN}}
+氰与四种卤素的化合物都已经制得.\ce{ClCN}和\ce{BrCN}可以由对应的卤素与碱金属氰化物反应得到:
+\begin{center}
+    \ce{X2 + MCN -> MCl + XCN}
+\end{center}
+将干燥的\ce{Hg(CN)2}与\ce{I2}反应即可得到\ce{ICN}:
+\begin{center}
+    \ce{Hg(CN)2 + 2I2 -> 2ICN + HgI2}
+\end{center}
+而\ce{FCN}则由\ce{(FCN)3}的分解得到.后者可以由\ce{NaF}与\ce{(ClCN)3}反应得到.事实上,所有四种\ce{XCN}都可以发生三聚形成含有六元环的\ce{(XCN)3},其结构如下:
+\chemfig{(XCN)3}{1}{\ce{(XCN)3}的结构}
+\ce{XCN}可以发生取代反应,得到各种含有氰基的化合物.以下是一些例子:
+\begin{center}
+    \ce{XCN + NaN3 -> N3CN + NaX}\\
+    \ce{XCN + 2NaOH + NaX + NaOCN + H2O}\\
+    \ce{ClCN + AgOCN -> NCOCN + AgCl}
+\end{center}
+\paragraph{氨基氰\ce{H2NCN}及其衍生物}
+\subparagraph{氨基氰的制备与结构}
+氨基氰(即氰胺)可以由氰氨化钙按如下方式制备得到:
+\begin{center}
+    \ce{2CaCN2 + 2H2O -> Ca(HNCN)2 + Ca(OH)2}\\
+    \ce{Ca(HNCN)2 + CO2 + H2O -> CaCO3 + 2H2NCN}
+\end{center}
+氰胺是平面型分子,其结构如下:
+\chemfig{H2NCN}{1}{氰胺分子的结构}
+氰胺也有一个不稳定的异构体,即二亚胺\ce{HN=C=NH}.有机化学中常用的脱水剂DCC(即二环己基二亚胺)就是二亚胺的衍生物.
+\subparagraph{氨基氰的反应}
+\indent 常用的氰胺是以二聚体的形式存在的.这二聚体也有一个异构体,如下所示.
+\bichemfig{(H2NCN)2-1}{1}{\ce{H2NCN}的二聚体I}{(H2NCN)2-2}{1}{\ce{H2NCN}的二聚体II}{\ce{H2NCN}的二聚体}
+氰胺可以发生三聚.三聚氰胺常用作制备树脂,用作阻燃剂,减水剂和甲醛清洁剂等等.不法商家曾经将三聚氰胺加入奶粉中以提高氮含量,进而让检测出的蛋白质含量更高\footnote{这就是曾经轰动全国的著名的三鹿奶粉事件.}.由于三聚氰胺对神经系统的毒害作用,这对婴幼儿有极其恶劣的健康影响.
+\chemfig{(H2NCN)3}{1}{三聚氰胺的结构}
+
 \end{document}
