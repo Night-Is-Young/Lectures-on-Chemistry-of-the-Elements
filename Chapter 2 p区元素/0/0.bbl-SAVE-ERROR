@@ -1,0 +1,137 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{GRAHAM2000321}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=51f8a7e2a3b619668629115a917e2569}{%
+           family={Graham},
+           familyi={G\bibinitperiod},
+           given={Lionell},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3716f090b99694dac929b09df4c10617}{%
+           family={Graudejus},
+           familyi={G\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+        {{hash=4f8da881035b180314f43acb1cac75d5}{%
+           family={Jha},
+           familyi={J\bibinitperiod},
+           given={Narendra\bibnamedelima K.},
+           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=4a73b45d2b35b063bf791217ffae36a2}{%
+           family={Bartlett},
+           familyi={B\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{84d56547e2d19287e8ba61fc27b2827b}
+      \strng{fullhash}{1ecfd9031c5477bb0b57af163e4afde3}
+      \strng{fullhashraw}{1ecfd9031c5477bb0b57af163e4afde3}
+      \strng{bibnamehash}{1ecfd9031c5477bb0b57af163e4afde3}
+      \strng{authorbibnamehash}{1ecfd9031c5477bb0b57af163e4afde3}
+      \strng{authornamehash}{84d56547e2d19287e8ba61fc27b2827b}
+      \strng{authorfullhash}{1ecfd9031c5477bb0b57af163e4afde3}
+      \strng{authorfullhashraw}{1ecfd9031c5477bb0b57af163e4afde3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Interaction of PtF6 vapor with a comparable molar quantity of Xe gas, at ≈ 20°C, gives a sticky, red-tinged yellow solid of composition Xe(PtF6)x, with 1≤x≤2, X-ray powder diffraction pattern (XRDP) of which show the presence of XeF+PtF6− {a=8.081(6); b=11.087(7); c=7.226(6) Å; β=90.01(5)°; VlZ =161.8(4) Å3} which is isostructural with XeF+RuF6−. This implies that first formed XePtF6+PtF6→XeF+PtF6−+PtF5 (non-crystalline). When the product having x ≈ 2 is warmed (≤60°C) it is converted to the orange–red, friable solid XeF+Pt2F11−: XeF+PtF6−+PtF5→XeF+Pt2F11−. Mixing PtF6 vapor (diluted with SF6 gas), with a large excess of Xe gas, with the product mixture quenched at 77 K, gives a mustard yellow solid of composition ≈ XePtF6. This does not give an XRDP, and is only weakly paramagnetic. Dissolution of PtF4, with a large excess of XeF2 in aHF gives a yellow solution, the 19F NMR spectrum of which reveals PtF62−. The diamagnetic, amorphous, aHF-insoluble solid, of composition ≈ XePtF6 obtained from that solution is probably a XeF+ salt of polymeric (PtF5−)n. The 1:1 product of Xe+PtF6 is also likely to be of this formulation.}
+      \field{issn}{0010-8545}
+      \field{journaltitle}{Coordination Chemistry Reviews}
+      \field{number}{1}
+      \field{title}{Concerning the nature of XePtF6}
+      \field{volume}{197}
+      \field{year}{2000}
+      \field{pages}{321\bibrangedash 334}
+      \range{pages}{14}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0010-8545(99)00190-3
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0010854599001903
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0010854599001903
+      \endverb
+      \keyw{XePtF,Diamagnetic,X-ray powder diffraction pattern}
+    \endentry
+    \entry{Stefano2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=d0bc26106bc35dd43bb100ea364a9c94}{%
+           family={Borocci},
+           familyi={B\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6acbe2acf122476e59c9c7546cd1eb80}{%
+           family={Grandinetti},
+           familyi={G\bibinitperiod},
+           given={Felice},
+           giveni={F\bibinitperiod}}}%
+        {{hash=99904a58b220c5dcb3a96a1b95c2fdac}{%
+           family={Sanna},
+           familyi={S\bibinitperiod},
+           given={Nico},
+           giveni={N\bibinitperiod}}}%
+        {{hash=b5adfa83068c2f7588dad54fd1e15c26}{%
+           family={Zazza},
+           familyi={Z\bibinitperiod},
+           given={Costantino},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{742e287e2d801a4c80f4e1704481560b}
+      \strng{fullhash}{815418767dffb4dd888b5a40b6e13336}
+      \strng{fullhashraw}{815418767dffb4dd888b5a40b6e13336}
+      \strng{bibnamehash}{815418767dffb4dd888b5a40b6e13336}
+      \strng{authorbibnamehash}{815418767dffb4dd888b5a40b6e13336}
+      \strng{authornamehash}{742e287e2d801a4c80f4e1704481560b}
+      \strng{authorfullhash}{815418767dffb4dd888b5a40b6e13336}
+      \strng{authorfullhashraw}{815418767dffb4dd888b5a40b6e13336}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract This review article aims to provide an overview of the strategies employed to prepare noble gas anions under different environments and experimental conditions, and of the bonding motifs typically occurring in these species. Observed systems include anions fixed into synthesized salts, detected in the gas phase or in high-pressure devices. The major role of the theoretical calculations is also highlighted, not only in support of the experiments, but also as effective in predicting still unreported species. The chemistry of noble gas anions overall appears as a varied and rich paint, offering fascinating opportunities for both experimentalists and theoreticians.}
+      \field{journaltitle}{Chemistry – An Asian Journal}
+      \field{number}{14}
+      \field{title}{Noble Gas Anions: An Overview of Strategies and Bonding Motifs}
+      \field{volume}{19}
+      \field{year}{2024}
+      \field{pages}{e202400191}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb https://doi.org/10.1002/asia.202400191
+      \endverb
+      \verb{eprint}
+      \verb https://aces.onlinelibrary.wiley.com/doi/pdf/10.1002/asia.202400191
+      \endverb
+      \verb{urlraw}
+      \verb https://aces.onlinelibrary.wiley.com/doi/abs/10.1002/asia.202400191
+      \endverb
+      \verb{url}
+      \verb https://aces.onlinelibrary.wiley.com/doi/abs/10.1002/asia.202400191
+      \endverb
+      \keyw{gas-phase chemistry,high-pressure chemistry,noble gas anions,synthetic chemistry,theoretical calculations}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
