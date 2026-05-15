@@ -1,4 +1,4 @@
-\documentclass{ctexbook}
+\documentclass[draft]{ctexbook}
 \usepackage[
     backend=biber,
     style=chem-acs,
@@ -23,15 +23,15 @@
         氡&\ce{Rn}&Radon&radius\footnotemark&射线\\\hline
     \end{tabular}
 \end{table}\footnotetext{显然地,这是拉丁文而非希腊文.}
-稀有气体单质由于其反应惰性(\ce{Ar}得名于此),因此直到1785年才被发现.首个发现的即~\ce{Ne}~(它也得名于此),此后其它的稀有气体单质才陆续地被发现.\\
-\indent 在很长的一段时间内,人们都认为由于其满壳层的电子结构带来的稳定性使得它们不参与化学反应,因此很长一段时间内它们都被称作\tbf{惰性气体},然而后面的研究推翻了这一点.因此称它们为\tbf{惰性气体}更加合适,因为空气中的稀有气体单质含量较低.
+稀有气体单质由于其反应惰性(\ce{Ar}就得名于此),因此直到1785年才被发现.首个发现的即~\ce{Ne}~(它也得名于此),此后其它的稀有气体单质才陆续地被发现.\\
+\indent 在很长的一段时间内,人们都认为由于其满壳层的电子结构带来的稳定性使得它们不参与化学反应,因此很长一段时间内它们都被称作\tbf{惰性气体},然而后面的研究推翻了这一点.因此称它们为\tbf{稀有气体}更加合适,因为空气中的稀有气体单质含量较低.然而,一些稀有气体元素(尤其是~\ce{Ar},来源于地壳中大量存在的~\ce{^{40}K}的$\beta$衰变)跟稀土一样在地壳中绝对含量并不算少,因此严谨来讲``稀有''也是历史上的相对概念.
 \subsection{0族元素的物理性质}
 所有稀有气体单质都是无色无味的无毒气体.由于这些物质在组成分子上的相似性,因此其物理性质呈现很好的递变规律.
 \begin{table}[H]
     \centering
     \begin{tabular}{|c|c|c|c|c|}
         \hline
-        物质&第一电离能$/\kJm$&熔点/K&沸点/K&蒸发焓$/\kJm$\\\hline
+        物质&第一电离能$/\si{\kilo\joule\per\mole}$&熔点/K&沸点/K&蒸发焓$/\si{\kilo\joule\per\mole}$\\\hline
         \ce{He}&$2372$&$-$\footnotemark&$4.215$&$0.08$\\\hline
         \ce{Ne}&$2080$&$24.55$&$27.07$&$1.74$\\\hline
         \ce{Ar}&$1520$&$83.78$&$87.29$&$6.52$\\\hline
@@ -57,8 +57,8 @@
 其中$\gamma$是气体的绝热指数, $M$是气体的分子量.人的声道本质上是一个共振腔,其共振频率$f$与声速$v$成正比.对于分子量更小,密度更低的氦气,人在其中发出的声音频率更高,听起来也就更尖锐.
 \subsection{其余0族元素}
 其余0族元素的主要应用是霓虹灯中的保护气.尽管它们确实显现不同的颜色,但一般产生鲜艳的颜色仍然需要额外加入荧光物质.\\
-\indent 除去产量极低的~\ce{Ne},~\ce{Ke}和\ce{Xe}以外,\ce{Ar}也常作为保护气使用.
-\section{Xe的化学性质}
+\indent 除去产量极低的~\ce{Ne},~\ce{Ke}和~\ce{Xe}以外,~\ce{Ar}也常作为保护气使用.
+\section{\ce{Xe}的化学性质}
 \subsection{\ce{Xe}的首个化合物}
 自N. Barlett发现~\ce{Xe}的电离能小于~\ce{O2},受到启发而制备得到~\ce{XePtF6}以来,稀有气体化合物的族谱在化学史上徐徐展开.将~\ce{PtF6}蒸汽与等量的~\ce{Xe}混合即可得到橙黄色固体\ce{XePtF6},制备反应的方程式可以写作:
 \begin{tightcenter}
@@ -81,13 +81,39 @@
 这一体系有时也用于平衡计算的练习.总之,控制温度,投料比等条件可以选择性的合成比较纯的~\ce{XeF_n}$(n=2,4,6)$.
 \paragraph{\ce{Xe}的氟化物的结构}
 我们可以很容易地根据VSEPR理论画出上述三种氟化物的结构.
+\begin{figure}[H]\centering
+    \subfigure[\ce{XeF2}]{
+        \centering\begin{minipage}[b]{.3\linewidth}
+            \centering\includegraphics[scale=1]{figure/XeF2-m}
+        \end{minipage}
+    }
+    \subfigure[\ce{XeF4}]{
+        \centering\begin{minipage}[b]{.3\linewidth}
+            \centering\includegraphics[scale=1]{figure/XeF4-m}
+        \end{minipage}
+    }
+    \subfigure[\ce{XeF6}]{
+        \centering\begin{minipage}[b]{.3\linewidth}
+            \centering\includegraphics[scale=1]{figure/XeF6-m}
+        \end{minipage}
+    }\caption{\ce{XeF_n}\,$(n=2,\,4,\,6)$的分子结构}
+\end{figure}
+需要注意的是,~\ce{XeF6}是变形八面体结构的.早期的研究表明$C_{2\text{v}}$或$C_{3\text{v}}$对称性的结构与光谱数据相对更加符合.因此,人们提出了~\ce{XeF6}中具有空间效应的孤对电子,它所处的位置(棱心/面心)将导致其余键发生轻微的畸变并形成具有上述对称性的结构:
+\bichemfig{XeF6-C3v}{0.15}{$C_{3\text{v}}$结构,孤对电子指向面心}{XeF6-C2v}{0.15}{$C_{2\text{v}}$结构,孤对电子指向棱心}{早期提出的~\ce{XeF6}的两种可能结构以及孤对电子朝向}
+显然,传统的VSEPR模型不能对~\ce{XeF6}的构型给出一个令人满意的解释.一种比较合理的解释是采用定性的分子轨道理论.我们可以由~\ce{Xe}的$5\text{s}$, $5\text{p}$和$6$个~\ce{F}原子的$2\text{p}$轨道构造八面体分子轨道,如下图所示:
+\begin{figure}[H]\centering
+    \include{figure/XeF6-MO}\caption{\ce{XeF6}的定性分子轨道组合图}
+\end{figure}
+相比于正八面体的~\ce{SF6},~\ce{XeF6}多了一对电子,使得HOMO轨道变为$2\text{a}_{1\text{g}}$, LUMO轨道变为$2\text{t}_{1\text{u}}$.两者继续组合可以使得$2\text{a}_{1\text{g}}$的能量进一步下降得到稳定化作用.根据群论的知识,要使得轨道发生组合,振动模式的不可约表示必须包括
+\[\text{A}_{1\text{g}}\otimes\text{T}_{1\text{u}}=\text{T}_{1\text{u}}\]
+查阅$O_{\text{h}}$点群的特征标表,可知$\text{T}_{1\text{u}}$对应于三重简并的振动,它在$x$, $y$和$z$三个方向上等价,因此将使得~\ce{XeF6}分子的对称性降低至$C_{3\text{v}}$.
 \paragraph{\ce{XeF2}}
 将~\ce{Xe}和~\ce{F2}混合后光照,或者将~\ce{F2}与过量的~\ce{Xe}混合后在~\ce{Ni}制容器中加热即可得到~\ce{XeF2}.
 \begin{substance}[\ce{XeF2}]
     二氟化氙,化学式为~\ce{XeF2},是无色固体,室温下易升华.气态~\ce{XeF2}具有令人作呕的恶臭味.
 \end{substance}
-固体~\ce{XeF2}属于四方晶系.
-\chemfig{XeF2}{0.125}{\ce{XeF2}的晶体结构}
+固体~\ce{XeF2}具有简明的晶体结构:
+\chemfig{XeF2}{0.125}{\ce{XeF2}的晶体结构\quad$\text{I}\,4/\text{m}\,\text{m}\,\text{m}$\quad$a=b=\SI{422.5}{\pico\meter},c=\SI{695.3}{\pico\meter}$}
 同其它氟化氙相比,~\ce{XeF2}是稍温和一些的氟化剂和氧化剂.因此,它经常被用作氟化剂.\\
 \indent \ce{XeF2}也可以与某些酸(主要是各非金属的最高价含氧酸或衍生物)反应生成~\ce{Xe(OR)2}.例如:
 \begin{tightcenter}
@@ -125,6 +151,8 @@
 \begin{substance}[\ce{XeF4}]
     四氟化氙,化学式为~\ce{XeF4},是无色固体,室温下易升华.
 \end{substance}
+\ce{XeF4}的晶体结构如下:
+\chemfig{XeF4}{0.125}{\ce{XeF4}的晶体结构\quad$\text{P}\,1\,21/\text{n}\,1$\quad$a=\SI{501.5}{\pico\meter},b=\SI{573.9}{\pico\meter},c=\SI{590.4}{\pico\meter},\beta=100.86^\circ$}
 \ce{XeF4}的水解是比较复杂的.总反应方程式可以表示如下:
 \begin{tightcenter}
     \ce{6XeF4 + 12H2O -> 2XeO3 + 4Xe + 3O2 + 24HF}
@@ -142,6 +170,8 @@
 \begin{substance}[\ce{XeF6}]
     六氟化氙,化学式为\ce{XeF6},是无色固体,室温下易升华,其蒸汽显现黄色.
 \end{substance}
+\ce{XeF6}的晶体结构比较复杂,其中~\ce{Xe}为七配位,形成二聚体.
+\chemfig{XeF6}{0.125}{\ce{XeF6}的晶体结构\quad$\text{P}\,2\,1/\text{c}$\quad$a=\SI{1434}{\pico\meter},b=\SI{1280}{\pico\meter},c=\SI{1853}{\pico\meter},\beta=90.02^\circ$}
 \ce{XeF6}与等量水反应生成~\ce{XeOF4},完全水解则生成~\ce{XeO3}:
 \begin{tightcenter}
     \ce{XeF6 + H2O -> XeOF4 + 2HF}\\
@@ -156,7 +186,7 @@
     三氧化氙,化学式为~\ce{XeO3},是一种无色透明的吸湿性晶体.
 \end{substance}
 \ce{XeO3}的晶体结构如下:
-\chemfig{XeO3}{0.125}{\ce{XeO3}的晶体结构}
+\chemfig{XeO3}{0.125}{\ce{XeO3}的晶体结构\quad$\text{P}\,21\,21\,21$\quad$a=\SI{616.3}{\pico\meter},b=\SI{811.5}{\pico\meter},c=\SI{523.4}{\pico\meter}$}
 \ce{XeO3}具有猛烈的爆炸性.稍有摩擦或撞击,或在潮湿的环境中就容易发生爆炸(同时伴随着蓝色的闪光):
 \begin{tightcenter}
     \ce{2XeO3 -> 2Xe + 3O2}
@@ -172,16 +202,132 @@
     \ce{2XeF6 + 16OH- -> XeO6^4- + Xe + O2 + 12F- + 8H2O}
 \end{tightcenter}
 将~\ce{Ba2XeO6}加入浓~\ce{H2SO4}中即可制得~\ce{XeO4}.这是一种极不稳定的四面体形分子,在熔融时即发生爆轰.
+\paragraph{\ce{XeO2}}
+和前面两种氧化物相比,~\ce{XeO2}则发现的相对较晚\cite{Brock2011}.由于~\ce{XeF4}水解时很容易发生歧化,因此需要在$\SI{0}{\celsius}$下,浓度为$\SI{2}{\mole\per\liter}$的~\ce{H2SO4}中对~\ce{XeF4}水解得到橙黄色固体~\ce{XeO2}.尽管使用VSEPR预测~\ce{XeO2}是折线形分子,但实际上在固体中~\ce{Xe}被四个~\ce{O}原子配位,形成平面四方形的单元(与~\ce{XeF4}类似)并与其它单元连接.
+\paragraph{\ce{Xe3O2}与~\ce{Xe2O5}}在高压下可以合成具有更加复杂计量比的~\ce{Xe3O2}与~\ce{Xe2O5}\cite{Dewaele2016}.两者的晶体结构如下所示:
+\chemfig{Xe3O2}{0.125}{\ce{Xe3O2}的晶体结构\quad$\text{I}\,\text{m}\,\text{m}\,\text{m}$\quad$a=\SI{316.6}{\pico\meter},b=\SI{409.4}{\pico\meter},c=\SI{845.7}{\pico\meter}$}
+\ce{Xe2O5}在高压贫氧条件下合成,其中含有$+4$和$0$氧化态的~\ce{Xe},比例为$1:2$.所有~\ce{Xe^{IV}}均为平面四方构型,形成沿$b$轴延伸的~\ce{[XeO2]}链,链之间的层插入了零价~\ce{Xe}原子.
+\chemfig{Xe2O5}{0.125}{\ce{Xe2O5}的晶体结构\quad$\text{P}\,4/\text{n}\,\text{c}\,\text{c}$\quad$a=b=\SI{498.0}{\pico\meter},c=\SI{997.0}{\pico\meter}$}
+\ce{Xe2O5}在高压富氧条件下合成,其中含有$+4$和$+6$氧化态的~\ce{Xe},比例为$1:1$.所有~\ce{Xe^{IV}}均为平面四方构型,而~\ce{Xe^{VI}}额外与第五个~\ce{O}原子配位形成~\ce{[XeO5]}五方锥结构.
 \subsection{含~\ce{Xe}的阴离子}
 相比于前面的化合物,对稀有气体阴离子的研究通常更为困难.这并不难理解:稀有气体具有负的电子亲和能,需要特殊的条件才能形成含有这些元素的稳定带负电离子.本部分内容主要参考\cite{Stefano2024}.
 \paragraph{\ce{XeO6^{4-}}}在所有这些阴离子中,最先被研究的是高氙酸根~\ce{XeO6^{4-}},由~\ce{XeF6}或~\ce{XeO3}与~\ce{NaOH},~\ce{KOH}和~\ce{Ba(OH)2}等氢氧化物反应得到.在这些盐的水合物中,~\ce{XeO6^{4-}}受~\ce{H2O}的影响略微偏离正八面体结构,但在无水~\ce{Na4XeO6}中~\ce{XeO6^{4-}}则表现出精确的八面体构型,属于$O_{\text{h}}$点群.
-\bichemfig{Na4XeO6(H2O)6}{0.125}{\ce{Na4XeO6.6H2O}}{Na4XeO6(H2O)8}{0.125}{\ce{Na4XeO6.8H2O}}{\ce{Na4XeO6.$n$H2O}($n=6$, $8$)的晶体结构}
-以上是两种~\ce{Na4XeO6}水合物的晶体结构,其中都具有八面体构型的~\ce{XeO6^{4-}}离子以及复杂的~\ce{Xe-O-Na}网络.对于无水\ce{Na4XeO6},其属于六方晶系,但笔者尚没有找到其具体的晶体结构.相关的数据可以参考
+\begin{figure}[H]\centering
+    \subfigure[\ce{Na4XeO6.6H2O}\quad$\text{P}\,\text{b}\,\text{c}\,\text{a}$\quad$a=\SI{587.3}{\pico\meter},b=\SI{1844}{\pico\meter},c=\SI{1010}{\pico\meter}$]{
+        \includegraphics[scale=0.125]{figure/Na4XeO6(H2O)6}
+    }
+    \subfigure[\ce{Na4XeO6.8H2O}\quad$\text{P}\,\text{b}\,\text{c}\,\text{n}$\quad$a=\SI{1187}{\pico\meter},b=\SI{1047}{\pico\meter},c=\SI{1039}{\pico\meter}$]{
+        \includegraphics[scale=0.125]{figure/Na4XeO6(H2O)8}
+    }\caption{\ce{Na4XeO6.$n$H2O}($n=6$, $8$)的晶体结构}
+\end{figure}
+以上是两种~\ce{Na4XeO6}水合物的晶体结构,其中都具有八面体构型的~\ce{XeO6^{4-}}离子以及复杂的~\ce{Xe-O-Na}网络.对于无水~\ce{Na4XeO6},其属于六方晶系,但笔者尚没有找到其具体的晶体结构,相关的数据可以参考\cite{Forgeron2007}.
+\paragraph{\ce{HXeO4^{-}}}在碱性不强的条件下,~\ce{XeO3}和~\ce{XeF6}在水溶液中也能生成~\ce{HXeO4^{-}},实际上写成~\ce{[XeO3(OH)]^-}更合适.在这一离子中,~\ce{Xe-OH}比起其它~\ce{Xe-O}键具有更低的力常数.这可以用\tbf{稀有气体键(Aerogen Bond, AeB)}进行解释\cite{Antonio2015}:对于非对称的稀有气体的氧化物和氟化物(特别是较重的稀有气体元素),电子云将在端基原子的作用下变得各向异性,在共价键的反向延长方向将出现正静电势区域(称作$\sigma-\text{hole}$),从而与其它分子/离子的负电区域(通常是孤对电子)相互作用.当然, $n\to\sigma^\ast$轨道作用也是十分重要的,尤其对于~\ce{Xe}这种较重的元素,有时能起到更主要的稳定化作用.
+\paragraph{\ce{Xe-F}阴离子}
+利用~\ce{XeF4}与~\ce{XeF6}的Lewis酸性能制备一系列~\ce{Xe-F}阴离子.\\
+\indent \ce{XeF4}与~\ce{N(CH3)4F}等氟化物供体反应可以生成具有平面正五边形构型的~\ce{XeF5-}.这是具有$D_{5\text{h}}$对称性的罕见的一个例子.以及,作为~\ce{XeF5-}的等电子体,在高压下合成的~\ce{CsF5}也是平面正五边形的.继续向~\ce{XeF5-}添加~\ce{F-}是放热的,因此目前并没有得到~\ce{XeF6^{2-}}或具有更多~\ce{F-}的~\ce{Xe^{IV}}离子.\\
+\indent \ce{XeF6}与碱金属氟化物(例如~\ce{NaF},~\ce{KF}等)或~\ce{FNO},~\ce{FNO2}和~\ce{NF4HF3}等~\ce{F-}供体反应生成~\ce{XeF7-},~\ce{XeF8^{2-}}和~\ce{Xe2F13-}的盐.对~\ce{CsXeF7}的晶体衍射结果表明~\ce{XeF7-}是具有$C_{3\text{v}}$对称性的加帽八面体构型的离子.然而,另一种$C_{2\text{v}}$对称性的结构与其能量差一很小,因此~\ce{XeF7-}实际上具有一定的流变的特性.在~\ce{[NO2][Xe2F13]}中的~\ce{[Xe2F13]-}即可认为是这种$C_{2\text{v}}$对称性的~\ce{XeF7-}与另一分子~\ce{XeF6}结合的结果.
+\begin{figure}[H]\centering
+    \subfigure[\ce{CsXeF7}\quad$\text{P}\,2\,1\,3$\quad$a=b=c=\SI{846}{\pico\meter}$]{
+        \includegraphics[scale=0.125]{figure/CsXeF7}
+    }
+    \subfigure[\ce{[NO2][Xe2F13]}\quad$\text{C}\,2/\text{m}$\quad$a=\SI{1592}{\pico\meter},b=\SI{755.3}{\pico\meter},c=\SI{864.9}{\pico\meter},\beta=94.79^\circ$]{
+        \includegraphics[scale=0.125]{figure/NO2Xe2F13}
+    }\caption{两种~\ce{XeF7-}在晶体中的结构}
+\end{figure}
+\indent 对~\ce{[NO]2XeF8}的晶体衍射结果表明~\ce{[XeF8]^{2-}}是具有四方反棱柱结构的离子,这说明价层孤对电子和~\ce{Xe}的很多高价化合物一样没有表现出空间活性.
+\chemfig{(NO)2XeF8}{0.125}{\ce{[NO]2XeF8}的晶体结构\quad$\text{P}\,\text{n}\,\text{m}\,\text{a}$\quad$a=\SI{891.4}{\pico\meter},b=\SI{594.5}{\pico\meter},c=\SI{1283}{\pico\meter}$}
+\paragraph{\ce{Xe-O-X}阴离子}
+另一类~\ce{Xe}阴离子是同时含有~\ce{Xe-O}和~\ce{Xe-F}键的物种,由~\ce{XeOF2},~\ce{XeOF4}和~\ce{XeO3}与各类卤化物供体反应得到.这类离子包括平面型的~\ce{[XeOF3]-}(具有$C_{2\text{v}}$对称性),五棱锥形的~\ce{[XeOF5]-}(具有$C_{5\text{v}}$对称性), 由\ce{F-}作为桥配体连接三个~\ce{XeOF4}单元形成的~\ce{[(XeOF4)3F]-}和以\ce{F-}作为桥连配体形成的长链形离子~\ce{[XeO3F]-}.这些离子中的键大致也可以分为普通共价键和前述的稀有气体键(AeB).后者的键长明显更长一些.\\
+\indent 如果采用其它卤素元素,可以得到结构更复杂的离子,例如~\ce{[Cl3(XeO3)3]^{3-}}和~\ce{[Cl4(XeO3)4]^{3-}}.
+\bichemfig{[XeO3Cl]33-}{1}{\ce{[Cl3(XeO3)3]^{3-}}}{[XeO3Cl]44-}{1}{\ce{[Cl4(XeO3)4]^{3-}}}{\ce{[XeO3Cl]_n^{n-}}\,$(n=3,\,4)$的结构}
+\subsection{\ce{Xe}与金属元素形成的离子}
+我们将在本节介绍一种特殊的物质:~\ce{[AuXe4]^{2+}}离子\cite{Seidel2000}.在$\SI{-40}{\celsius}$下,向溶有~\ce{AuF3}的~\ce{HF/SbF5}溶液中通入~\ce{Xe}气并加压,可以得到含有平面四方形~\ce{[AuXe4]^{2+}}离子的暗红色溶液.反应的方程式如下:
+\begin{tightcenter}
+    \ce{AuF3 + 6Xe + 3H+ -> [AuXe4]^{2+} + [Xe2]+ + 3HF}
+\end{tightcenter}
+随后结晶可得~\ce{[AuXe4][Sb2F11]2}暗红色固体,其晶体结构如下所示:
+\chemfig{AuXe4[Sb2F11]2}{0.125}{\ce{[AuXe4][Sb2F11]2}的晶体结构\quad$\text{P}\,-1$}
+可以看到平面四方形~\ce{[AuXe4]^{2+}}离子,其中~\ce{Au-Xe}键的键长为$\SI{274.0}{\pico\meter}$.\\
+\indent 在~\ce{HF/SbF5}溶液中,~\ce{Au^{III}}将被转化为~\ce{[Au(HF)4]^{3+}},几乎可以视作一个裸露的~\ce{Au^3+}离子,因而具有极强的氧化性.在反应的固体混合物中也检测到了绿色的副产物~\ce{[Xe2][Sb4F21]}.\\
+\indent \ce{[AuXe4][Sb2F11]2}固体在$\SI{-40}{\celsius}$以下稳定,升温将导致其分解释放出~\ce{Xe}气体,颜色由暗红色变为浅橙色.如果对前述含有~\ce{[AuXe4]2+}的溶液减压去除~\ce{Xe},可以结晶生成罕见的含有~\ce{Au^2+}离子的化合物~\ce{Au(SbF6)2}.
 \section{其它0族元素的化学性质}
-\ce{Kr}也能形成与~\ce{XeF2}类似的~\ce{KrF2}.几十年来,所有0族元素都已经制备得到了化合物(尽管大部分都很不稳定).唯独~\ce{He}难以形成化合物.几年前合成的~\ce{Na2He}(还出现在了初赛试题中)实际上写成~\ce{(Na+)2(e^-)2He}更为合适,其中的~\ce{He}似乎并没有形成化合物的倾向.与其认为这是~\ce{He}的化合物,不如说是~\ce{He}吸附在晶格中的加合物.0族元素的性质与反应仍然有很多值得探究之处.
+几十年来,所有0族元素都已经制备得到了化合物(尽管大部分都很不稳定).例如,~\ce{Kr}能形成与~\ce{XeF2}结构类似的~\ce{KrF2}.这些物质的性质与结构可以参考~\ce{Xe}的类似化合物.这里我们介绍一类独特的物质.
+\subsection{高压下的稀有气体阴离子}
+稀有气体元素的闭壳层结构阻止了将电子填入其价轨道.事实上,在体相中制备或在气相中检测到的含稀有气体的阴离子中,稀有气体元素总是处于零或正氧化态.后来,人们发现在高达几百GPa的压力下工作,可以制备出含有带负电~\ce{Ng}(代表稀有气体元素)原子的化合物.\\
+\indent 在高于$\SI{125}{\giga\pascal}$的压力下可以观察到~\ce{MeXe}和~\ce{Mg2Xe}的生成.压力继续升高至$\SI{250}{\giga\pascal}$后预测也可以生成~\ce{Kr}和~\ce{Ar}的类似物.在这类物质中,除去~\ce{Xe}的周围外,相邻的~\ce{Mg}之间也有明显的电子密度较高的区域\cite{Miao2015},这表明晶格空间中存在量子化的轨道并被电子占据,形成间隙准原子(Interstitial Quastiatom, ISQ).\\
+\indent 这类化合物中比较著名的是~\ce{Na2He}.这也是首次合成的~\ce{He}的化合物,由两种单质在金刚石对顶砧中以超过$\SI{160}{\giga\pascal}$的压力合成.~\ce{Na2He}具有典型的反萤石型结构,~\ce{Na}原子做简单立方堆积,~\ce{He}原子填入一半的立方体空隙中.电子密度图显示另一半空置的立方体空隙也具有较高的电子密度,这说明~\ce{Na2He}也是一种电子化合物,其组成写作~\ce{(Na+)2(e^-)2He}更为合适.在~\ce{Na}和~\ce{He}上的电荷分别约为$+0.6\,\e$和$-0.15\,\e$,而形式上的$2\e^-$中心的电荷约为$-1.1\,\e$.理论计算也预测了~\ce{Li2He}的存在,但更重的碱金属形成的~\ce{K2He},~\ce{Rb2He}和~\ce{Cs2He}在$\SI{1000}{\giga\pascal}$下都不能稳定存在.这可能是较重的碱金属在高压下发生了$n\text{s}$电子到$(n-1)\text{d}$电子的跃迁,变得更加局域化而倾向于不给出电子导致的.
 \section*{习题}
-\begin{problem}{你好}{20}{18}
-    2017年, X.Dong课题组在超过$\SI{115}{\giga\pascal}$合成出一个重要的~\ce{Na}与稀有气体的化合物
+\begin{problem}{}{20}{18}
+    \subproblem 2017年, X.Dong课题组在超过$\SI{115}{\giga\pascal}$合成出一个重要的~\ce{Na}与稀有气体\bfarial{X}的化合物\bfarial{A},其中~\ce{Na}的质量分数是$92.00\%$.晶体\bfarial{A}所属的空间群为$\text{F}\ \text{m}\ \bar{3}\ \text{m}$.
+    \subsubproblem 写出\bfarial{A}的能表达其实际组成的化学式.
+    \subsubproblem \bfarial{A}中所有原子/离子构成的结构与哪种经典晶体相似?描述\bfarial{A}的结构,写出~\ce{Na}的堆积方式, \bfarial{X}的填隙方式和填隙率.
+    \subsubproblem \bfarial{X}的一种重要同位素存在于嫦娥石中,可以将中子转化为质子.写出核反应方程式.
+    \subproblem \ce{^{249}Cf}被某一原子轰击得到~\ce{^{294}Og}与3个中子.写出核反应方程式.
+    \subproblem \ce{Xe}的氧化物具有独特的结构.
+    \subsubproblem 写出~\ce{Xe3O2},~\ce{XeO3}和~\ce{XeO2}的空间点阵型式.
+    \subsubproblem 已知~\ce{XeO2}在$c=0.25$, $c=0.75$处有$a$轴滑移面,其中一个~\ce{Xe}原子的坐标为$(0.6964,0.7500,0.4651)$.给出其余~\ce{Xe}原子的坐标.
 \end{problem}
-\printbibliography[title={\Large 参考文献}]
+\begin{problem}{}{15}{9}
+    \subproblem 分子之间的范德华力可以分为诱导力,色散力和取向力三种.
+    \subsubproblem 写出上述三种力的区别.
+    \subsubproblem 指出稀有气体原子之间的范德华力主要是上述哪一种.
+    \subproblem 不能在常压下固化的元素是哪种?
+    \subproblem 在电场作用下产生明亮的橙红色光,用于制造霓虹灯的元素是哪种?
+    \subproblem 哪种元素的光谱线被用作划分分光器刻度的标准?
+    \subproblem 哪种元素在电场激发下放出强烈白光,有人造小太阳之称?
+    \subproblem 填充升空的气象气球的元素是哪种?
+    \subproblem \ce{Xe}与~\ce{F2}的反应应当采用哪种反应器?为什么在反应前要先用~\ce{F2}处理反应器?
+    \subproblem 写出~\ce{He}到~\ce{Rn}的希腊文或拉丁文名字对应的含义.
+\end{problem}
+\begin{problem}{}{10}{10}
+    将人的声道视作一端封闭(喉咙),一端开放(嘴)的管.在声道中产生的声波$p(x,t)$可以写成
+    \[p(x,t)=P(x)\cos(\omega t)\]
+    表示$t$时刻在$x$位置时声波产生的额外压强.空间部分$P(x)$满足一维波动方程
+    \[\dfrac{\d^2 P}{\d x^2}+k^2P=0\]
+    其中$k$是波数, $\omega$是角频率,满足$k=\dfrac{\omega}{v}$, $v$是波速.封闭端要求空气保持静止,而开放端要求压强始终保持与外压相同.
+    \subproblem 根据上述条件推导人的声道产生声音的频率$f$与声道长度$L$, 声音在介质中的波速$v$之间的关系.
+    \subproblem 在理想气体中,声速$c$满足
+    \[c=\sqrt{\dfrac{\gamma p}{\rho}}=\sqrt{\dfrac{\gamma RT}{M}}\]
+    其中$\gamma$是气体的绝热指数, $M$是气体的分子量.将空气视作成分均一的双原子理想气体,~\ce{He}气视作理想气体,并保持其它条件相同,计算人在两种气体中发出声音的频率之比.
+    \subproblem 在音乐中,两个声音的频率比决定其音程:若频率比$r=2^n$，则二者相差$n$个八度。假设某人在空气中以正常方式唱出中央C(频率记为 $f_C$);在氦气中,他保持相同的发声方式,计算此时实际发出的声音相对于中央C升高的半音数,精确到整数;也可以写出此时的音高记号.
+\end{problem}
+\begin{problem}{}{10}{10}
+    元素\bfarial{X}的化合物很难制备. \bfarial{X}与~\ce{F2},~\ce{ClF2}共同反应得到\bfarial{X}的二氟化物(\textit{反应1},产物的计量比为$1:3$). \bfarial{X}与~\ce{O2F2}反应可以得到二氟化物(\textit{反应2})或四氟化物(\textit{反应3}). \bfarial{X}与~\ce{F2}在高压下反应得到六氟化物,六氟化物水解后\bfarial{X}全部转化为单质(\textit{反应4}).
+    \subproblem 写出\bfarial{X}的元素符号.
+    \subproblem 写出\textit{反应1}到\textit{反应4}的方程式.
+\end{problem}
+\begin{problem}{书写反应方程式}{28}{25}
+    写出下面的反应方程式.
+    \subproblem \ce{XeF4}与~\ce{Pt}单质反应.
+    \subproblem 不能用玻璃或石英器皿盛装~\ce{XeF6}.
+    \refstepcounter{subproblem}
+    \subsubproblem 向~\ce{XeO3}的~\ce{NaOH}溶液中通一种单质气体,得到水合高氙酸钠,其中~\ce{O}的质量分数为$48.34\%$.
+    \subsubproblem 由高氙酸钠制备~\ce{XeO4}.
+    \subproblem 分别写出~\ce{XeF_n}$(n=2,4,6)$水解的反应方程式.
+    \subproblem 借助~\ce{XeF2}第一次用化学方法制备出一种非金属元素的最高价含氧酸根.
+    \subproblem \ce{HXeO4-}在碱中歧化,两种含~\ce{Xe}产物的比例为$1:1$.
+    \subproblem \ce{XeO3}与~\ce{NH3},~\ce{Mn^{2+}}反应.
+    \subproblem \ce{FXeOSO2F}分解,三种产物的比例为$1:1:1$.
+    \subproblem \ce{XeF2}与~\ce{HN(SO2F)2}在~\ce{AsF5}中$1:1$反应得到浅黄色$1:1$离子化合物.
+    \subproblem \ce{XeF2}与\ce{C2F6}以等离子体反应.
+\end{problem}
+\begin{problem}{}{50}{38}
+    \subproblem 用VSEPR理论预测~\ce{XeF3+},~\ce{XeO2F2},~\ce{XeF5-}和\ce{XeF8^{2-}}的立体构型.
+    \subproblem 画出~\ce{XeF2}中$3\text{c}-4\e$键的示意图,示出轨道符号和相位.
+    \refstepcounter{subproblem}
+    \subsubproblem 画出~\ce{[KrF][SbF6]}的阴阳离子的结构,比较阳离子中~\ce{Kr-F}键与~\ce{KrF2}中~\ce{Kr-F}键的键长大小.
+    \subsubproblem 画出~\ce{2KrF2.[BrOF2][AsF6]}和~\ce{4KrF2.[Mg(AsF6)2]}的结构.
+    \subsubproblem \ce{Hg(AsF6)2}与大过量的~\ce{KrF2}在无水~\ce{HF}中反应,得到一种含~\ce{F}~$35.78\%$的晶体\bfarial{A}.画出\bfarial{A}中阳离子的结构,其中不含有溶剂分子.
+    \subproblem 固态~\ce{XeF6}的一种形式为~\ce{\{[XeF5]+F^-\}3.XeF6},其中存在三种化学环境不同的~\ce{Xe},存在两种配位数不同的~\ce{Xe}以及两个六元桥环.画出其结构.
+    \refstepcounter{subproblem}
+    \subsubproblem \ce{[XeF][AsF6]}与~\ce{HF}中的~\ce{H2O}反应得到一种Z型离子,写出反应方程式,画出该离子的结构.
+    \subsubproblem 用~\ce{SbCl5}处理\ce{[XeF][SbF6]}可以得到含~\ce{Xe-Cl}键的化合物\bfarial{B},其中~\ce{Cl}的质量分数为$5.72\%$.画出\bfarial{B}的结构,写出其分解反应方程式.
+    \subproblem 画出~\ce{XeO3Cl2^{2-}}离子,其中一半的~\ce{Cl}原子为对称中心.
+    \subproblem \ce{[C6F5Xe]+[AsF6]-}与~\ce{TMSCl}按$1:3$的比例反应,写出反应方程式并画出产物中含~\ce{Xe}的阳离子的结构.
+    \subproblem \ce{ReO3F}与~\ce{XeF2}在无水~\ce{HF}中反应得到一种$C_{2\text{h}}$点群的离子,产物的分子式为~\ce{Re4Xe3O10F14}.画出产物的结构.
+    \refstepcounter{subproblem}
+    \subsubproblem \ce{XeO3}与~\ce{[N(CH3)4]Br}反应得到~\ce{Br3(XeO3)3^{3-}},三个\ce{Xe}的配位数相同而化学环境不同,~\ce{Br}具有两种化学环境.画出该离子的结构.
+    \subsubproblem \ce{XeO3}与~\ce{[N(CH3CH2)4]Br}反应得到有对称中心的~\ce{Br4(XeO3)4^{4-}},四个\ce{Xe}的配位数相同,~\ce{Br}具有两种配位数.画出该离子的结构.
+\end{problem}
+%\printbibliography[title={\Large 参考文献}]
 \end{document}

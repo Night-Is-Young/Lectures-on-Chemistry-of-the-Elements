@@ -1,0 +1,55 @@
+\documentclass{standalone}
+\usepackage{Note}
+\begin{document}
+\begin{tikzpicture}
+    \draw[-] (-0.5,0) node[left]{$1\text{a}_{1\text{g}}$} -- (0.5,0);
+    \draw[-] (-0.5,2) -- (0.5,2);
+    \draw[-] (-0.7,2) -- (0.-1.7,2) node[left]{$1\text{t}_{1\text{u}}$};
+    \draw[-] (0.7,2) -- (1.7,2);
+    \draw[-] (-0.2,4) -- (-1.2,4) node[left]{$\text{e}_{\text{g}}$};
+    \draw[-] (0.2,4) -- (1.2,4);
+    \draw[-] (-0.5,6) node[left]{$2\text{a}_{1\text{g}}$} -- (0.5,6);
+    \draw[-] (-0.5,8) -- (0.5,8);
+    \draw[-] (-0.7,8) -- (0.-1.7,8) node[left]{$2\text{t}_{1\text{u}}$};
+    \draw[-] (0.7,8) -- (1.7,8);
+
+    \draw[-] (-4,1.8) -- (-5,1.8) node[left]{$\text{a}_{1\text{g}}(5\text{s})$};
+    \draw[-] (-4,6.2) -- (-5,6.2) node[left]{$\text{a}_{1\text{g}}(5\text{s})$};
+    \draw[-] (-4,6.4) -- (-5,6.4);
+    \draw[-] (-4,6) -- (-5,6);
+
+    \draw[-] (4,2) -- (5,2) node[right] {$\text{a}_{1\text{g}}$};
+    \draw[-] (4,3) -- (5,3) node[right] {$\text{t}_{1\text{u}}$};
+    \draw[-] (4,3.2) -- (5,3.2);
+    \draw[-] (4,2.8) -- (5,2.8);
+    \draw[-] (4,3.9) -- (5,3.9);
+    \node[right] at (5,4) {$\text{e}_{\text{g}}$};
+    \draw[-] (4,4.1) -- (5,4.1);
+
+    \draw[-latex,thick] (0.1,-0.5) -- (0.1,0.5);
+    \draw[-latex,thick] (-0.1,0.5) -- (-0.1,-0.5);
+    \draw[-latex,thick] (0.1,1.5) -- (0.1,2.5);
+    \draw[-latex,thick] (-0.1,2.5) -- (-0.1,1.5);
+    \draw[-latex,thick] (1.3,1.5) -- (1.3,2.5);
+    \draw[-latex,thick] (1.1,2.5) -- (1.1,1.5);
+    \draw[-latex,thick] (-1.1,1.5) -- (-1.1,2.5);
+    \draw[-latex,thick] (-1.3,2.5) -- (-1.3,1.5);
+    \draw[-latex,thick] (0.8,3.5) -- (0.8,4.5);
+    \draw[-latex,thick] (0.6,4.5) -- (0.6,3.5);
+    \draw[-latex,thick] (-0.6,3.5) -- (-0.6,4.5);
+    \draw[-latex,thick] (-0.8,4.5) -- (-0.8,3.5);
+    \draw[-latex,thick] (0.1,5.5) -- (0.1,6.5);
+    \draw[-latex,thick] (-0.1,6.5) -- (-0.1,5.5);
+
+    \draw[dashed] (-4,1.8) -- (-0.5,0);
+    \draw[dashed] (-4,1.8) -- (-0.5,6);
+    \draw[dashed] (-4,6.2) -- (-1.7,8);
+    \draw[dashed] (-4,6.2) -- (-1.7,2);
+
+    \draw[dashed] (4,2) -- (0.5,0);
+    \draw[dashed] (4,2) -- (0.5,6);
+    \draw[dashed] (4,3) -- (1.7,2);
+    \draw[dashed] (4,3) -- (1.7,8);
+    \draw[dashed] (4,4) -- (1.3,4);
+\end{tikzpicture}
+\end{document}

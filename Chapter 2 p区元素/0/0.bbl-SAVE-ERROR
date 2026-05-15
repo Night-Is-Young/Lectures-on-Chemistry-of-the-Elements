@@ -74,6 +74,127 @@
       \endverb
       \keyw{XePtF,Diamagnetic,X-ray powder diffraction pattern}
     \endentry
+    \entry{Brock2011}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=55448ca0cd4bcfabdd091b3c7a87ecec}{%
+           family={Brock},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=98665fd539fadbe92e0a4accfbcee47a}{%
+           family={Schrobilgen},
+           familyi={S\bibinitperiod},
+           given={Gary\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1168270ee4c22208d0926a9115a47c87}
+      \strng{fullhash}{1168270ee4c22208d0926a9115a47c87}
+      \strng{fullhashraw}{1168270ee4c22208d0926a9115a47c87}
+      \strng{bibnamehash}{1168270ee4c22208d0926a9115a47c87}
+      \strng{authorbibnamehash}{1168270ee4c22208d0926a9115a47c87}
+      \strng{authornamehash}{1168270ee4c22208d0926a9115a47c87}
+      \strng{authorfullhash}{1168270ee4c22208d0926a9115a47c87}
+      \strng{authorfullhashraw}{1168270ee4c22208d0926a9115a47c87}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{note}{PMID: 21341650}
+      \field{number}{16}
+      \field{title}{Synthesis of the Missing Oxide of Xenon, XeO2, and Its Implications for Earth’s Missing Xenon}
+      \field{volume}{133}
+      \field{year}{2011}
+      \field{pages}{6265\bibrangedash 6269}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1021/ja110618g
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/ja110618g
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/ja110618g
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/ja110618g
+      \endverb
+    \endentry
+    \entry{Dewaele2016}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=492e71ff951a9be8436d9d80de2492c2}{%
+           family={Dewaele},
+           familyi={D\bibinitperiod},
+           given={Agnès},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8a4785682b293a1cd7cff89c365d93cf}{%
+           family={Worth},
+           familyi={W\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=6ebf00d61083a102f1ddfda6d95c9c98}{%
+           family={Pickard},
+           familyi={P\bibinitperiod},
+           given={Chris\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=2db46be00ba5ac84cc10f4bfd998a0da}{%
+           family={Needs},
+           familyi={N\bibinitperiod},
+           given={Richard\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=99034cdae22cbdb03f564181466ce8ed}{%
+           family={Pascarelli},
+           familyi={P\bibinitperiod},
+           given={Sakura},
+           giveni={S\bibinitperiod}}}%
+        {{hash=78ee65a1234b73d099e54cc8d0af848f}{%
+           family={Mathon},
+           familyi={M\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=246725eb3410d6826feb01c5be6ce38b}{%
+           family={Mezouar},
+           familyi={M\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=505215a9d17207094b356424a8366fd3}{%
+           family={Irifune},
+           familyi={I\bibinitperiod},
+           given={Tetsuo},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{8a16470622e465f4dde05dc602aa2873}
+      \strng{fullhash}{e77053c7dab0b9d97a4f3840f56de0f8}
+      \strng{fullhashraw}{e77053c7dab0b9d97a4f3840f56de0f8}
+      \strng{bibnamehash}{e77053c7dab0b9d97a4f3840f56de0f8}
+      \strng{authorbibnamehash}{e77053c7dab0b9d97a4f3840f56de0f8}
+      \strng{authornamehash}{8a16470622e465f4dde05dc602aa2873}
+      \strng{authorfullhash}{e77053c7dab0b9d97a4f3840f56de0f8}
+      \strng{authorfullhashraw}{e77053c7dab0b9d97a4f3840f56de0f8}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The noble gases are the most inert group of the periodic table, but their reactivity increases with pressure. Diamond-anvil-cell experiments and ab initio modelling have been used to investigate a possible direct reaction between xenon and oxygen at high pressures. We have now synthesized two oxides below 100 GPa (Xe2O5 under oxygen-rich conditions, and Xe3O2 under oxygen-poor conditions), which shows that xenon is more reactive under pressure than predicted previously. Xe2O5 was observed using X-ray diffraction methods, its structure identified through ab initio random structure searching and confirmed using X-ray absorption and Raman spectroscopies. The experiments confirm the recent prediction of Xe3O2 as a stable xenon oxide under high pressure. Xenon atoms adopt mixed oxidation states of 0 and +4 in Xe3O2 and +4 and +6 in Xe2O5. Xe3O2 and Xe2O5 form extended networks that incorporate oxygen-sharing XeO4 squares, and Xe2O5 additionally incorporates oxygen-sharing XeO5 pyramids. Other xenon oxides (XeO2, XeO3) are expected to form at higher pressures.}
+      \field{issn}{1755-4349}
+      \field{journaltitle}{Nature Chemistry}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Synthesis and stability of xenon oxides Xe2O5 and Xe3O2 under pressure}
+      \field{volume}{8}
+      \field{year}{2016}
+      \field{pages}{784\bibrangedash 790}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1038/nchem.2528
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/nchem.2528
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/nchem.2528
+      \endverb
+    \endentry
     \entry{Stefano2024}{article}{}{}
       \name{author}{4}{}{%
         {{hash=d0bc26106bc35dd43bb100ea364a9c94}{%
@@ -105,8 +226,8 @@
       \strng{authornamehash}{742e287e2d801a4c80f4e1704481560b}
       \strng{authorfullhash}{815418767dffb4dd888b5a40b6e13336}
       \strng{authorfullhashraw}{815418767dffb4dd888b5a40b6e13336}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Abstract This review article aims to provide an overview of the strategies employed to prepare noble gas anions under different environments and experimental conditions, and of the bonding motifs typically occurring in these species. Observed systems include anions fixed into synthesized salts, detected in the gas phase or in high-pressure devices. The major role of the theoretical calculations is also highlighted, not only in support of the experiments, but also as effective in predicting still unreported species. The chemistry of noble gas anions overall appears as a varied and rich paint, offering fascinating opportunities for both experimentalists and theoreticians.}
@@ -130,6 +251,226 @@
       \verb https://aces.onlinelibrary.wiley.com/doi/abs/10.1002/asia.202400191
       \endverb
       \keyw{gas-phase chemistry,high-pressure chemistry,noble gas anions,synthetic chemistry,theoretical calculations}
+    \endentry
+    \entry{Forgeron2007}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=1d6c2c26caf2eb05975111cdd1c546e7}{%
+           family={Forgeron},
+           familyi={F\bibinitperiod},
+           given={Michelle\bibnamedelimb A.\bibnamedelimi M.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8b7cae6de69d505862a2a5433a65441c}{%
+           family={Wasylishen},
+           familyi={W\bibinitperiod},
+           given={Roderick\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=aa230bbad7f32e158d96856bdbb9d038}{%
+           family={Gerken},
+           familyi={G\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=98665fd539fadbe92e0a4accfbcee47a}{%
+           family={Schrobilgen},
+           familyi={S\bibinitperiod},
+           given={Gary\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{9bc1a1a89209df967d63236c71c8cc72}
+      \strng{fullhash}{9b9875784b665080060621687265710f}
+      \strng{fullhashraw}{9b9875784b665080060621687265710f}
+      \strng{bibnamehash}{9b9875784b665080060621687265710f}
+      \strng{authorbibnamehash}{9b9875784b665080060621687265710f}
+      \strng{authornamehash}{9bc1a1a89209df967d63236c71c8cc72}
+      \strng{authorfullhash}{9b9875784b665080060621687265710f}
+      \strng{authorfullhashraw}{9b9875784b665080060621687265710f}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Inorganic Chemistry}
+      \field{note}{PMID: 17385852}
+      \field{number}{9}
+      \field{title}{Solid-State 129Xe and 131Xe NMR Study of the Perxenate Anion XeO64-}
+      \field{volume}{46}
+      \field{year}{2007}
+      \field{pages}{3585\bibrangedash 3592}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1021/ic0624524
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/ic0624524
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/ic0624524
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/ic0624524
+      \endverb
+    \endentry
+    \entry{Antonio2015}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=62ae4e863e149e3198dcdc023df1b627}{%
+           family={Bauzá},
+           familyi={B\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=072ffcb45b6b4b4e9ed7ea9241eb20e0}{%
+           family={Frontera},
+           familyi={F\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c488c3ef39b0095772bf6307262d8fea}
+      \strng{fullhash}{c488c3ef39b0095772bf6307262d8fea}
+      \strng{fullhashraw}{c488c3ef39b0095772bf6307262d8fea}
+      \strng{bibnamehash}{c488c3ef39b0095772bf6307262d8fea}
+      \strng{authorbibnamehash}{c488c3ef39b0095772bf6307262d8fea}
+      \strng{authornamehash}{c488c3ef39b0095772bf6307262d8fea}
+      \strng{authorfullhash}{c488c3ef39b0095772bf6307262d8fea}
+      \strng{authorfullhashraw}{c488c3ef39b0095772bf6307262d8fea}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract We report evidence of the favorable noncovalent interaction between a covalently bonded atom of Group 18 (known as noble gases or aerogens) and a negative site, for example, a lone pair of a Lewis base or an anion. It involves a region of positive electrostatic potential (σ-hole), therefore it is a totally new and unexplored σ-hole-based interaction, namely aerogen bonding. We demonstrate for the first time the existence of σ-hole regions in aerogen derivatives by means of high-level ab initio calculations. In addition, several crystal structures retrieved from the Cambridge Structural Database (CSD) give reliability to the calculations. Energetically, aerogen bonds are comparable to hydrogen bonds and other σ-hole-based interactions but less directional. They are expected to be important in xenon chemistry.}
+      \field{journaltitle}{Angewandte Chemie International Edition}
+      \field{number}{25}
+      \field{title}{Aerogen Bonding Interaction: A New Supramolecular Force?}
+      \field{volume}{54}
+      \field{year}{2015}
+      \field{pages}{7340\bibrangedash 7343}
+      \range{pages}{4}
+      \verb{doi}
+      \verb https://doi.org/10.1002/anie.201502571
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.201502571
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201502571
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201502571
+      \endverb
+      \keyw{ab initio calculations,aerogens,noncovalent interactions,supramolecular chemistry,xenon}
+    \endentry
+    \entry{Seidel2000}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=4ef74b32799e2c8b17272e6ebccbd791}{%
+           family={Seidel},
+           familyi={S\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a0f3187a4918b7e706cf6237d2e39d82}{%
+           family={Seppelt},
+           familyi={S\bibinitperiod},
+           given={Konrad},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{742e3bdcb4231d6b89a044dfad8a4446}
+      \strng{fullhash}{742e3bdcb4231d6b89a044dfad8a4446}
+      \strng{fullhashraw}{742e3bdcb4231d6b89a044dfad8a4446}
+      \strng{bibnamehash}{742e3bdcb4231d6b89a044dfad8a4446}
+      \strng{authorbibnamehash}{742e3bdcb4231d6b89a044dfad8a4446}
+      \strng{authornamehash}{742e3bdcb4231d6b89a044dfad8a4446}
+      \strng{authorfullhash}{742e3bdcb4231d6b89a044dfad8a4446}
+      \strng{authorfullhashraw}{742e3bdcb4231d6b89a044dfad8a4446}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The first metal-xenon compound with direct gold-xenon bonds is achieved by reduction of AuF3 with elemental xenon. The square planar AuXe4 2+ cation is established by a single-crystal structure determination, with a gold-xenon bond length of approximately 274 picometers. The bonding between gold and xenon is of the σ donor type, resulting in a charge of approximately 0.4 per xenon atom.}
+      \field{journaltitle}{Science}
+      \field{number}{5489}
+      \field{title}{Xenon as a Complex Ligand: The Tetra Xenono Gold(II) Cation in AuXe<sub>4</sub><sup>2+</sup>(Sb<sub>2</sub>F<sub>11</sub><sup>\&\#x2212;</sup>)<sub>2</sub>}
+      \field{volume}{290}
+      \field{year}{2000}
+      \field{pages}{117\bibrangedash 118}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1126/science.290.5489.117
+      \endverb
+      \verb{eprint}
+      \verb https://www.science.org/doi/pdf/10.1126/science.290.5489.117
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.290.5489.117
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.290.5489.117
+      \endverb
+    \endentry
+    \entry{Miao2015}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=1f56bcb96618e7753b1a8e5296c0aabd}{%
+           family={Miao},
+           familyi={M\bibinitperiod},
+           given={Mao-sheng},
+           giveni={M\bibinithyphendelim s\bibinitperiod}}}%
+        {{hash=5541b5e9767018cf70919959486428d2}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiao-li},
+           giveni={X\bibinithyphendelim l\bibinitperiod}}}%
+        {{hash=efae3786db8343e16637fddcfe996e68}{%
+           family={Brgoch},
+           familyi={B\bibinitperiod},
+           given={Jakoah},
+           giveni={J\bibinitperiod}}}%
+        {{hash=184ccb1f1c0d1e6fcc9ca978a6e68ed9}{%
+           family={Spera},
+           familyi={S\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f6597d6dba387de3818c0b060b049eae}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={Matthew\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=f1fc417aebe95da1d0a5a49dd74a0d67}{%
+           family={Kresse},
+           familyi={K\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod}}}%
+        {{hash=52054e23ba6cf18743ad67e8a8920288}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Hai-qing},
+           giveni={H\bibinithyphendelim q\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f8c9c5928b57c6e8f404bce6c669451}
+      \strng{fullhash}{3d9ee4dacd9d09562c07e0fa02bfc8ee}
+      \strng{fullhashraw}{3d9ee4dacd9d09562c07e0fa02bfc8ee}
+      \strng{bibnamehash}{3d9ee4dacd9d09562c07e0fa02bfc8ee}
+      \strng{authorbibnamehash}{3d9ee4dacd9d09562c07e0fa02bfc8ee}
+      \strng{authornamehash}{2f8c9c5928b57c6e8f404bce6c669451}
+      \strng{authorfullhash}{3d9ee4dacd9d09562c07e0fa02bfc8ee}
+      \strng{authorfullhashraw}{3d9ee4dacd9d09562c07e0fa02bfc8ee}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{note}{PMID: 26488848}
+      \field{number}{44}
+      \field{title}{Anionic Chemistry of Noble Gases: Formation of Mg–NG (NG = Xe, Kr, Ar) Compounds under Pressure}
+      \field{volume}{137}
+      \field{year}{2015}
+      \field{pages}{14122\bibrangedash 14128}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1021/jacs.5b08162
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/jacs.5b08162
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/jacs.5b08162
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/jacs.5b08162
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

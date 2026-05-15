@@ -2380,7 +2380,13 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">GRAHAM2000321</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">Stefano2024</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">Brock2011</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">Dewaele2016</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">Stefano2024</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Forgeron2007</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">Antonio2015</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">Seidel2000</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">Miao2015</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
@@ -2392,14 +2398,4 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
-  <bcf:datalist section="0"
-                name="none/global//global/global/global"
-                type="entry"
-                sortingtemplatename="none"
-                sortingnamekeytemplatename="global"
-                labelprefix=""
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global"
-                namehashtemplatename="global">
-  </bcf:datalist>
 </bcf:controlfile>
