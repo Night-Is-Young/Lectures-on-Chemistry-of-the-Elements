@@ -16,5 +16,214 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{Hollerman2001}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=b8e06279e5dfd5983f35113669146d39}{%
+           family={Hollerman},
+           familyi={H\bibinitperiod},
+           given={Arnold},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{b8e06279e5dfd5983f35113669146d39}
+      \strng{fullhash}{b8e06279e5dfd5983f35113669146d39}
+      \strng{fullhashraw}{b8e06279e5dfd5983f35113669146d39}
+      \strng{bibnamehash}{b8e06279e5dfd5983f35113669146d39}
+      \strng{authorbibnamehash}{b8e06279e5dfd5983f35113669146d39}
+      \strng{authornamehash}{b8e06279e5dfd5983f35113669146d39}
+      \strng{authorfullhash}{b8e06279e5dfd5983f35113669146d39}
+      \strng{authorfullhashraw}{b8e06279e5dfd5983f35113669146d39}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0123526515}
+      \field{note}{Accessed 2013-12-19}
+      \field{title}{Inorganic Chemistry}
+      \field{year}{2001}
+      \field{pages}{423}
+      \range{pages}{1}
+    \endentry
+    \entry{Jabeen2020}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=50c2107bee1edfd0e4e5a0086566d6b4}{%
+           family={Jabeen},
+           familyi={J\bibinitperiod},
+           given={Shakeela},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2849345989b3b45c3340ea7aaa8d959f}{%
+           family={Greer},
+           familyi={G\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c4c79d67a2583a22e2517ae145cdce96}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={Kathleen\bibnamedelima F.},
+           giveni={K\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=aacd383dec67e1f55388735c0776a7e7}{%
+           family={Liebman},
+           familyi={L\bibinitperiod},
+           given={Joel\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{19a8e8af85b6c3d7289c49ae25f3e9e9}
+      \strng{fullhash}{a15ce6dfc5b703ec1f75d8e48f9a06fa}
+      \strng{fullhashraw}{a15ce6dfc5b703ec1f75d8e48f9a06fa}
+      \strng{bibnamehash}{a15ce6dfc5b703ec1f75d8e48f9a06fa}
+      \strng{authorbibnamehash}{a15ce6dfc5b703ec1f75d8e48f9a06fa}
+      \strng{authornamehash}{19a8e8af85b6c3d7289c49ae25f3e9e9}
+      \strng{authorfullhash}{a15ce6dfc5b703ec1f75d8e48f9a06fa}
+      \strng{authorfullhashraw}{a15ce6dfc5b703ec1f75d8e48f9a06fa}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract A unique approach is used to relate the HOMO-LUMO energy difference to the difference between the ionization potential (IP) and electron affinity (EA) to assist in deducing not only the colors, but also chromophores in elemental nonmetals. Our analysis focuses on compounds with lone pair electrons and σ electrons, namely X2 (X = F, Cl, Br, I), S8 and P4. For the dihalogens, the [IP – EA] energies are found to be: F2 (12.58 eV), Cl2 (8.98 eV), Br2 (7.90 eV), I2 (6.78 eV). We suggest that the interahalogen X–X bond itself is the chromophore for these dihalogens, in which the light absorbed by the F2, Cl2, Br2, I2 leads to longer wavelengths in the visible by a π → σ* transition. Trace impurities are a likely case of cyclic S8 which contains amounts of selenium leading to a yellow color, where the [IP – EA] energy of S8 is found to be 7.02 eV. Elemental P4 with an [IP – EA] energy of 9.09 eV contains a tetrahedral and σ aromatic structure. In future work, refinement of the analysis will be required for compounds with π electrons and σ electrons, such as polycyclic aromatic hydrocarbons (PAHs).}
+      \field{journaltitle}{Photochemistry and Photobiology}
+      \field{number}{5}
+      \field{title}{Why are the Elemental Nonmetals (F2, Cl2, Br2, I2, S8, P4) of so Many Hues or of Any Hues and Where is the Chromophore? Insight into Intera-X–X Bonds}
+      \field{volume}{96}
+      \field{year}{2020}
+      \field{pages}{1140\bibrangedash 1143}
+      \range{pages}{4}
+      \verb{doi}
+      \verb https://doi.org/10.1111/php.13270
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1111/php.13270
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/php.13270
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/php.13270
+      \endverb
+    \endentry
+    \entry{Jordan1964}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=10baa6a3ad7c1b1f87b4bdc1f456662d}{%
+           family={Jordan},
+           familyi={J\bibinitperiod},
+           given={T.\bibnamedelimi H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=bca1b7057c1f048f9fd50336ccdc13aa}{%
+           family={Streib},
+           familyi={S\bibinitperiod},
+           given={W.\bibnamedelimi D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=af6de6a63c85aa70cf7f851cb11f29b0}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={H.\bibnamedelimi W.},
+           giveni={H\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=f33eafd3c28decaf855dc7f79f838dd2}{%
+           family={Lipscomb},
+           familyi={L\bibinitperiod},
+           given={W.\bibnamedelimi N.},
+           giveni={W\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{175e99ba3063e7a04f8fa49ae3673581}
+      \strng{fullhash}{d60aea2dd756be819c6b9ccc50501194}
+      \strng{fullhashraw}{d60aea2dd756be819c6b9ccc50501194}
+      \strng{bibnamehash}{d60aea2dd756be819c6b9ccc50501194}
+      \strng{authorbibnamehash}{d60aea2dd756be819c6b9ccc50501194}
+      \strng{authornamehash}{175e99ba3063e7a04f8fa49ae3673581}
+      \strng{authorfullhash}{d60aea2dd756be819c6b9ccc50501194}
+      \strng{authorfullhashraw}{d60aea2dd756be819c6b9ccc50501194}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Crystallographica}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{{Single-crystal studies of {$\beta$}-F${\sb 2}$ and of {$\gamma$}-O${\sb 2}$}}
+      \field{volume}{17}
+      \field{year}{1964}
+      \field{pages}{777\bibrangedash 778}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1107/S0365110X6400202X
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1107/S0365110X6400202X
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1107/S0365110X6400202X
+      \endverb
+    \endentry
+    \entry{Ivlev2019}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=7304f0390aa910cd10d9d8db61787f60}{%
+           family={Ivlev},
+           familyi={I\bibinitperiod},
+           given={Sergei\bibnamedelima I.},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=d9855020eace78814ada5cd2739188ea}{%
+           family={Karttunen},
+           familyi={K\bibinitperiod},
+           given={Antti\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=e4cfc2a326b042819aef7f72b556b97a}{%
+           family={Hoelzel},
+           familyi={H\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ae4e16013a44402f5b904b186e39faa5}{%
+           family={Conrad},
+           familyi={C\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d5fa511313088859d5833467b78a44e4}{%
+           family={Kraus},
+           familyi={K\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{68dd77e6f28287ac7d88ab1431f3c28b}
+      \strng{fullhash}{9307c86dc65dcf7f4640cceae50111a0}
+      \strng{fullhashraw}{9307c86dc65dcf7f4640cceae50111a0}
+      \strng{bibnamehash}{9307c86dc65dcf7f4640cceae50111a0}
+      \strng{authorbibnamehash}{9307c86dc65dcf7f4640cceae50111a0}
+      \strng{authornamehash}{68dd77e6f28287ac7d88ab1431f3c28b}
+      \strng{authorfullhash}{9307c86dc65dcf7f4640cceae50111a0}
+      \strng{authorfullhashraw}{9307c86dc65dcf7f4640cceae50111a0}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract The crystal structures of α-F2 and β-F2 have been reinvestigated using neutron powder diffraction. For the low-temperature phase α-F2, which is stable below circa 45.6 K, the monoclinic space group C2/c with lattice parameters a=5.4780(12), b=3.2701(7), c=7.2651(17) Å, β=102.088(18)°, V=127.26(5) Å3, mS8, Z=4 at 10 K can now be confirmed. The structure model was significantly improved, allowed for the anisotropic refinement of the F atom, and an F−F bond length of 1.404(12) Å was obtained, which is in excellent agreement with spectroscopic data and high-level quantum chemical predictions. The high-temperature phase β-F2, stable between circa 45.6 K and the melting point of 53.53 K, crystallizes in the cubic primitive space group Pm n with the lattice parameter a=6.5314(15) Å, V=278.62(11) Å3, cP16, Z=8, at 48 K. β-F2 is isotypic to γ-O2 and δ-N2. The centres of gravity of the F2 molecules are arranged like the atoms in the Cr3Si structure type.}
+      \field{journaltitle}{Chemistry – A European Journal}
+      \field{number}{13}
+      \field{title}{The Crystal Structures of α- and β-F2 Revisited}
+      \field{volume}{25}
+      \field{year}{2019}
+      \field{pages}{3310\bibrangedash 3317}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1002/chem.201805298
+      \endverb
+      \verb{eprint}
+      \verb https://chemistry-europe.onlinelibrary.wiley.com/doi/pdf/10.1002/chem.201805298
+      \endverb
+      \verb{urlraw}
+      \verb https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.201805298
+      \endverb
+      \verb{url}
+      \verb https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.201805298
+      \endverb
+      \keyw{crystal structure,fluorine,neutron diffraction,quantum chemical calculations}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
