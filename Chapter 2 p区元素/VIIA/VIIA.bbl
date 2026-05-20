@@ -223,6 +223,132 @@
       \endverb
       \keyw{crystal structure,fluorine,neutron diffraction,quantum chemical calculations}
     \endentry
+    \entry{Plessen2000}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{hash=8046f10292a18229025314db1e33cab8}{%
+           family={Plessen},
+           familyi={P\bibinitperiod},
+           given={Helmold},
+           giveni={H\bibinitperiod},
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley & Sons, Ltd}%
+      }
+      \strng{namehash}{8046f10292a18229025314db1e33cab8}
+      \strng{fullhash}{8046f10292a18229025314db1e33cab8}
+      \strng{fullhashraw}{8046f10292a18229025314db1e33cab8}
+      \strng{bibnamehash}{8046f10292a18229025314db1e33cab8}
+      \strng{authorbibnamehash}{8046f10292a18229025314db1e33cab8}
+      \strng{authornamehash}{8046f10292a18229025314db1e33cab8}
+      \strng{authorfullhash}{8046f10292a18229025314db1e33cab8}
+      \strng{authorfullhashraw}{8046f10292a18229025314db1e33cab8}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract The article contains sections titled: 1. Sodium Sulfate 1.1. History and Natural Occurrence 1.2. Properties 1.3. Extraction and Production 1.3.1. Crystallization and Calcination 1.3.2. Production as a Byproduct of the Chemical Industry 1.3.3. Production from Natural Sources 1.3.4. Production of Sodium Sulfate 1.4. Exploitation of Byproduct Sodium Sulfate 1.4.1. Electrochemical Decomposition of Sodium Sulfate 1.4.2. Conversion Processes 1.4.3. Reduction Processes 1.5. Uses 1.6. Quality Specifications and Analysis 1.7. Occupational Health and Environmental Protection 1.8. Economic Aspects 2. Sodium Hydrogensulfate}
+      \field{booktitle}{Ullmann's Encyclopedia of Industrial Chemistry}
+      \field{isbn}{9783527306732}
+      \field{title}{Sodium Sulfates}
+      \field{year}{2000}
+      \verb{doi}
+      \verb https://doi.org/10.1002/14356007.a24_355
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/14356007.a24_355
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/14356007.a24_355
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/14356007.a24_355
+      \endverb
+    \endentry
+    \entry{Pauling1960}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=57002dec049d71166a4985e677fc4d28}{%
+           family={Pauling},
+           familyi={P\bibinitperiod},
+           given={Linus},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ithaca, NY}%
+      }
+      \list{publisher}{1}{%
+        {Cornell University Press}%
+      }
+      \strng{namehash}{57002dec049d71166a4985e677fc4d28}
+      \strng{fullhash}{57002dec049d71166a4985e677fc4d28}
+      \strng{fullhashraw}{57002dec049d71166a4985e677fc4d28}
+      \strng{bibnamehash}{57002dec049d71166a4985e677fc4d28}
+      \strng{authorbibnamehash}{57002dec049d71166a4985e677fc4d28}
+      \strng{authornamehash}{57002dec049d71166a4985e677fc4d28}
+      \strng{authorfullhash}{57002dec049d71166a4985e677fc4d28}
+      \strng{authorfullhashraw}{57002dec049d71166a4985e677fc4d28}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{title}{The Nature of the Chemical Bond}
+      \field{year}{1960}
+    \endentry
+    \entry{Ayotte2005}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=63cb266402fba5cd6d9233a307e59eac}{%
+           family={Ayotte},
+           familyi={A\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a29a309628b82078de42afe370fa7b10}{%
+           family={Hébert},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8c9432aef235717d5dc955de1fa404c9}{%
+           family={Marchand},
+           familyi={M\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{de543bae8328f6d23e461b23d10e56d3}
+      \strng{fullhash}{10fcac1937955b7091a2f2d1951c0328}
+      \strng{fullhashraw}{10fcac1937955b7091a2f2d1951c0328}
+      \strng{bibnamehash}{10fcac1937955b7091a2f2d1951c0328}
+      \strng{authorbibnamehash}{10fcac1937955b7091a2f2d1951c0328}
+      \strng{authornamehash}{de543bae8328f6d23e461b23d10e56d3}
+      \strng{authorfullhash}{10fcac1937955b7091a2f2d1951c0328}
+      \strng{authorfullhashraw}{10fcac1937955b7091a2f2d1951c0328}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The infrared vibrational spectra of amorphous solid water thin films doped with HF at 40K reveal a strong continuous absorbance in the 1000–3275cm−1 range. This so-called Zundel continuum is the spectroscopic hallmark for aqueous protons. The extensive ionic dissociation of HF at such low temperature suggests that the reaction enthalpy remains negative down to 40K. These observations support the interpretation that dilute HF aqueous solutions behave as weak acids largely due to the large positive reaction entropy resulting from the structure making character of the hydrated fluoride ion.}
+      \field{issn}{0021-9606}
+      \field{journaltitle}{The Journal of Chemical Physics}
+      \field{month}{11}
+      \field{number}{18}
+      \field{title}{Why is hydrofluoric acid a weak acid?}
+      \field{volume}{123}
+      \field{year}{2005}
+      \field{pages}{184501}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.2090259
+      \endverb
+      \verb{eprint}
+      \verb https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/1.2090259/15374287/184501_1_online.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1063/1.2090259
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1063/1.2090259
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

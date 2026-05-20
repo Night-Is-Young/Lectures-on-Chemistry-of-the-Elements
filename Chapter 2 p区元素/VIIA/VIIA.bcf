@@ -2383,6 +2383,9 @@
     <bcf:citekey order="2" intorder="1">Jabeen2020</bcf:citekey>
     <bcf:citekey order="3" intorder="1">Jordan1964</bcf:citekey>
     <bcf:citekey order="4" intorder="1">Ivlev2019</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Plessen2000</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">Pauling1960</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">Ayotte2005</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
