@@ -234,7 +234,7 @@
            prefixi={v\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {John Wiley & Sons, Ltd}%
+        {John Wiley \& Sons, Ltd}%
       }
       \strng{namehash}{8046f10292a18229025314db1e33cab8}
       \strng{fullhash}{8046f10292a18229025314db1e33cab8}
