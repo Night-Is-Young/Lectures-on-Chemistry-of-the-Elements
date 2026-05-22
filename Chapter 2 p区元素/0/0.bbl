@@ -74,6 +74,57 @@
       \endverb
       \keyw{XePtF,Diamagnetic,X-ray powder diffraction pattern}
     \endentry
+    \entry{Pilme2006}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=177e8829dafa7f7032b2846316d96f11}{%
+           family={Pilmé},
+           familyi={P\bibinitperiod},
+           given={Julien},
+           giveni={J\bibinitperiod}}}%
+        {{hash=82cedb9c8a8647ed3020a7c75ccf1acd}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={Edward\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=dde4130a51382d4d9139c5da2b025fd5}{%
+           family={Gillespie},
+           familyi={G\bibinitperiod},
+           given={Ronald\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f202e4e06c28d5b66869ad2d0b701133}
+      \strng{fullhash}{9122d8493f841a260de912ed3b4b4081}
+      \strng{fullhashraw}{9122d8493f841a260de912ed3b4b4081}
+      \strng{bibnamehash}{9122d8493f841a260de912ed3b4b4081}
+      \strng{authorbibnamehash}{9122d8493f841a260de912ed3b4b4081}
+      \strng{authornamehash}{f202e4e06c28d5b66869ad2d0b701133}
+      \strng{authorfullhash}{9122d8493f841a260de912ed3b4b4081}
+      \strng{authorfullhashraw}{9122d8493f841a260de912ed3b4b4081}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Inorganic Chemistry}
+      \field{note}{PMID: 16878928}
+      \field{number}{16}
+      \field{title}{A Topological Study of the Geometry of AF6E Molecules:  Weak and Inactive Lone Pairs}
+      \field{volume}{45}
+      \field{year}{2006}
+      \field{pages}{6198\bibrangedash 6204}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1021/ic052182+
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/ic052182+
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/ic052182+
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/ic052182+
+      \endverb
+    \endentry
     \entry{Brock2011}{article}{}{}
       \name{author}{2}{}{%
         {{hash=55448ca0cd4bcfabdd091b3c7a87ecec}{%
@@ -95,8 +146,8 @@
       \strng{authornamehash}{1168270ee4c22208d0926a9115a47c87}
       \strng{authorfullhash}{1168270ee4c22208d0926a9115a47c87}
       \strng{authorfullhashraw}{1168270ee4c22208d0926a9115a47c87}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of the American Chemical Society}
@@ -171,8 +222,8 @@
       \strng{authornamehash}{8a16470622e465f4dde05dc602aa2873}
       \strng{authorfullhash}{e77053c7dab0b9d97a4f3840f56de0f8}
       \strng{authorfullhashraw}{e77053c7dab0b9d97a4f3840f56de0f8}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The noble gases are the most inert group of the periodic table, but their reactivity increases with pressure. Diamond-anvil-cell experiments and ab initio modelling have been used to investigate a possible direct reaction between xenon and oxygen at high pressures. We have now synthesized two oxides below 100 GPa (Xe2O5 under oxygen-rich conditions, and Xe3O2 under oxygen-poor conditions), which shows that xenon is more reactive under pressure than predicted previously. Xe2O5 was observed using X-ray diffraction methods, its structure identified through ab initio random structure searching and confirmed using X-ray absorption and Raman spectroscopies. The experiments confirm the recent prediction of Xe3O2 as a stable xenon oxide under high pressure. Xenon atoms adopt mixed oxidation states of 0 and +4 in Xe3O2 and +4 and +6 in Xe2O5. Xe3O2 and Xe2O5 form extended networks that incorporate oxygen-sharing XeO4 squares, and Xe2O5 additionally incorporates oxygen-sharing XeO5 pyramids. Other xenon oxides (XeO2, XeO3) are expected to form at higher pressures.}
@@ -226,8 +277,8 @@
       \strng{authornamehash}{742e287e2d801a4c80f4e1704481560b}
       \strng{authorfullhash}{815418767dffb4dd888b5a40b6e13336}
       \strng{authorfullhashraw}{815418767dffb4dd888b5a40b6e13336}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Abstract This review article aims to provide an overview of the strategies employed to prepare noble gas anions under different environments and experimental conditions, and of the bonding motifs typically occurring in these species. Observed systems include anions fixed into synthesized salts, detected in the gas phase or in high-pressure devices. The major role of the theoretical calculations is also highlighted, not only in support of the experiments, but also as effective in predicting still unreported species. The chemistry of noble gas anions overall appears as a varied and rich paint, offering fascinating opportunities for both experimentalists and theoreticians.}
@@ -283,8 +334,8 @@
       \strng{authornamehash}{9bc1a1a89209df967d63236c71c8cc72}
       \strng{authorfullhash}{9b9875784b665080060621687265710f}
       \strng{authorfullhashraw}{9b9875784b665080060621687265710f}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Inorganic Chemistry}
@@ -329,8 +380,8 @@
       \strng{authornamehash}{c488c3ef39b0095772bf6307262d8fea}
       \strng{authorfullhash}{c488c3ef39b0095772bf6307262d8fea}
       \strng{authorfullhashraw}{c488c3ef39b0095772bf6307262d8fea}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Abstract We report evidence of the favorable noncovalent interaction between a covalently bonded atom of Group 18 (known as noble gases or aerogens) and a negative site, for example, a lone pair of a Lewis base or an anion. It involves a region of positive electrostatic potential (σ-hole), therefore it is a totally new and unexplored σ-hole-based interaction, namely aerogen bonding. We demonstrate for the first time the existence of σ-hole regions in aerogen derivatives by means of high-level ab initio calculations. In addition, several crystal structures retrieved from the Cambridge Structural Database (CSD) give reliability to the calculations. Energetically, aerogen bonds are comparable to hydrogen bonds and other σ-hole-based interactions but less directional. They are expected to be important in xenon chemistry.}
@@ -376,8 +427,8 @@
       \strng{authornamehash}{742e3bdcb4231d6b89a044dfad8a4446}
       \strng{authorfullhash}{742e3bdcb4231d6b89a044dfad8a4446}
       \strng{authorfullhashraw}{742e3bdcb4231d6b89a044dfad8a4446}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The first metal-xenon compound with direct gold-xenon bonds is achieved by reduction of AuF3 with elemental xenon. The square planar AuXe4 2+ cation is established by a single-crystal structure determination, with a gold-xenon bond length of approximately 274 picometers. The bonding between gold and xenon is of the σ donor type, resulting in a charge of approximately 0.4 per xenon atom.}
@@ -447,8 +498,8 @@
       \strng{authornamehash}{2f8c9c5928b57c6e8f404bce6c669451}
       \strng{authorfullhash}{3d9ee4dacd9d09562c07e0fa02bfc8ee}
       \strng{authorfullhashraw}{3d9ee4dacd9d09562c07e0fa02bfc8ee}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of the American Chemical Society}

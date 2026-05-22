@@ -234,7 +234,7 @@
            prefixi={v\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {John Wiley & Sons, Ltd}%
+        {John Wiley \& Sons, Ltd}%
       }
       \strng{namehash}{8046f10292a18229025314db1e33cab8}
       \strng{fullhash}{8046f10292a18229025314db1e33cab8}
@@ -347,6 +347,104 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1063/1.2090259
+      \endverb
+    \endentry
+    \entry{Boswijk1956}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=c9fe19878775fa20c10ba38b46ec114c}{%
+           family={Boswijk},
+           familyi={B\bibinitperiod},
+           given={K.\bibnamedelimi H.},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=7f78dbb8c1dffb2b2a7fab76bfdd1186}{%
+           family={Heide},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=b55c2cdea701232389419722214fcf4a}{%
+           family={Vos},
+           familyi={V\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0839d143ab8cc313e4c7e1976c2087b9}{%
+           family={Wiebenga},
+           familyi={W\bibinitperiod},
+           given={E.\bibnamedelimi H.},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{a67ae8cd19bc3238e289382092856754}
+      \strng{fullhash}{5962601626287c8cf1fbcffd41236bef}
+      \strng{fullhashraw}{5962601626287c8cf1fbcffd41236bef}
+      \strng{bibnamehash}{5962601626287c8cf1fbcffd41236bef}
+      \strng{authorbibnamehash}{5962601626287c8cf1fbcffd41236bef}
+      \strng{authornamehash}{a67ae8cd19bc3238e289382092856754}
+      \strng{authorfullhash}{5962601626287c8cf1fbcffd41236bef}
+      \strng{authorfullhashraw}{5962601626287c8cf1fbcffd41236bef}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Crystallographica}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{{The crystal structure of {$\alpha$}-ICl}}
+      \field{volume}{9}
+      \field{year}{1956}
+      \field{pages}{274\bibrangedash 277}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1107/S0365110X56000760
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1107/S0365110X56000760
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1107/S0365110X56000760
+      \endverb
+    \endentry
+    \entry{Carpenter1962}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=2a2dd9dd782deadd8860b78c09195a70}{%
+           family={Carpenter},
+           familyi={C\bibinitperiod},
+           given={G.\bibnamedelimi B.},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=78cc3893a9cb41eb8e15d73d60655b27}{%
+           family={Richards},
+           familyi={R\bibinitperiod},
+           given={S.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2daf5e206c9b7a5055e5843106264d7e}
+      \strng{fullhash}{2daf5e206c9b7a5055e5843106264d7e}
+      \strng{fullhashraw}{2daf5e206c9b7a5055e5843106264d7e}
+      \strng{bibnamehash}{2daf5e206c9b7a5055e5843106264d7e}
+      \strng{authorbibnamehash}{2daf5e206c9b7a5055e5843106264d7e}
+      \strng{authornamehash}{2daf5e206c9b7a5055e5843106264d7e}
+      \strng{authorfullhash}{2daf5e206c9b7a5055e5843106264d7e}
+      \strng{authorfullhashraw}{2daf5e206c9b7a5055e5843106264d7e}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Crystallographica}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{{The crystal structure of {$\beta$}-iodine monochloride}}
+      \field{volume}{15}
+      \field{year}{1962}
+      \field{pages}{360\bibrangedash 364}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1107/S0365110X62000882
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1107/S0365110X62000882
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1107/S0365110X62000882
       \endverb
     \endentry
   \enddatalist

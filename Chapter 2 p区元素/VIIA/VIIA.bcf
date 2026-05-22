@@ -2386,6 +2386,10 @@
     <bcf:citekey order="5" intorder="1">Plessen2000</bcf:citekey>
     <bcf:citekey order="6" intorder="1">Pauling1960</bcf:citekey>
     <bcf:citekey order="7" intorder="1">Ayotte2005</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">Boswijk1956</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">Carpenter1962</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">Edwards1969</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">Vij2002</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
@@ -2397,14 +2401,4 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
-  <bcf:datalist section="0"
-                name="none/global//global/global/global"
-                type="entry"
-                sortingtemplatename="none"
-                sortingnamekeytemplatename="global"
-                labelprefix=""
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global"
-                namehashtemplatename="global">
-  </bcf:datalist>
 </bcf:controlfile>
