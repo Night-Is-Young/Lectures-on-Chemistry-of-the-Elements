@@ -2390,6 +2390,22 @@
     <bcf:citekey order="9" intorder="1">Carpenter1962</bcf:citekey>
     <bcf:citekey order="10" intorder="1">Edwards1969</bcf:citekey>
     <bcf:citekey order="11" intorder="1">Vij2002</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">Clark1972</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">Miyazaki2018</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">Davies1974</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Edwards1971</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">Wilson1980</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">Apblett1986</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">Drews1999</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">Drews1999</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">Seidel2000</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">Sicre2003</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">Bowen1932</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">Karpel1992</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">Odeh2002</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">Lopez1994</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">Daehlie1964</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">Fjellvaag1994</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

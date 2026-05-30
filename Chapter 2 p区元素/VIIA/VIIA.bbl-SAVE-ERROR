@@ -87,10 +87,10 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Abstract A unique approach is used to relate the HOMO-LUMO energy difference to the difference between the ionization potential (IP) and electron affinity (EA) to assist in deducing not only the colors, but also chromophores in elemental nonmetals. Our analysis focuses on compounds with lone pair electrons and σ electrons, namely X2 (X = F, Cl, Br, I), S8 and P4. For the dihalogens, the [IP – EA] energies are found to be: F2 (12.58 eV), Cl2 (8.98 eV), Br2 (7.90 eV), I2 (6.78 eV). We suggest that the interahalogen X–X bond itself is the chromophore for these dihalogens, in which the light absorbed by the F2, Cl2, Br2, I2 leads to longer wavelengths in the visible by a π → σ* transition. Trace impurities are a likely case of cyclic S8 which contains amounts of selenium leading to a yellow color, where the [IP – EA] energy of S8 is found to be 7.02 eV. Elemental P4 with an [IP – EA] energy of 9.09 eV contains a tetrahedral and σ aromatic structure. In future work, refinement of the analysis will be required for compounds with π electrons and σ electrons, such as polycyclic aromatic hydrocarbons (PAHs).}
+      \field{abstract}{Abstract A unique approach is used to relate the HOMO-LUMO energy difference to the difference between the ionization potential (IP) and electron affinity (EA) to assist in deducing not only the colors, but also chromophores in elemental nonmetals. Our analysis focuses on compounds with lone pair electrons and σ electrons, namely X2 (X = F, Cl, Br, I), S8 and P4. For the dihalogens, the [IP - EA] energies are found to be: F2 (12.58 eV), Cl2 (8.98 eV), Br2 (7.90 eV), I2 (6.78 eV). We suggest that the interahalogen X-X bond itself is the chromophore for these dihalogens, in which the light absorbed by the F2, Cl2, Br2, I2 leads to longer wavelengths in the visible by a π → σ* transition. Trace impurities are a likely case of cyclic S8 which contains amounts of selenium leading to a yellow color, where the [IP - EA] energy of S8 is found to be 7.02 eV. Elemental P4 with an [IP - EA] energy of 9.09 eV contains a tetrahedral and σ aromatic structure. In future work, refinement of the analysis will be required for compounds with π electrons and σ electrons, such as polycyclic aromatic hydrocarbons (PAHs).}
       \field{journaltitle}{Photochemistry and Photobiology}
       \field{number}{5}
-      \field{title}{Why are the Elemental Nonmetals (F2, Cl2, Br2, I2, S8, P4) of so Many Hues or of Any Hues and Where is the Chromophore? Insight into Intera-X–X Bonds}
+      \field{title}{Why are the Elemental Nonmetals (F2, Cl2, Br2, I2, S8, P4) of so Many Hues or of Any Hues and Where is the Chromophore? Insight into Intera-X-X Bonds}
       \field{volume}{96}
       \field{year}{2020}
       \field{pages}{1140\bibrangedash 1143}
@@ -202,7 +202,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Abstract The crystal structures of α-F2 and β-F2 have been reinvestigated using neutron powder diffraction. For the low-temperature phase α-F2, which is stable below circa 45.6 K, the monoclinic space group C2/c with lattice parameters a=5.4780(12), b=3.2701(7), c=7.2651(17) Å, β=102.088(18)°, V=127.26(5) Å3, mS8, Z=4 at 10 K can now be confirmed. The structure model was significantly improved, allowed for the anisotropic refinement of the F atom, and an F−F bond length of 1.404(12) Å was obtained, which is in excellent agreement with spectroscopic data and high-level quantum chemical predictions. The high-temperature phase β-F2, stable between circa 45.6 K and the melting point of 53.53 K, crystallizes in the cubic primitive space group Pm n with the lattice parameter a=6.5314(15) Å, V=278.62(11) Å3, cP16, Z=8, at 48 K. β-F2 is isotypic to γ-O2 and δ-N2. The centres of gravity of the F2 molecules are arranged like the atoms in the Cr3Si structure type.}
-      \field{journaltitle}{Chemistry – A European Journal}
+      \field{journaltitle}{Chemistry - A European Journal}
       \field{number}{13}
       \field{title}{The Crystal Structures of α- and β-F2 Revisited}
       \field{volume}{25}
@@ -326,7 +326,7 @@
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{The infrared vibrational spectra of amorphous solid water thin films doped with HF at 40K reveal a strong continuous absorbance in the 1000–3275cm−1 range. This so-called Zundel continuum is the spectroscopic hallmark for aqueous protons. The extensive ionic dissociation of HF at such low temperature suggests that the reaction enthalpy remains negative down to 40K. These observations support the interpretation that dilute HF aqueous solutions behave as weak acids largely due to the large positive reaction entropy resulting from the structure making character of the hydrated fluoride ion.}
+      \field{abstract}{The infrared vibrational spectra of amorphous solid water thin films doped with HF at 40K reveal a strong continuous absorbance in the 1000-3275cm−1 range. This so-called Zundel continuum is the spectroscopic hallmark for aqueous protons. The extensive ionic dissociation of HF at such low temperature suggests that the reaction enthalpy remains negative down to 40K. These observations support the interpretation that dilute HF aqueous solutions behave as weak acids largely due to the large positive reaction entropy resulting from the structure making character of the hydrated fluoride ion.}
       \field{issn}{0021-9606}
       \field{journaltitle}{The Journal of Chemical Physics}
       \field{month}{11}
@@ -445,6 +445,737 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1107/S0365110X62000882
+      \endverb
+    \endentry
+    \entry{Edwards1969}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=205eca92e051e4bcb786c5b81fa7e84c}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={A.\bibnamedelimi J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=0f93879c241a342becedd152fe5ff7c7}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={G.\bibnamedelimi R.},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society of Chemistry}%
+      }
+      \strng{namehash}{fe5526aebef4d036114f81f9cce5368d}
+      \strng{fullhash}{fe5526aebef4d036114f81f9cce5368d}
+      \strng{fullhashraw}{fe5526aebef4d036114f81f9cce5368d}
+      \strng{bibnamehash}{fe5526aebef4d036114f81f9cce5368d}
+      \strng{authorbibnamehash}{fe5526aebef4d036114f81f9cce5368d}
+      \strng{authornamehash}{fe5526aebef4d036114f81f9cce5368d}
+      \strng{authorfullhash}{fe5526aebef4d036114f81f9cce5368d}
+      \strng{authorfullhashraw}{fe5526aebef4d036114f81f9cce5368d}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Crystals of difluorobromine() hexafluoroantimonate() are orthorhombic{,} space group {,} = 10·12{,} = 5·81{,} = 10·95 Å. The structure was refined by three dimensional least-squares methods{,} the final being 0·097 for 567 independent reflections. The bromine atom has two nearest fluorine neighbours at 1·69 Å{,} giving the expected angular ion{,} and two other neighbours at 2·29 Å{,} completing a much distorted square plane around bromine. These two atoms are part of the distorted octahedral co-ordination of the antimony atom and form bridges between the heavy atoms to complete an endless chain arrangement.}
+      \field{issue}{0}
+      \field{journaltitle}{J. Chem. Soc. A}
+      \field{title}{Fluoride crystal structures. Part VI. Difluorobromine(III) hexafluoroantimonate(V)}
+      \field{year}{1969}
+      \field{pages}{1467\bibrangedash 1470}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1039/J19690001467
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1039/J19690001467
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1039/J19690001467
+      \endverb
+    \endentry
+    \entry{Vij2002}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=7ccf63783895f80b2871908b1fb3864e}{%
+           family={Vij},
+           familyi={V\bibinitperiod},
+           given={Ashwani},
+           giveni={A\bibinitperiod}}}%
+        {{hash=adff8d170218350a45739af3bd8caa45}{%
+           family={Tham},
+           familyi={T\bibinitperiod},
+           given={Fook\bibnamedelima S.},
+           giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=22d1dd795d2c9d363a8914b03ceeaf5f}{%
+           family={Vij},
+           familyi={V\bibinitperiod},
+           given={Vandana},
+           giveni={V\bibinitperiod}}}%
+        {{hash=ee2392e90244376f746b77aecb8202fc}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={William\bibnamedelima W.},
+           giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=0ccf7094b401f1dd2c17eca0312d952e}{%
+           family={Christe},
+           familyi={C\bibinitperiod},
+           given={Karl\bibnamedelima O.},
+           giveni={K\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{e878db984d0e90038021cbc3a8a8f46d}
+      \strng{fullhash}{b73f1eef1e0b2616424a07a29d8c8eb1}
+      \strng{fullhashraw}{b73f1eef1e0b2616424a07a29d8c8eb1}
+      \strng{bibnamehash}{b73f1eef1e0b2616424a07a29d8c8eb1}
+      \strng{authorbibnamehash}{b73f1eef1e0b2616424a07a29d8c8eb1}
+      \strng{authornamehash}{e878db984d0e90038021cbc3a8a8f46d}
+      \strng{authorfullhash}{b73f1eef1e0b2616424a07a29d8c8eb1}
+      \strng{authorfullhashraw}{b73f1eef1e0b2616424a07a29d8c8eb1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Inorganic Chemistry}
+      \field{note}{PMID: 12444783}
+      \field{number}{24}
+      \field{title}{Structures of the BrF4+ and IF4+ Cations}
+      \field{volume}{41}
+      \field{year}{2002}
+      \field{pages}{6397\bibrangedash 6403}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1021/ic025900q
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/ic025900q
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/ic025900q
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/ic025900q
+      \endverb
+    \endentry
+    \entry{Clark1972}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=b4a865cd61d8f0ea8efb57d3ad76c549}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Rutgers University Press}%
+      }
+      \strng{namehash}{b4a865cd61d8f0ea8efb57d3ad76c549}
+      \strng{fullhash}{b4a865cd61d8f0ea8efb57d3ad76c549}
+      \strng{fullhashraw}{b4a865cd61d8f0ea8efb57d3ad76c549}
+      \strng{bibnamehash}{b4a865cd61d8f0ea8efb57d3ad76c549}
+      \strng{authorbibnamehash}{b4a865cd61d8f0ea8efb57d3ad76c549}
+      \strng{authornamehash}{b4a865cd61d8f0ea8efb57d3ad76c549}
+      \strng{authorfullhash}{b4a865cd61d8f0ea8efb57d3ad76c549}
+      \strng{authorfullhashraw}{b4a865cd61d8f0ea8efb57d3ad76c549}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-8135-0725-1}
+      \field{title}{Ignition!: An informal history of liquid rocket propellants}
+      \field{year}{1972}
+    \endentry
+    \entry{Miyazaki2018}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=c34c46c5692946ff5212682c2365575f}{%
+           family={Miyazaki},
+           familyi={M\bibinitperiod},
+           given={Tatsuo},
+           giveni={T\bibinitperiod}}}%
+        {{hash=6d935b20baeea62486ffa5282c3f5c2e}{%
+           family={Mori},
+           familyi={M\bibinitperiod},
+           given={Isamu},
+           giveni={I\bibinitperiod}}}%
+        {{hash=38350f65ed0be41afc153c44db6c36a7}{%
+           family={Umezaki},
+           familyi={U\bibinitperiod},
+           given={Tomonori},
+           giveni={T\bibinitperiod}}}%
+        {{hash=031b030b52ddc1930d6bfa7c77c6a70f}{%
+           family={Yonezawa},
+           familyi={Y\bibinitperiod},
+           given={Susumu},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a9e231a9e84491f3d1dd20015fbf02d3}
+      \strng{fullhash}{1277f2b1115f6db4626601db17051ba2}
+      \strng{fullhashraw}{1277f2b1115f6db4626601db17051ba2}
+      \strng{bibnamehash}{1277f2b1115f6db4626601db17051ba2}
+      \strng{authorbibnamehash}{1277f2b1115f6db4626601db17051ba2}
+      \strng{authornamehash}{a9e231a9e84491f3d1dd20015fbf02d3}
+      \strng{authorfullhash}{1277f2b1115f6db4626601db17051ba2}
+      \strng{authorfullhashraw}{1277f2b1115f6db4626601db17051ba2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-1139}
+      \field{journaltitle}{Journal of Fluorine Chemistry}
+      \field{title}{Synthesis of NF2Cl and NFCl2 using NH4F/nHF and ClF3}
+      \field{volume}{210}
+      \field{year}{2018}
+      \field{pages}{126\bibrangedash 131}
+      \range{pages}{6}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jfluchem.2018.03.010
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0022113917305377
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0022113917305377
+      \endverb
+      \keyw{Ammonium fluoride,Chlorodifluoroamine,Dichlorofluoroamine,Fluorination,Molten salt}
+    \endentry
+    \entry{Davies1974}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=43a73d671e6aec126d62bb2f42e418b2}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={C.\bibnamedelimi G.},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=f2ce35ca93a539767d71b7f3458db1c0}{%
+           family={Gillespie},
+           familyi={G\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8f67ca98e405aed4fba0f567735594d4}{%
+           family={Ireland},
+           familyi={I\bibinitperiod},
+           given={P.\bibnamedelimi R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=27a5e05070e0491ac8714d2b92b370c1}{%
+           family={Sowa},
+           familyi={S\bibinitperiod},
+           given={Joy\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2449545e98f93aabb38be6c6bfa3c537}
+      \strng{fullhash}{569f7ca70bf2862529c4683b86165cc3}
+      \strng{fullhashraw}{569f7ca70bf2862529c4683b86165cc3}
+      \strng{bibnamehash}{569f7ca70bf2862529c4683b86165cc3}
+      \strng{authorbibnamehash}{569f7ca70bf2862529c4683b86165cc3}
+      \strng{authornamehash}{2449545e98f93aabb38be6c6bfa3c537}
+      \strng{authorfullhash}{569f7ca70bf2862529c4683b86165cc3}
+      \strng{authorfullhashraw}{569f7ca70bf2862529c4683b86165cc3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Canadian Journal of Chemistry}
+      \field{number}{11}
+      \field{title}{The Preparation and Crystal Structure of [I2]+[Sb2F11]-}
+      \field{volume}{52}
+      \field{year}{1974}
+      \field{pages}{2048\bibrangedash 2052}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1139/v74-296
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1139/v74-296
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1139/v74-296
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1139/v74-296
+      \endverb
+    \endentry
+    \entry{Edwards1971}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=205eca92e051e4bcb786c5b81fa7e84c}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={A.\bibnamedelimi J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=0f93879c241a342becedd152fe5ff7c7}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={G.\bibnamedelimi R.},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society of Chemistry}%
+      }
+      \strng{namehash}{fe5526aebef4d036114f81f9cce5368d}
+      \strng{fullhash}{fe5526aebef4d036114f81f9cce5368d}
+      \strng{fullhashraw}{fe5526aebef4d036114f81f9cce5368d}
+      \strng{bibnamehash}{fe5526aebef4d036114f81f9cce5368d}
+      \strng{authorbibnamehash}{fe5526aebef4d036114f81f9cce5368d}
+      \strng{authornamehash}{fe5526aebef4d036114f81f9cce5368d}
+      \strng{authorfullhash}{fe5526aebef4d036114f81f9cce5368d}
+      \strng{authorfullhashraw}{fe5526aebef4d036114f81f9cce5368d}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{0}
+      \field{journaltitle}{J. Chem. Soc. A}
+      \field{title}{Fluoride crystal structures. Part XVI. Dibromine hexadecafluorotriantimonate(V){,} [Br2]+[Sb3F16]-}
+      \field{year}{1971}
+      \field{pages}{2318\bibrangedash 2320}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1039/J19710002318
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1039/J19710002318
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1039/J19710002318
+      \endverb
+    \endentry
+    \entry{Wilson1980}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=80d4d72427847aa1bef71b0276b88f4f}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={W.\bibnamedelimi W.},
+           giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=e7aa9dc9281f20b6541ff3ba8f578bb4}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=f05cd08a2515967925b99dd43e8fbb48}{%
+           family={Aubke},
+           familyi={A\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b8f5faf5013b077570267c75e1c92e3}
+      \strng{fullhash}{fc2b44638804ff5e0f356cc801ac24a0}
+      \strng{fullhashraw}{fc2b44638804ff5e0f356cc801ac24a0}
+      \strng{bibnamehash}{fc2b44638804ff5e0f356cc801ac24a0}
+      \strng{authorbibnamehash}{fc2b44638804ff5e0f356cc801ac24a0}
+      \strng{authornamehash}{3b8f5faf5013b077570267c75e1c92e3}
+      \strng{authorfullhash}{fc2b44638804ff5e0f356cc801ac24a0}
+      \strng{authorfullhashraw}{fc2b44638804ff5e0f356cc801ac24a0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Inorganic Chemistry}
+      \field{number}{6}
+      \field{title}{Improved synthesis of [I2+][Sb2F11-] and [Br2+][Sb3F16-] and magnetic, spectroscopic, and some chemical properties of the dihalogen cations diiodine(1+) and dibromine(1+)}
+      \field{volume}{19}
+      \field{year}{1980}
+      \field{pages}{1489\bibrangedash 1493}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1021/ic50208a013
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/ic50208a013
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/ic50208a013
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/ic50208a013
+      \endverb
+    \endentry
+    \entry{Apblett1986}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=51a1cffc31e39469fdebad5043f3f196}{%
+           family={Apblett},
+           familyi={A\bibinitperiod},
+           given={Allen},
+           giveni={A\bibinitperiod}}}%
+        {{hash=93836edcbe6224d33b7196a42b11c65a}{%
+           family={Grein},
+           familyi={G\bibinitperiod},
+           given={Friedrich},
+           giveni={F\bibinitperiod}}}%
+        {{hash=2fec424027acada355492ffdd2400727}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={James\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=bee902a79c850c5ffc4bf6d54d8a11c3}{%
+           family={Passmore},
+           familyi={P\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3813c4930d6eb74a2a76781f3b6423a5}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Peter\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e34081803b5596376d72abefe1b1266d}
+      \strng{fullhash}{513e33c7ed2ce610c837ff8779ced3ab}
+      \strng{fullhashraw}{513e33c7ed2ce610c837ff8779ced3ab}
+      \strng{bibnamehash}{513e33c7ed2ce610c837ff8779ced3ab}
+      \strng{authorbibnamehash}{513e33c7ed2ce610c837ff8779ced3ab}
+      \strng{authornamehash}{e34081803b5596376d72abefe1b1266d}
+      \strng{authorfullhash}{513e33c7ed2ce610c837ff8779ced3ab}
+      \strng{authorfullhashraw}{513e33c7ed2ce610c837ff8779ced3ab}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Inorganic Chemistry}
+      \field{number}{4}
+      \field{title}{Preparation and x-ray crystal structure of pentaiodine(1+) hexafluoroarsenate(1-) and electronic structure of the pentaiodine(1+) cation}
+      \field{volume}{25}
+      \field{year}{1986}
+      \field{pages}{422\bibrangedash 426}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1021/ic00224a009
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/ic00224a009
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/ic00224a009
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/ic00224a009
+      \endverb
+    \endentry
+    \entry{Drews1999}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=3df9efc90b3bfcd85dcebce2f2963274}{%
+           family={Drews},
+           familyi={D\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=c0157242ec3d36ff6ce05adac59c9278}{%
+           family={Koch},
+           familyi={K\bibinitperiod},
+           given={Wolfram},
+           giveni={W\bibinitperiod}}}%
+        {{hash=a0f3187a4918b7e706cf6237d2e39d82}{%
+           family={Seppelt},
+           familyi={S\bibinitperiod},
+           given={Konrad},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{cfa15de4443415086f709bb60b068a3c}
+      \strng{fullhash}{9008fc204e18b533ce9944091cf297ad}
+      \strng{fullhashraw}{9008fc204e18b533ce9944091cf297ad}
+      \strng{bibnamehash}{9008fc204e18b533ce9944091cf297ad}
+      \strng{authorbibnamehash}{9008fc204e18b533ce9944091cf297ad}
+      \strng{authornamehash}{cfa15de4443415086f709bb60b068a3c}
+      \strng{authorfullhash}{9008fc204e18b533ce9944091cf297ad}
+      \strng{authorfullhashraw}{9008fc204e18b533ce9944091cf297ad}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{number}{18}
+      \field{title}{The Cl2O2+ Cation:  Preparation and Structural Investigation of Cl2O2+SbF6- and Cl2O2+Sb2F11-}
+      \field{volume}{121}
+      \field{year}{1999}
+      \field{pages}{4379\bibrangedash 4384}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1021/ja984474y
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/ja984474y
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/ja984474y
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/ja984474y
+      \endverb
+    \endentry
+    \entry{Seidel2000}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=4ef74b32799e2c8b17272e6ebccbd791}{%
+           family={Seidel},
+           familyi={S\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a0f3187a4918b7e706cf6237d2e39d82}{%
+           family={Seppelt},
+           familyi={S\bibinitperiod},
+           given={Konrad},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{742e3bdcb4231d6b89a044dfad8a4446}
+      \strng{fullhash}{742e3bdcb4231d6b89a044dfad8a4446}
+      \strng{fullhashraw}{742e3bdcb4231d6b89a044dfad8a4446}
+      \strng{bibnamehash}{742e3bdcb4231d6b89a044dfad8a4446}
+      \strng{authorbibnamehash}{742e3bdcb4231d6b89a044dfad8a4446}
+      \strng{authornamehash}{742e3bdcb4231d6b89a044dfad8a4446}
+      \strng{authorfullhash}{742e3bdcb4231d6b89a044dfad8a4446}
+      \strng{authorfullhashraw}{742e3bdcb4231d6b89a044dfad8a4446}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Angewandte Chemie}
+      \field{number}{21}
+      \field{title}{Das Cl4+-Ion}
+      \field{volume}{112}
+      \field{year}{2000}
+      \field{pages}{4072\bibrangedash 4074}
+      \range{pages}{3}
+      \verb{doi}
+      \verb https://doi.org/10.1002/1521-3757(20001103)112:21<4072::AID-ANGE4072>3.0.CO;2-M
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/1521-3757%2820001103%29112%3A21%3C4072%3A%3AAID-ANGE4072%3E3.0.CO%3B2-M
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/1521-3757%2820001103%29112%3A21%3C4072%3A%3AAID-ANGE4072%3E3.0.CO%3B2-M
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/1521-3757%2820001103%29112%3A21%3C4072%3A%3AAID-ANGE4072%3E3.0.CO%3B2-M
+      \endverb
+      \keyw{Chlor,Iridium,Kationen,Strukturaufklärung}
+    \endentry
+    \entry{Sicre2003}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=0390254f0c57cca3d5b00f4743e2f848}{%
+           family={Sicre},
+           familyi={S\bibinitperiod},
+           given={J.E.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=285425956be1b3919dfdef5cf664b7bd}{%
+           family={Cobos},
+           familyi={C\bibinitperiod},
+           given={C.J.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e479e53904968d2c69ccbe00ff187bb}
+      \strng{fullhash}{7e479e53904968d2c69ccbe00ff187bb}
+      \strng{fullhashraw}{7e479e53904968d2c69ccbe00ff187bb}
+      \strng{bibnamehash}{7e479e53904968d2c69ccbe00ff187bb}
+      \strng{authorbibnamehash}{7e479e53904968d2c69ccbe00ff187bb}
+      \strng{authornamehash}{7e479e53904968d2c69ccbe00ff187bb}
+      \strng{authorfullhash}{7e479e53904968d2c69ccbe00ff187bb}
+      \strng{authorfullhashraw}{7e479e53904968d2c69ccbe00ff187bb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0166-1280}
+      \field{journaltitle}{Journal of Molecular Structure: THEOCHEM}
+      \field{number}{2}
+      \field{title}{Thermochemistry of the higher chlorine oxides ClOx (x=3, 4) and Cl2Ox (x=3-7)†}
+      \field{volume}{620}
+      \field{year}{2003}
+      \field{pages}{215\bibrangedash 226}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0166-1280(02)00602-4
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0166128002006024
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0166128002006024
+      \endverb
+      \keyw{Chlorine oxides,Heats of formation,Ab initio,Density functional theory}
+    \endentry
+    \entry{Bowen1932}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=9f59ac6c657e91ae37d049ad895ea371}{%
+           family={Bowen},
+           familyi={B\bibinitperiod},
+           given={Edmund\bibnamedelima John},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=082ce8c4a79d0c61ad49f1ace08c027c}{%
+           family={Cheung},
+           familyi={C\bibinitperiod},
+           given={Wing\bibnamedelima Min},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society of Chemistry}%
+      }
+      \strng{namehash}{11038696a1b10de1a1950bc4aa7df777}
+      \strng{fullhash}{11038696a1b10de1a1950bc4aa7df777}
+      \strng{fullhashraw}{11038696a1b10de1a1950bc4aa7df777}
+      \strng{bibnamehash}{11038696a1b10de1a1950bc4aa7df777}
+      \strng{authorbibnamehash}{11038696a1b10de1a1950bc4aa7df777}
+      \strng{authornamehash}{11038696a1b10de1a1950bc4aa7df777}
+      \strng{authorfullhash}{11038696a1b10de1a1950bc4aa7df777}
+      \strng{authorfullhashraw}{11038696a1b10de1a1950bc4aa7df777}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{0}
+      \field{journaltitle}{J. Chem. Soc.}
+      \field{title}{159. The photodecomposition of chlorine dioxide solutions}
+      \field{year}{1932}
+      \field{pages}{1200\bibrangedash 1207}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1039/JR9320001200
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1039/JR9320001200
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1039/JR9320001200
+      \endverb
+    \endentry
+    \entry{Karpel1992}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=b5efd14b76f3d57ea5c4e7dc7c4f6423}{%
+           family={{Karpel Vel Leitner}},
+           familyi={K\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f8d088b6b6a9de3a3477636a5b5ba637}{%
+           family={{De Laat}},
+           familyi={D\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ed83d5ac84ccd46d0ae017e7f24e833a}{%
+           family={Dore},
+           familyi={D\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f766a8beed528d21cc4b3864c2d46e8}
+      \strng{fullhash}{2248938da4da5fb243862cd1099eb289}
+      \strng{fullhashraw}{2248938da4da5fb243862cd1099eb289}
+      \strng{bibnamehash}{2248938da4da5fb243862cd1099eb289}
+      \strng{authorbibnamehash}{2248938da4da5fb243862cd1099eb289}
+      \strng{authornamehash}{7f766a8beed528d21cc4b3864c2d46e8}
+      \strng{authorfullhash}{2248938da4da5fb243862cd1099eb289}
+      \strng{authorfullhashraw}{2248938da4da5fb243862cd1099eb289}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0043-1354}
+      \field{journaltitle}{Water Research}
+      \field{number}{12}
+      \field{title}{Photodecomposition du bioxyde de chlore et des ions chlorite par irradiation U.V. en milieu aqueux—partie I. Sous-produits de reaction}
+      \field{volume}{26}
+      \field{year}{1992}
+      \field{pages}{1655\bibrangedash 1664}
+      \range{pages}{10}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0043-1354(92)90165-Z
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/004313549290165Z
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/004313549290165Z
+      \endverb
+      \keyw{photochimie,bioxyde de chlore,chlorites,sous-produits,milieu aqueux,irradiation u.v.,photochemistry,chlorine dioxide,chlorite,photoproducts,u.v.-irradiation,aqueous solution}
+    \endentry
+    \entry{Odeh2002}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=5287eac90fd16d4fb14982b0674de11f}{%
+           family={Odeh},
+           familyi={O\bibinitperiod},
+           given={Ihab\bibnamedelima N.},
+           giveni={I\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=ed7b72a8177538e5fbdcc595dcc12377}{%
+           family={Francisco},
+           familyi={F\bibinitperiod},
+           given={Joseph\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=bc75fe89a36dafe3f75015b2e896b015}{%
+           family={Margerum},
+           familyi={M\bibinitperiod},
+           given={Dale\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{19d426a89cbcd10ed35ba7cfeeaa3808}
+      \strng{fullhash}{7d1d4854328922ddb649cb5790b1e0c4}
+      \strng{fullhashraw}{7d1d4854328922ddb649cb5790b1e0c4}
+      \strng{bibnamehash}{7d1d4854328922ddb649cb5790b1e0c4}
+      \strng{authorbibnamehash}{7d1d4854328922ddb649cb5790b1e0c4}
+      \strng{authornamehash}{19d426a89cbcd10ed35ba7cfeeaa3808}
+      \strng{authorfullhash}{7d1d4854328922ddb649cb5790b1e0c4}
+      \strng{authorfullhashraw}{7d1d4854328922ddb649cb5790b1e0c4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Inorganic Chemistry}
+      \field{note}{PMID: 12444796}
+      \field{number}{24}
+      \field{title}{New Pathways for Chlorine Dioxide Decomposition in Basic Solution}
+      \field{volume}{41}
+      \field{year}{2002}
+      \field{pages}{6500\bibrangedash 6506}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1021/ic0204676
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/ic0204676
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/ic0204676
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/ic0204676
+      \endverb
+    \endentry
+    \entry{Lopez1994}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=c3c8a72e31ee9a3f47b7919b56c32c13}{%
+           family={López},
+           familyi={L\bibinitperiod},
+           given={María\bibnamedelima I.},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=2fc6cd23a401836df7a8c9f85193b002}{%
+           family={Croce},
+           familyi={C\bibinitperiod},
+           given={Adela\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=e1e179975d8a5fc8096289a99978cba8}{%
+           family={Sicre},
+           familyi={S\bibinitperiod},
+           given={Juan\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society of Chemistry}%
+      }
+      \strng{namehash}{cc3fc2d70df2a154d050e6406b8f39f5}
+      \strng{fullhash}{cacdd5a95177cf9182d348eb258d0e9e}
+      \strng{fullhashraw}{cacdd5a95177cf9182d348eb258d0e9e}
+      \strng{bibnamehash}{cacdd5a95177cf9182d348eb258d0e9e}
+      \strng{authorbibnamehash}{cacdd5a95177cf9182d348eb258d0e9e}
+      \strng{authornamehash}{cc3fc2d70df2a154d050e6406b8f39f5}
+      \strng{authorfullhash}{cacdd5a95177cf9182d348eb258d0e9e}
+      \strng{authorfullhashraw}{cacdd5a95177cf9182d348eb258d0e9e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{22}
+      \field{journaltitle}{J. Chem. Soc.{,} Faraday Trans.}
+      \field{title}{Explosive decomposition of gaseous chlorine dioxide}
+      \field{volume}{90}
+      \field{year}{1994}
+      \field{pages}{3391\bibrangedash 3396}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1039/FT9949003391
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1039/FT9949003391
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1039/FT9949003391
       \endverb
     \endentry
   \enddatalist
