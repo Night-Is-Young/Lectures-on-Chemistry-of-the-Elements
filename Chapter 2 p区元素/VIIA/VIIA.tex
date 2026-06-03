@@ -1,4 +1,4 @@
-\documentclass[draft]{ctexbook}
+\documentclass{ctexbook}
 \usepackage[
     backend=biber,
     style=chem-acs,
@@ -1262,5 +1262,52 @@ VIIA族元素主要形成~\ce{FXO2},~\ce{FXO3},~\ce{F3XO},~\ce{F3XO2}和~\ce{F5I
     \caption{\ce{[IO6]^{5-}}与金属离子形成的配合物的结构}
 \end{figure}
 \section{卤键}\label{sec:卤键}
-%\printbibliography[title={\Large 参考文献}]
+\tbf{卤键(Halogen Bond, XB)}是指分子中与卤素原子相关的亲电区域与同一或另一分子中的亲核区域之间存在的非共价相互作用.这一定义由IUPAC于2013年正式发布,标志着卤键作为一种独立且可预测的超分子工具在研究与应用中得到正式认可.本节内容主要参照\cite{Cavallo2016}对相关研究进行介绍.
+\subsection{卤键的研究历史和定义}
+卤键的研究历史可追溯至两个世纪前. 1814年, Colin在Gay Lussac实验室中首次制备了~\ce{I2.NH3}加合物,这是人类合成的第一个卤键配合物. 1819年, Pelletier和Caventou报道了士的宁三碘化物的合成,其中~\ce{I3-}阴离子的形成揭示了双卤素分子与阴离子之间的吸引作用. 1883年, Rhoussopoulos报道了喹啉-碘仿加合物,证明卤代烃也能与Lewis碱形成加合物.\\
+\indent 20世纪中叶, Mulliken的电荷转移理论与Hassel的X射线晶体学研究为卤键本质的理解做出了开创性贡献. Hassel通过研究\ce{Br2.O(CH2CH2)2O}加合物揭示了卤键的三个普遍特征:键长比孤立~\ce{X2}分子中略长;~\ce{Br$\cdots$O}分子间距离小于二者van der Waals半径之和;~\ce{Br-Br$\cdots$O}角度接近$180^\circ$.\\
+\indent 1990年代末至2000年代初,Metrangolo和Resnati等人证明了卤键在晶体工程中的有效性,使其发展成为一种常规且可预测的自组装工具.自那以后,对卤键研究乘上了超分子的东风,呈现指数级增长.2009年IUPAC启动了对涉及卤素作为亲电物种的分子间相互作用进行全面考察与分类的项目,并于2013年发布正式定义:\tbf{当有证据表明一个分子实体中与卤素原子相关的亲电区域与另一(或同一)分子实体中的亲核区域之间存在净吸引作用时,即存在卤键}.卤键的给体(XB donor)通常是含有一个亲电卤素原子的分子片段\ce{R-X};受体(XB acceptor)则是具有至少一个亲核基团(如孤对电子原子或$\pi$体系)的分子.
+\subsection{卤键的本质}
+当卤素原子参与共价键形成时,其电子密度分布是各向异性的,垂直于共价键方向存在一个较高的电子密度带(负静电势),而在共价键延伸方向则存在一个较低电子密度的区域,称为\tbf{$\sigma$-空穴}($\sigma$-hole).因此在键轴延长线上,卤素原子容易与亲核试剂发生作用,而垂直于键轴的区域则表现出一定的亲核作用.\\
+\indent $\sigma$-空穴的大小和数值因卤素原子种类和所连基团的吸电子能力而异.一般而言,卤素原子极化率越大,所连基团的吸电子能力越强, $\sigma$-空穴的正电性越大.例如~\ce{CH3-I}的$\sigma$-空穴正电性小于~\ce{CF3-I},而后者又小于~\ce{NC-I}.强吸电子取代基甚至可使氟原子的整个表面呈正电势(如~\ce{NC-F}中)，因此氟在特定条件下也能形成$\sigma$-空穴.但在大多数情况下,氟因高电负性而导致$\sigma$-空穴为负值或接近中性,故通常不参与形成卤键.
+\begin{table}[H]\centering
+    \caption{不同物质中卤素原子表面的最正静电势$V_{\mathrm{S,max}}$(单位:$\si{\volt}$,在半径为$0.001\,\mathrm{au}$表面上计算得到)\cite{Bundhun2013,Jane2014}}
+    \label{tab:sigmahole}
+    \begin{tabular}{ccccc}
+        \toprule
+        分子 & $V_{\mathrm{S,max}}(\ce{F})$ &$V_{\mathrm{S,max}}(\ce{Cl})$ & $V_{\mathrm{S,max}}(\ce{Br})$ & $V_{\mathrm{S,max}}(\ce{I})$ \\
+        \midrule
+        \ce{H3C-X} & $-1.07$ &$-0.04$ & $+0.25$ & $+0.56$ \\
+        \ce{F3C-X} & $-0.06$ & $+0.86$ & $+1.10$ & $+1.38$ \\
+        \ce{NC-X} & $+0.56$ &$+1.56$ & $+1.85$ & $+2.11$ \\
+        \ce{X-X} & $+0.49$ &$+1.11$ & $+1.26$ & \\
+        \bottomrule
+    \end{tabular}
+\end{table}
+\indent 除去静电作用之外,电荷转移作用和色散作用(尤其是对较重的卤素~\ce{Br}和~\ce{I})也是形成卤键的重要因素.
+\subsection{多卤阴离子}
+在卤素中,~\ce{I}能形成最多种类的同核多卤阴离子,主要包括~\ce{[I3]-},~\ce{[I5]-},~\ce{[I7]-},~\ce{[I8]^{2-}}等等.除去直线型的~\ce{[I3]-}以外,这些离子的结构如下所示:
+\begin{figure}[H]\centering
+    \begin{subfigure}[c]{.25\linewidth}\centering
+        \includegraphics[scale=1]{figure/[I5]-}
+        \caption{\ce{[I5]-}}
+    \end{subfigure}
+    \begin{subfigure}[c]{.25\linewidth}\centering
+        \includegraphics[scale=1]{figure/[I7]-}
+        \caption{\ce{[I7]-}}
+    \end{subfigure}
+    \begin{subfigure}[c]{.45\linewidth}\centering
+        \includegraphics[scale=1]{figure/[I8]2-}
+        \caption{\ce{[I8]^{2-}}}
+    \end{subfigure}
+    \caption{多碘阴离子的结构}
+\end{figure}
+这些多碘阴离子的结构都可以看作~\ce{I-}与~\ce{I2}形成的卤键.更大的多碘阴离子也可以被制备得到,一个经典的例子是可可碱阳离子形成的深蓝色针状晶体~\ce{[C7H8N4O2]4.H4[I16]},其中存在~\ce{[I16]^{4-}}\cite{Herbstein1975}.\\
+\indent 除去~\ce{[F3]-}需要在冷冻下用~\ce{F2}对金属基底进行激光烧蚀才能少量得到外,其余~\ce{[X3]-}都可以通过在水溶液中将~\ce{X2}与~\ce{X-}反应得到.当然,~\ce{[I3]-}才是这类离子中比较重要的,将~\ce{I2}溶于碘化物溶液中即可得到~\ce{[I3]-}:
+\begin{tightcenter}
+    \ce{I2 + I- -> [I3]-}
+\end{tightcenter}
+这也说明了~\ce{I2}在碘化物溶液中较高的溶解度.继续增加~\ce{I2}的用量可以得到含有更多碘原子的多碘阴离子.
+\subsection{}
+\printbibliography[title={参考文献}]
 \end{document}

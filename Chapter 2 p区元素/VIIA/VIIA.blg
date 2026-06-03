@@ -1,0 +1,20 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'VIIA.blg'
+[145] biber-MSWIN64:340> INFO - === 
+[205] Biber.pm:420> INFO - Reading 'VIIA.bcf'
+[354] Biber.pm:994> INFO - Found 35 citekeys in bib section 0
+[371] Biber.pm:4463> INFO - Processing section 0
+[389] Biber.pm:4654> INFO - Looking for bibtex file 'ref.bib' for section 0
+[523] bibtex.pm:1713> INFO - LaTeX decoding ...
+[588] bibtex.pm:1519> INFO - Found BibTeX data source 'ref.bib'
+[1168] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1168] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1169] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1187] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[1231] bbl.pm:676> INFO - Writing 'VIIA.bbl' with encoding 'UTF-8'
+[1264] bbl.pm:779> INFO - Output to VIIA.bbl
+[1264] Biber.pm:131> WARN - legacy month field 'Jun' in entry 'Jordan1964' is not an integer - this will probably not sort properly.
+[1264] Biber.pm:131> WARN - legacy month field 'Mar' in entry 'Boswijk1956' is not an integer - this will probably not sort properly.
+[1264] Biber.pm:131> WARN - legacy month field 'Apr' in entry 'Carpenter1962' is not an integer - this will probably not sort properly.
+[1264] Biber.pm:131> WARN - legacy month field 'Dec' in entry 'Fischer2005' is not an integer - this will probably not sort properly.
+[1264] Biber.pm:133> INFO - WARNINGS: 4

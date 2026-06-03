@@ -1178,6 +1178,529 @@
       \verb http://dx.doi.org/10.1039/FT9949003391
       \endverb
     \endentry
+    \entry{Daehlie1964}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=5d668ce3f26c796f7eef556ddf9ee8b1}{%
+           family={D{æ}hlie},
+           familyi={D\bibinitperiod},
+           given={Grete},
+           giveni={G\bibinitperiod}}}%
+        {{hash=40678e6096d998ebd18ae5d21f45508e}{%
+           family={Kjekshus},
+           familyi={K\bibinitperiod},
+           given={Arne},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5d9175a716677b87ae431684b36c258}
+      \strng{fullhash}{b5d9175a716677b87ae431684b36c258}
+      \strng{fullhashraw}{b5d9175a716677b87ae431684b36c258}
+      \strng{bibnamehash}{b5d9175a716677b87ae431684b36c258}
+      \strng{authorbibnamehash}{b5d9175a716677b87ae431684b36c258}
+      \strng{authornamehash}{b5d9175a716677b87ae431684b36c258}
+      \strng{authorfullhash}{b5d9175a716677b87ae431684b36c258}
+      \strng{authorfullhashraw}{b5d9175a716677b87ae431684b36c258}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Chemica Scandinavica}
+      \field{title}{Iodine Oxides. {Part I}. {On} {I2O3·SO3}, {I2O3·4SO3·H2O}, {I2O3·SeO3} and {I2O4}}
+      \field{volume}{18}
+      \field{year}{1964}
+      \field{pages}{144\bibrangedash 156}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.3891/acta.chem.scand.18-0144
+      \endverb
+    \endentry
+    \entry{Fjellvaag1994}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=1d15329f51c6a743a88d7de771d4edb9}{%
+           family={Fjellvaag},
+           familyi={F\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ace139d8ae438b8fb1027f1a634e54d5}{%
+           family={Kjekshus},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f1a6beac9e309b026ac9400693bd129}
+      \strng{fullhash}{4f1a6beac9e309b026ac9400693bd129}
+      \strng{fullhashraw}{4f1a6beac9e309b026ac9400693bd129}
+      \strng{bibnamehash}{4f1a6beac9e309b026ac9400693bd129}
+      \strng{authorbibnamehash}{4f1a6beac9e309b026ac9400693bd129}
+      \strng{authornamehash}{4f1a6beac9e309b026ac9400693bd129}
+      \strng{authorfullhash}{4f1a6beac9e309b026ac9400693bd129}
+      \strng{authorfullhashraw}{4f1a6beac9e309b026ac9400693bd129}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0904-213X}
+      \field{journaltitle}{Acta Chemica Scandinavica (1989)}
+      \field{title}{The crystal structure of I2O4 and its relations to other iodine-oxygen-containing compounds}
+      \field{volume}{48}
+      \field{year}{1994}
+      \field{pages}{p. 815\bibrangedash 822.}
+      \range{pages}{-1}
+    \endentry
+    \entry{Stahl1993}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=464d4f9bbcbbec525f1521624d5db187}{%
+           family={STAHL},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=fda9d39374ddd3b404faf9e2501e42ea}{%
+           family={SZAFRANSKI},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{63128c00c8d2a79f37b98e5cf1b23cf3}
+      \strng{fullhash}{63128c00c8d2a79f37b98e5cf1b23cf3}
+      \strng{fullhashraw}{63128c00c8d2a79f37b98e5cf1b23cf3}
+      \strng{bibnamehash}{63128c00c8d2a79f37b98e5cf1b23cf3}
+      \strng{authorbibnamehash}{63128c00c8d2a79f37b98e5cf1b23cf3}
+      \strng{authornamehash}{63128c00c8d2a79f37b98e5cf1b23cf3}
+      \strng{authorfullhash}{63128c00c8d2a79f37b98e5cf1b23cf3}
+      \strng{authorfullhashraw}{63128c00c8d2a79f37b98e5cf1b23cf3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ChemInform}
+      \field{number}{11}
+      \field{title}{ChemInform Abstract: A Single-Crystal Neutron Diffraction Study of HIO3 at 295 and 30 K and of DIO3 at 295 K}
+      \field{volume}{24}
+      \field{year}{1993}
+      \verb{doi}
+      \verb https://doi.org/10.1002/chin.199311004
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/chin.199311004
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/chin.199311004
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/chin.199311004
+      \endverb
+      \keyw{structure (solids and liquids),iodine,I}
+    \endentry
+    \entry{Fischer2005}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=d611ff3070e5d643083a380d5a5d1d04}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d611ff3070e5d643083a380d5a5d1d04}
+      \strng{fullhash}{d611ff3070e5d643083a380d5a5d1d04}
+      \strng{fullhashraw}{d611ff3070e5d643083a380d5a5d1d04}
+      \strng{bibnamehash}{d611ff3070e5d643083a380d5a5d1d04}
+      \strng{authorbibnamehash}{d611ff3070e5d643083a380d5a5d1d04}
+      \strng{authornamehash}{d611ff3070e5d643083a380d5a5d1d04}
+      \strng{authorfullhash}{d611ff3070e5d643083a380d5a5d1d04}
+      \strng{authorfullhashraw}{d611ff3070e5d643083a380d5a5d1d04}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Crystals of commercial iodic(V) acid, HIO${\sb 3}$, were investigated using single-crystal and powder X-ray diffraction. The crystals turned out to be HI${\sb 3}$O${\sb 8}$ or HIO${\sb 3}${$\cdot$}I${\sb 2}$O${\sb 5}$ [iodic acid{--}diiodine penta{\-}oxide (1/1)] instead, whose structure has been determined previously [Feikema & Vos (1966). {\it Acta Cryst.} {\bf 20}, 769{--}777]. Redetermination of the structure gave higher precision and allowed the location of the H atom.}
+      \field{journaltitle}{Acta Crystallographica Section E}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{Redetermination of HI${\sb 3}$O${\sb 8}$, an adduct of formula HIO${\sb 3}${$\cdot$}I${\sb 2}$O${\sb 5}$}}
+      \field{volume}{61}
+      \field{year}{2005}
+      \field{pages}{i278\bibrangedash i279}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1107/S1600536805037037
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1107/S1600536805037037
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1107/S1600536805037037
+      \endverb
+    \endentry
+    \entry{Landolt1886}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=835ae81cd40f421787757718c01cdf0a}{%
+           family={Landolt},
+           familyi={L\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{835ae81cd40f421787757718c01cdf0a}
+      \strng{fullhash}{835ae81cd40f421787757718c01cdf0a}
+      \strng{fullhashraw}{835ae81cd40f421787757718c01cdf0a}
+      \strng{bibnamehash}{835ae81cd40f421787757718c01cdf0a}
+      \strng{authorbibnamehash}{835ae81cd40f421787757718c01cdf0a}
+      \strng{authornamehash}{835ae81cd40f421787757718c01cdf0a}
+      \strng{authorfullhash}{835ae81cd40f421787757718c01cdf0a}
+      \strng{authorfullhashraw}{835ae81cd40f421787757718c01cdf0a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Berichte der deutschen chemischen Gesellschaft}
+      \field{number}{1}
+      \field{title}{Ueber die Zeitdauer der Reaction zwischen Jodsäure und schwefliger Säure}
+      \field{volume}{19}
+      \field{year}{1886}
+      \field{pages}{1317\bibrangedash 1365}
+      \range{pages}{49}
+      \verb{doi}
+      \verb https://doi.org/10.1002/cber.188601901293
+      \endverb
+      \verb{eprint}
+      \verb https://chemistry-europe.onlinelibrary.wiley.com/doi/pdf/10.1002/cber.188601901293
+      \endverb
+      \verb{urlraw}
+      \verb https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cber.188601901293
+      \endverb
+      \verb{url}
+      \verb https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cber.188601901293
+      \endverb
+    \endentry
+    \entry{Pisarenko2011}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=897c5ee811097f307b760fcca95c0d7b}{%
+           family={Pisarenko},
+           familyi={P\bibinitperiod},
+           given={Aleksey\bibnamedelima N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=046efe224c908e273093e6336d2f26cf}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c005f284c35848b669da821a6cb6bcaf}{%
+           family={Quiñones},
+           familyi={Q\bibinitperiod},
+           given={Oscar},
+           giveni={O\bibinitperiod}}}%
+        {{hash=7012e1227fb7407a863b5afbff5b3a4e}{%
+           family={Vanderford},
+           familyi={V\bibinitperiod},
+           given={Brett\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=4bad19e36ffc5405a81e4d534084ee05}{%
+           family={Mawhinney},
+           familyi={M\bibinitperiod},
+           given={Douglas\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea23f84339bb4ecc88113c9bee8142aa}
+      \strng{fullhash}{04f1d45b762243a5c2142025e7a36498}
+      \strng{fullhashraw}{04f1d45b762243a5c2142025e7a36498}
+      \strng{bibnamehash}{04f1d45b762243a5c2142025e7a36498}
+      \strng{authorbibnamehash}{04f1d45b762243a5c2142025e7a36498}
+      \strng{authornamehash}{ea23f84339bb4ecc88113c9bee8142aa}
+      \strng{authorfullhash}{04f1d45b762243a5c2142025e7a36498}
+      \strng{authorfullhashraw}{04f1d45b762243a5c2142025e7a36498}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Inorganic Chemistry}
+      \field{note}{PMID: 21780765}
+      \field{number}{18}
+      \field{title}{Two New Methods of Synthesis for the Perbromate Ion: Chemistry and Determination by LC-MS/MS}
+      \field{volume}{50}
+      \field{year}{2011}
+      \field{pages}{8691\bibrangedash 8693}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1021/ic201329q
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/ic201329q
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/ic201329q
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/ic201329q
+      \endverb
+    \endentry
+    \entry{Roos1976}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=107700ba14def0e9db899e31768a959c}{%
+           family={Roos},
+           familyi={R\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e4dd6f9221db4d2969eec26da69c96c7}{%
+           family={Kind},
+           familyi={K\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3a1044e731ae820ea7615081b24a3154}{%
+           family={Petzelt},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1cfabb0b3da1ffa8f268df2fd710cf97}
+      \strng{fullhash}{7b74839b4f8c2ccd391547afb20d2e60}
+      \strng{fullhashraw}{7b74839b4f8c2ccd391547afb20d2e60}
+      \strng{bibnamehash}{7b74839b4f8c2ccd391547afb20d2e60}
+      \strng{authorbibnamehash}{7b74839b4f8c2ccd391547afb20d2e60}
+      \strng{authornamehash}{1cfabb0b3da1ffa8f268df2fd710cf97}
+      \strng{authorfullhash}{7b74839b4f8c2ccd391547afb20d2e60}
+      \strng{authorfullhashraw}{7b74839b4f8c2ccd391547afb20d2e60}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The investigation of thermal, optical and dielectric properties of Ag2H3IO6 and (NH4)2H3IO6 revealed phase transitions in two steps with unknown intermediate phases. Reflectivity measurements in the far infrared region confirm that the main step is caused by a freezing in of the proton tunnelling modes. From the results of NMR-NQR-spectroscopy the low temperature structures for both compounds are deduced. The complete group analysis of lattice vibrations and proton ordering modes of the room temperature phases is performed. In the case of Ag2H3IO6 the transitions can be discussed in the frame-work of the Landau theory, starting with a condensation of an antiphase vibration of the silver atoms in theF point of the trigonal Brillouin zone, whereas in the case of (NH4)2H3IO6 a simultaneous ordering of protons inZ, F, andL-points of the Brillouin zone is proposed for the first step. A new definition of antiferroelectric transitions is suggested which is based on symmetry arguments only. The proton-ordering transitions in both compounds can then be classified as antiferroelectric.}
+      \field{issn}{1431-584X}
+      \field{journaltitle}{Zeitschrift für Physik B Condensed Matter}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{Phase transitions and lattice dynamics in Ag2H3IO6 and (NH4)2H3IO6}
+      \field{volume}{24}
+      \field{year}{1976}
+      \field{pages}{99\bibrangedash 112}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/BF01312879
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/BF01312879
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/BF01312879
+      \endverb
+    \endentry
+    \entry{Cavallo2016}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=8591bdc1feca85af901ce9218170e51e}{%
+           family={Cavallo},
+           familyi={C\bibinitperiod},
+           given={Gabriella},
+           giveni={G\bibinitperiod}}}%
+        {{hash=da23fa3ae8abdfeff3b27568fd0bd0bb}{%
+           family={Metrangolo},
+           familyi={M\bibinitperiod},
+           given={Pierangelo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=abeff249b6a267c50655ff6ce0bdfe86}{%
+           family={Milani},
+           familyi={M\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0081b1ccc456a52facd767bee427ed76}{%
+           family={Pilati},
+           familyi={P\bibinitperiod},
+           given={Tullio},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ee47b880e505bdb413bc17e033ec0be1}{%
+           family={Priimagi},
+           familyi={P\bibinitperiod},
+           given={Arri},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a39b84423cfd1d0395af89144c948c23}{%
+           family={Resnati},
+           familyi={R\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod}}}%
+        {{hash=68228b245fc83af6b040735e269e4075}{%
+           family={Terraneo},
+           familyi={T\bibinitperiod},
+           given={Giancarlo},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e9a24ec5e3b634f3075f7eab19420be}
+      \strng{fullhash}{7b86413380da72f7c43f1312ec5fb700}
+      \strng{fullhashraw}{7b86413380da72f7c43f1312ec5fb700}
+      \strng{bibnamehash}{7b86413380da72f7c43f1312ec5fb700}
+      \strng{authorbibnamehash}{7b86413380da72f7c43f1312ec5fb700}
+      \strng{authornamehash}{7e9a24ec5e3b634f3075f7eab19420be}
+      \strng{authorfullhash}{7b86413380da72f7c43f1312ec5fb700}
+      \strng{authorfullhashraw}{7b86413380da72f7c43f1312ec5fb700}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Reviews}
+      \field{note}{PMID: 26812185}
+      \field{number}{4}
+      \field{title}{The Halogen Bond}
+      \field{volume}{116}
+      \field{year}{2016}
+      \field{pages}{2478\bibrangedash 2601}
+      \range{pages}{124}
+      \verb{doi}
+      \verb 10.1021/acs.chemrev.5b00484
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/acs.chemrev.5b00484
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/acs.chemrev.5b00484
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/acs.chemrev.5b00484
+      \endverb
+    \endentry
+    \entry{Bundhun2013}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=8a01ec7b013c07272a059dc49a581090}{%
+           family={Bundhun},
+           familyi={B\bibinitperiod},
+           given={Ashwini},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1aadad63c1b8455e226352a9620a8525}{%
+           family={Ramasami},
+           familyi={R\bibinitperiod},
+           given={Ponnadurai},
+           giveni={P\bibinitperiod}}}%
+        {{hash=13b82b263f38049c7c583423d39abf7c}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Jane\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=67f4deee7f52186b4dad8d84beb4d215}{%
+           family={Politzer},
+           familyi={P\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd99bb0720b95f3093c518566627a53d}
+      \strng{fullhash}{76b2ce348e7965fb0322f98593b929b1}
+      \strng{fullhashraw}{76b2ce348e7965fb0322f98593b929b1}
+      \strng{bibnamehash}{76b2ce348e7965fb0322f98593b929b1}
+      \strng{authorbibnamehash}{76b2ce348e7965fb0322f98593b929b1}
+      \strng{authornamehash}{bd99bb0720b95f3093c518566627a53d}
+      \strng{authorfullhash}{76b2ce348e7965fb0322f98593b929b1}
+      \strng{authorfullhashraw}{76b2ce348e7965fb0322f98593b929b1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It is well-established that many covalently-bonded atoms of Groups IV–VII have directionally-specific regions of positive electrostatic potential ($\sigma$-holes) through which they can interact with negative sites. In the case of Group VII, this is called “halogen bonding.” We have studied two series of molecules: the F$_3$MX and, for comparison, the H$_3$MX (M = C, Si and Ge; X = F, Cl, Br and I). Our objective was to determine how the interplay between M and X in each molecule affects the $\sigma$-holes of both, and consequently their interactions with the nitrogen lone pair of HCN. We find that the relative electronegativities of M and X are not sufficient to explain their effects upon each other’s $\sigma$-holes; consideration of charge capacity/polarizability (and perhaps other factors) also appears to be necessary. However the results do support the description of normal $\sigma$-hole interactions as being largely electrostatically-driven.}
+      \field{issn}{0948-5023}
+      \field{journaltitle}{Journal of Molecular Modeling}
+      \field{month}{7}
+      \field{number}{7}
+      \field{title}{Trends in $\sigma$-hole strengths and interactions of F$_3$MX molecules (M = C, Si, Ge and X = F, Cl, Br, I)}
+      \field{volume}{19}
+      \field{year}{2013}
+      \field{pages}{2739\bibrangedash 2746}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/s00894-012-1571-4
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s00894-012-1571-4
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s00894-012-1571-4
+      \endverb
+    \endentry
+    \entry{Jane2014}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=13b82b263f38049c7c583423d39abf7c}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Jane\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=4890ce1bb8d3038159962a3a7addcea6}{%
+           family={Macaveiu},
+           familyi={M\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=67f4deee7f52186b4dad8d84beb4d215}{%
+           family={Politzer},
+           familyi={P\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2fa0b19cf17bbea76ae4e9edc9e05f9}
+      \strng{fullhash}{2919cb7166799f84977ad7a42ffbe089}
+      \strng{fullhashraw}{2919cb7166799f84977ad7a42ffbe089}
+      \strng{bibnamehash}{2919cb7166799f84977ad7a42ffbe089}
+      \strng{authorbibnamehash}{2919cb7166799f84977ad7a42ffbe089}
+      \strng{authornamehash}{d2fa0b19cf17bbea76ae4e9edc9e05f9}
+      \strng{authorfullhash}{2919cb7166799f84977ad7a42ffbe089}
+      \strng{authorfullhashraw}{2919cb7166799f84977ad7a42ffbe089}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A σ-hole is a region of diminished electronic density on the extension of a covalent bond to an atom. This region often exhibits a positive electrostatic potential, which allows attractive noncovalent interactions with negative sites. In this study, we have systematically examined the dependence of σ-hole potentials upon (a) the atom having the σ-hole, and (b) the remainder of the molecule. We demonstrate that not only relative electron-attracting powers need to be considered, but also relative charge capacities (or polarizabilities), and that other factors can also have significant roles.}
+      \field{issn}{1877-7503}
+      \field{journaltitle}{Journal of Computational Science}
+      \field{number}{4}
+      \field{title}{Factors affecting the strengths of σ-hole electrostatic potentials}
+      \field{volume}{5}
+      \field{year}{2014}
+      \field{pages}{590\bibrangedash 596}
+      \range{pages}{7}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jocs.2014.01.002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877750314000039
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877750314000039
+      \endverb
+      \keyw{σ-Hole,Molecular surface electrostatic potentials,Trends in σ-hole potentials,Electronegativities,Polarizabilities,Charge capacities}
+    \endentry
+    \entry{Herbstein1975}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=d4099277f8f602d457bbbb713bb53df8}{%
+           family={Herbstein},
+           familyi={H\bibinitperiod},
+           given={Frank\bibnamedelima H.},
+           giveni={F\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=4bc0685ebf71437b0a24fdfd5d9258ab}{%
+           family={Kapon},
+           familyi={K\bibinitperiod},
+           given={Moshe},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society of Chemistry}%
+      }
+      \strng{namehash}{fbd6534c628404f33e6fd264606ecb67}
+      \strng{fullhash}{fbd6534c628404f33e6fd264606ecb67}
+      \strng{fullhashraw}{fbd6534c628404f33e6fd264606ecb67}
+      \strng{bibnamehash}{fbd6534c628404f33e6fd264606ecb67}
+      \strng{authorbibnamehash}{fbd6534c628404f33e6fd264606ecb67}
+      \strng{authornamehash}{fbd6534c628404f33e6fd264606ecb67}
+      \strng{authorfullhash}{fbd6534c628404f33e6fd264606ecb67}
+      \strng{authorfullhashraw}{fbd6534c628404f33e6fd264606ecb67}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Crystal structure analysis shows that (theobromine).HI is a polyiodide salt composed of alternating cationic and anionic layers; the former consist of hydrogen-bonded protonated theobromine species and the latter of I polyiodide ions.}
+      \field{issue}{16}
+      \field{journaltitle}{J. Chem. Soc.{,} Chem. Commun.}
+      \field{title}{I164– Ions in crystalline (theobromine)2.H2I8; X-ray structure of (theobromine)2.H2I8}
+      \field{year}{1975}
+      \field{pages}{677\bibrangedash 678}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1039/C39750000677
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1039/C39750000677
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1039/C39750000677
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

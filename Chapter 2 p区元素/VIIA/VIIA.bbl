@@ -1480,6 +1480,223 @@
       \verb https://doi.org/10.1007/BF01312879
       \endverb
     \endentry
+    \entry{Cavallo2016}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=8591bdc1feca85af901ce9218170e51e}{%
+           family={Cavallo},
+           familyi={C\bibinitperiod},
+           given={Gabriella},
+           giveni={G\bibinitperiod}}}%
+        {{hash=da23fa3ae8abdfeff3b27568fd0bd0bb}{%
+           family={Metrangolo},
+           familyi={M\bibinitperiod},
+           given={Pierangelo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=abeff249b6a267c50655ff6ce0bdfe86}{%
+           family={Milani},
+           familyi={M\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0081b1ccc456a52facd767bee427ed76}{%
+           family={Pilati},
+           familyi={P\bibinitperiod},
+           given={Tullio},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ee47b880e505bdb413bc17e033ec0be1}{%
+           family={Priimagi},
+           familyi={P\bibinitperiod},
+           given={Arri},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a39b84423cfd1d0395af89144c948c23}{%
+           family={Resnati},
+           familyi={R\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod}}}%
+        {{hash=68228b245fc83af6b040735e269e4075}{%
+           family={Terraneo},
+           familyi={T\bibinitperiod},
+           given={Giancarlo},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e9a24ec5e3b634f3075f7eab19420be}
+      \strng{fullhash}{7b86413380da72f7c43f1312ec5fb700}
+      \strng{fullhashraw}{7b86413380da72f7c43f1312ec5fb700}
+      \strng{bibnamehash}{7b86413380da72f7c43f1312ec5fb700}
+      \strng{authorbibnamehash}{7b86413380da72f7c43f1312ec5fb700}
+      \strng{authornamehash}{7e9a24ec5e3b634f3075f7eab19420be}
+      \strng{authorfullhash}{7b86413380da72f7c43f1312ec5fb700}
+      \strng{authorfullhashraw}{7b86413380da72f7c43f1312ec5fb700}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Reviews}
+      \field{note}{PMID: 26812185}
+      \field{number}{4}
+      \field{title}{The Halogen Bond}
+      \field{volume}{116}
+      \field{year}{2016}
+      \field{pages}{2478\bibrangedash 2601}
+      \range{pages}{124}
+      \verb{doi}
+      \verb 10.1021/acs.chemrev.5b00484
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/acs.chemrev.5b00484
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/acs.chemrev.5b00484
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/acs.chemrev.5b00484
+      \endverb
+    \endentry
+    \entry{Bundhun2013}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=8a01ec7b013c07272a059dc49a581090}{%
+           family={Bundhun},
+           familyi={B\bibinitperiod},
+           given={Ashwini},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1aadad63c1b8455e226352a9620a8525}{%
+           family={Ramasami},
+           familyi={R\bibinitperiod},
+           given={Ponnadurai},
+           giveni={P\bibinitperiod}}}%
+        {{hash=13b82b263f38049c7c583423d39abf7c}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Jane\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=67f4deee7f52186b4dad8d84beb4d215}{%
+           family={Politzer},
+           familyi={P\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd99bb0720b95f3093c518566627a53d}
+      \strng{fullhash}{76b2ce348e7965fb0322f98593b929b1}
+      \strng{fullhashraw}{76b2ce348e7965fb0322f98593b929b1}
+      \strng{bibnamehash}{76b2ce348e7965fb0322f98593b929b1}
+      \strng{authorbibnamehash}{76b2ce348e7965fb0322f98593b929b1}
+      \strng{authornamehash}{bd99bb0720b95f3093c518566627a53d}
+      \strng{authorfullhash}{76b2ce348e7965fb0322f98593b929b1}
+      \strng{authorfullhashraw}{76b2ce348e7965fb0322f98593b929b1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Molecular Modeling}
+      \field{month}{7}
+      \field{number}{7}
+      \field{title}{Trends in $\sigma$-hole strengths and interactions of F$_3$MX molecules (M = C, Si, Ge and X = F, Cl, Br, I)}
+      \field{volume}{19}
+      \field{year}{2013}
+      \field{pages}{2739\bibrangedash 2746}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/s00894-012-1571-4
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s00894-012-1571-4
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s00894-012-1571-4
+      \endverb
+    \endentry
+    \entry{Jane2014}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=13b82b263f38049c7c583423d39abf7c}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Jane\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=4890ce1bb8d3038159962a3a7addcea6}{%
+           family={Macaveiu},
+           familyi={M\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=67f4deee7f52186b4dad8d84beb4d215}{%
+           family={Politzer},
+           familyi={P\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2fa0b19cf17bbea76ae4e9edc9e05f9}
+      \strng{fullhash}{2919cb7166799f84977ad7a42ffbe089}
+      \strng{fullhashraw}{2919cb7166799f84977ad7a42ffbe089}
+      \strng{bibnamehash}{2919cb7166799f84977ad7a42ffbe089}
+      \strng{authorbibnamehash}{2919cb7166799f84977ad7a42ffbe089}
+      \strng{authornamehash}{d2fa0b19cf17bbea76ae4e9edc9e05f9}
+      \strng{authorfullhash}{2919cb7166799f84977ad7a42ffbe089}
+      \strng{authorfullhashraw}{2919cb7166799f84977ad7a42ffbe089}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1877-7503}
+      \field{journaltitle}{Journal of Computational Science}
+      \field{number}{4}
+      \field{title}{Factors affecting the strengths of σ-hole electrostatic potentials}
+      \field{volume}{5}
+      \field{year}{2014}
+      \field{pages}{590\bibrangedash 596}
+      \range{pages}{7}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jocs.2014.01.002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877750314000039
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877750314000039
+      \endverb
+    \endentry
+    \entry{Herbstein1975}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=d4099277f8f602d457bbbb713bb53df8}{%
+           family={Herbstein},
+           familyi={H\bibinitperiod},
+           given={Frank\bibnamedelima H.},
+           giveni={F\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=4bc0685ebf71437b0a24fdfd5d9258ab}{%
+           family={Kapon},
+           familyi={K\bibinitperiod},
+           given={Moshe},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society of Chemistry}%
+      }
+      \strng{namehash}{fbd6534c628404f33e6fd264606ecb67}
+      \strng{fullhash}{fbd6534c628404f33e6fd264606ecb67}
+      \strng{fullhashraw}{fbd6534c628404f33e6fd264606ecb67}
+      \strng{bibnamehash}{fbd6534c628404f33e6fd264606ecb67}
+      \strng{authorbibnamehash}{fbd6534c628404f33e6fd264606ecb67}
+      \strng{authornamehash}{fbd6534c628404f33e6fd264606ecb67}
+      \strng{authorfullhash}{fbd6534c628404f33e6fd264606ecb67}
+      \strng{authorfullhashraw}{fbd6534c628404f33e6fd264606ecb67}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Crystal structure analysis shows that (theobromine).HI is a polyiodide salt composed of alternating cationic and anionic layers; the former consist of hydrogen-bonded protonated theobromine species and the latter of I polyiodide ions.}
+      \field{issue}{16}
+      \field{journaltitle}{J. Chem. Soc.{,} Chem. Commun.}
+      \field{title}{I164– Ions in crystalline (theobromine)2.H2I8; X-ray structure of (theobromine)2.H2I8}
+      \field{year}{1975}
+      \field{pages}{677\bibrangedash 678}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1039/C39750000677
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1039/C39750000677
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1039/C39750000677
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
