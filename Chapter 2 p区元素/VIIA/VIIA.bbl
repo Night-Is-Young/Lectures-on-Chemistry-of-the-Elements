@@ -1246,6 +1246,240 @@
       \field{pages}{p. 815\bibrangedash 822.}
       \range{pages}{-1}
     \endentry
+    \entry{Stahl1993}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=464d4f9bbcbbec525f1521624d5db187}{%
+           family={STAHL},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=fda9d39374ddd3b404faf9e2501e42ea}{%
+           family={SZAFRANSKI},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{63128c00c8d2a79f37b98e5cf1b23cf3}
+      \strng{fullhash}{63128c00c8d2a79f37b98e5cf1b23cf3}
+      \strng{fullhashraw}{63128c00c8d2a79f37b98e5cf1b23cf3}
+      \strng{bibnamehash}{63128c00c8d2a79f37b98e5cf1b23cf3}
+      \strng{authorbibnamehash}{63128c00c8d2a79f37b98e5cf1b23cf3}
+      \strng{authornamehash}{63128c00c8d2a79f37b98e5cf1b23cf3}
+      \strng{authorfullhash}{63128c00c8d2a79f37b98e5cf1b23cf3}
+      \strng{authorfullhashraw}{63128c00c8d2a79f37b98e5cf1b23cf3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ChemInform}
+      \field{number}{11}
+      \field{title}{ChemInform Abstract: A Single-Crystal Neutron Diffraction Study of HIO3 at 295 and 30 K and of DIO3 at 295 K}
+      \field{volume}{24}
+      \field{year}{1993}
+      \verb{doi}
+      \verb https://doi.org/10.1002/chin.199311004
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/chin.199311004
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/chin.199311004
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/chin.199311004
+      \endverb
+      \keyw{structure (solids and liquids),iodine,I}
+    \endentry
+    \entry{Fischer2005}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=d611ff3070e5d643083a380d5a5d1d04}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d611ff3070e5d643083a380d5a5d1d04}
+      \strng{fullhash}{d611ff3070e5d643083a380d5a5d1d04}
+      \strng{fullhashraw}{d611ff3070e5d643083a380d5a5d1d04}
+      \strng{bibnamehash}{d611ff3070e5d643083a380d5a5d1d04}
+      \strng{authorbibnamehash}{d611ff3070e5d643083a380d5a5d1d04}
+      \strng{authornamehash}{d611ff3070e5d643083a380d5a5d1d04}
+      \strng{authorfullhash}{d611ff3070e5d643083a380d5a5d1d04}
+      \strng{authorfullhashraw}{d611ff3070e5d643083a380d5a5d1d04}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Crystals of commercial iodic(V) acid, HIO${\sb 3}$, were investigated using single-crystal and powder X-ray diffraction. The crystals turned out to be HI${\sb 3}$O${\sb 8}$ or HIO${\sb 3}${$\cdot$}I${\sb 2}$O${\sb 5}$ [iodic acid{--}diiodine penta{\-}oxide (1/1)] instead, whose structure has been determined previously [Feikema & Vos (1966). {\it Acta Cryst.} {\bf 20}, 769{--}777]. Redetermination of the structure gave higher precision and allowed the location of the H atom.}
+      \field{journaltitle}{Acta Crystallographica Section E}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{Redetermination of HI${\sb 3}$O${\sb 8}$, an adduct of formula HIO${\sb 3}${$\cdot$}I${\sb 2}$O${\sb 5}$}}
+      \field{volume}{61}
+      \field{year}{2005}
+      \field{pages}{i278\bibrangedash i279}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1107/S1600536805037037
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1107/S1600536805037037
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1107/S1600536805037037
+      \endverb
+    \endentry
+    \entry{Landolt1886}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=835ae81cd40f421787757718c01cdf0a}{%
+           family={Landolt},
+           familyi={L\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{835ae81cd40f421787757718c01cdf0a}
+      \strng{fullhash}{835ae81cd40f421787757718c01cdf0a}
+      \strng{fullhashraw}{835ae81cd40f421787757718c01cdf0a}
+      \strng{bibnamehash}{835ae81cd40f421787757718c01cdf0a}
+      \strng{authorbibnamehash}{835ae81cd40f421787757718c01cdf0a}
+      \strng{authornamehash}{835ae81cd40f421787757718c01cdf0a}
+      \strng{authorfullhash}{835ae81cd40f421787757718c01cdf0a}
+      \strng{authorfullhashraw}{835ae81cd40f421787757718c01cdf0a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Berichte der deutschen chemischen Gesellschaft}
+      \field{number}{1}
+      \field{title}{Ueber die Zeitdauer der Reaction zwischen Jodsäure und schwefliger Säure}
+      \field{volume}{19}
+      \field{year}{1886}
+      \field{pages}{1317\bibrangedash 1365}
+      \range{pages}{49}
+      \verb{doi}
+      \verb https://doi.org/10.1002/cber.188601901293
+      \endverb
+      \verb{eprint}
+      \verb https://chemistry-europe.onlinelibrary.wiley.com/doi/pdf/10.1002/cber.188601901293
+      \endverb
+      \verb{urlraw}
+      \verb https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cber.188601901293
+      \endverb
+      \verb{url}
+      \verb https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cber.188601901293
+      \endverb
+    \endentry
+    \entry{Pisarenko2011}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=897c5ee811097f307b760fcca95c0d7b}{%
+           family={Pisarenko},
+           familyi={P\bibinitperiod},
+           given={Aleksey\bibnamedelima N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=046efe224c908e273093e6336d2f26cf}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c005f284c35848b669da821a6cb6bcaf}{%
+           family={Quiñones},
+           familyi={Q\bibinitperiod},
+           given={Oscar},
+           giveni={O\bibinitperiod}}}%
+        {{hash=7012e1227fb7407a863b5afbff5b3a4e}{%
+           family={Vanderford},
+           familyi={V\bibinitperiod},
+           given={Brett\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=4bad19e36ffc5405a81e4d534084ee05}{%
+           family={Mawhinney},
+           familyi={M\bibinitperiod},
+           given={Douglas\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea23f84339bb4ecc88113c9bee8142aa}
+      \strng{fullhash}{04f1d45b762243a5c2142025e7a36498}
+      \strng{fullhashraw}{04f1d45b762243a5c2142025e7a36498}
+      \strng{bibnamehash}{04f1d45b762243a5c2142025e7a36498}
+      \strng{authorbibnamehash}{04f1d45b762243a5c2142025e7a36498}
+      \strng{authornamehash}{ea23f84339bb4ecc88113c9bee8142aa}
+      \strng{authorfullhash}{04f1d45b762243a5c2142025e7a36498}
+      \strng{authorfullhashraw}{04f1d45b762243a5c2142025e7a36498}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Inorganic Chemistry}
+      \field{note}{PMID: 21780765}
+      \field{number}{18}
+      \field{title}{Two New Methods of Synthesis for the Perbromate Ion: Chemistry and Determination by LC-MS/MS}
+      \field{volume}{50}
+      \field{year}{2011}
+      \field{pages}{8691\bibrangedash 8693}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1021/ic201329q
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/ic201329q
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/ic201329q
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/ic201329q
+      \endverb
+    \endentry
+    \entry{Roos1976}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=107700ba14def0e9db899e31768a959c}{%
+           family={Roos},
+           familyi={R\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e4dd6f9221db4d2969eec26da69c96c7}{%
+           family={Kind},
+           familyi={K\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3a1044e731ae820ea7615081b24a3154}{%
+           family={Petzelt},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1cfabb0b3da1ffa8f268df2fd710cf97}
+      \strng{fullhash}{7b74839b4f8c2ccd391547afb20d2e60}
+      \strng{fullhashraw}{7b74839b4f8c2ccd391547afb20d2e60}
+      \strng{bibnamehash}{7b74839b4f8c2ccd391547afb20d2e60}
+      \strng{authorbibnamehash}{7b74839b4f8c2ccd391547afb20d2e60}
+      \strng{authornamehash}{1cfabb0b3da1ffa8f268df2fd710cf97}
+      \strng{authorfullhash}{7b74839b4f8c2ccd391547afb20d2e60}
+      \strng{authorfullhashraw}{7b74839b4f8c2ccd391547afb20d2e60}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The investigation of thermal, optical and dielectric properties of Ag2H3IO6 and (NH4)2H3IO6 revealed phase transitions in two steps with unknown intermediate phases. Reflectivity measurements in the far infrared region confirm that the main step is caused by a freezing in of the proton tunnelling modes. From the results of NMR-NQR-spectroscopy the low temperature structures for both compounds are deduced. The complete group analysis of lattice vibrations and proton ordering modes of the room temperature phases is performed. In the case of Ag2H3IO6 the transitions can be discussed in the frame-work of the Landau theory, starting with a condensation of an antiphase vibration of the silver atoms in theF point of the trigonal Brillouin zone, whereas in the case of (NH4)2H3IO6 a simultaneous ordering of protons inZ, F, andL-points of the Brillouin zone is proposed for the first step. A new definition of antiferroelectric transitions is suggested which is based on symmetry arguments only. The proton-ordering transitions in both compounds can then be classified as antiferroelectric.}
+      \field{issn}{1431-584X}
+      \field{journaltitle}{Zeitschrift für Physik B Condensed Matter}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{Phase transitions and lattice dynamics in Ag2H3IO6 and (NH4)2H3IO6}
+      \field{volume}{24}
+      \field{year}{1976}
+      \field{pages}{99\bibrangedash 112}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/BF01312879
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/BF01312879
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/BF01312879
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

@@ -2406,6 +2406,11 @@
     <bcf:citekey order="25" intorder="1">Lopez1994</bcf:citekey>
     <bcf:citekey order="26" intorder="1">Daehlie1964</bcf:citekey>
     <bcf:citekey order="27" intorder="1">Fjellvaag1994</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">Stahl1993</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">Fischer2005</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">Landolt1886</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">Pisarenko2011</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">Roos1976</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
