@@ -1,0 +1,165 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{Merkel1972}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=5e85dce56bdebc023201ca4896d30f31}{%
+           family={Merkel},
+           familyi={M\bibinitperiod},
+           given={Paul\bibnamedelima B.},
+           giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=36e35c97bd213a1367ece33df11967ca}{%
+           family={Kearns},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{e756acf1c149094296170cfba31fd386}
+      \strng{fullhash}{e756acf1c149094296170cfba31fd386}
+      \strng{fullhashraw}{e756acf1c149094296170cfba31fd386}
+      \strng{bibnamehash}{e756acf1c149094296170cfba31fd386}
+      \strng{authorbibnamehash}{e756acf1c149094296170cfba31fd386}
+      \strng{authornamehash}{e756acf1c149094296170cfba31fd386}
+      \strng{authorfullhash}{e756acf1c149094296170cfba31fd386}
+      \strng{authorfullhashraw}{e756acf1c149094296170cfba31fd386}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{number}{21}
+      \field{title}{Radiationless decay of singlet molecular oxygen in solution. Experimental and theoretical study of electronic-to-vibrational energy transfer}
+      \field{volume}{94}
+      \field{year}{1972}
+      \field{pages}{7244\bibrangedash 7253}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1021/ja00776a003
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/ja00776a003
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/ja00776a003
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/ja00776a003
+      \endverb
+    \endentry
+    \entry{Barrett1967}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=31820e859804c0af56002ac3f1b1bcbb}{%
+           family={Barrett},
+           familyi={B\bibinitperiod},
+           given={C.\bibnamedelimi S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=60b719da01a7aa7e783418414772c5cc}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2b1d3d18dcbbb30d75f86a8e8efd873a}{%
+           family={Wasserman},
+           familyi={W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{2bc638197b432370145c3169f88b0dcc}
+      \strng{fullhash}{50527b1d450b53065ad8713730e36be1}
+      \strng{fullhashraw}{50527b1d450b53065ad8713730e36be1}
+      \strng{bibnamehash}{50527b1d450b53065ad8713730e36be1}
+      \strng{authorbibnamehash}{50527b1d450b53065ad8713730e36be1}
+      \strng{authornamehash}{2bc638197b432370145c3169f88b0dcc}
+      \strng{authorfullhash}{50527b1d450b53065ad8713730e36be1}
+      \strng{authorfullhashraw}{50527b1d450b53065ad8713730e36be1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Chemical Physics}
+      \field{month}{07}
+      \field{number}{2}
+      \field{title}{Antiferromagnetic and Crystal Structures of Alpha-Oxygen}
+      \field{volume}{47}
+      \field{year}{1967}
+      \field{pages}{592\bibrangedash 597}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1063/1.1711936
+      \endverb
+      \verb{eprint}
+      \verb https://pubs.aip.org/aip/jcp/article-pdf/47/2/592/18850532/592_1_online.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1063/1.1711936
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1063/1.1711936
+      \endverb
+    \endentry
+    \entry{Joung2015}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=fe97d9d872ffc39c126654e8dd05031a}{%
+           family={Joung},
+           familyi={J\bibinitperiod},
+           given={Young\bibnamedelima Soo},
+           giveni={Y\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=ed62874dba9e384625f084e42397cc33}{%
+           family={Buie},
+           familyi={B\bibinitperiod},
+           given={Cullen\bibnamedelima R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8e34ffc839b44aa6c0a8296f52318ca}
+      \strng{fullhash}{a8e34ffc839b44aa6c0a8296f52318ca}
+      \strng{fullhashraw}{a8e34ffc839b44aa6c0a8296f52318ca}
+      \strng{bibnamehash}{a8e34ffc839b44aa6c0a8296f52318ca}
+      \strng{authorbibnamehash}{a8e34ffc839b44aa6c0a8296f52318ca}
+      \strng{authornamehash}{a8e34ffc839b44aa6c0a8296f52318ca}
+      \strng{authorfullhash}{a8e34ffc839b44aa6c0a8296f52318ca}
+      \strng{authorfullhashraw}{a8e34ffc839b44aa6c0a8296f52318ca}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Aerosols are investigated because of their significant impact on the environment and human health. To date, windblown dust and sea salt from sea spray through bursting bubbles have been considered the chief mechanisms of environmental aerosol dispersion. Here we investigate aerosol generation from droplets hitting wettable porous surfaces including various classifications of soil. We demonstrate that droplets can release aerosols when they influence porous surfaces, and these aerosols can deliver elements of the porous medium to the environment. Experiments on various porous media including soil and engineering materials reveal that knowledge of the surface properties and impact conditions can be used to predict when frenzied aerosol generation will occur. This study highlights new phenomena associated with droplets on porous media that could have implications for the investigation of aerosol generation in the environment.}
+      \field{issn}{2041-1723}
+      \field{journaltitle}{Nature Communications}
+      \field{number}{1}
+      \field{title}{Aerosol generation by raindrop impact on soil}
+      \field{volume}{6}
+      \field{year}{2015}
+      \field{pages}{6083}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/ncomms7083
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/ncomms7083
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/ncomms7083
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,36 +1,40 @@
-\documentclass{ctexart}
+\documentclass{ctexbook}
+\usepackage[
+    backend=biber,
+    style=chem-acs,
+]{biblatex}
+\addbibresource{ref.bib}
 \usepackage{EC}
 \begin{document}
 \section{氧及其化合物}
 \subsection{单质氧}
 我们所熟知的氧的单质是氧气和臭氧.
 \subsubsection{\ce{O2}}
-\begin{substance}[\ce{O2}]
-    氧气是无色气体,常压下在$90.2\K$时液化为淡蓝色的液体,在$54.4\K$时凝固为淡蓝色固体.\\
-    氧气微溶于水,在室温常压下的溶解度大约为$10\text{ mg/L}$.
-\end{substance}
-\paragraph{\ce{O2}的结构}
-\ce{O2}是少数几种具有偶数个电子而(在基态下)保持顺磁性的分子.基态\ce{O2}的分子轨道表示式为
-\[KK\left(\sigma_{2\text{s}}\right)^2\left(\sigma_{2\text{s}}^\ast\right)^2\left(\sigma_{2\text{p}}\right)^2\left(\pi_{2\text{p}}\right)^4\left(\pi_{2\text{p}}^\ast\right)^2\]
-需要注意的是,\ce{O2}尽管是特殊的,但它并没有发生s-p混杂.
+氧气是无色气体,常压下在$90.2\K$时液化为淡蓝色的液体,在$54.4\K$时凝固为淡蓝色固体.氧气微溶于水,在室温常压下的溶解度大约为$\SI{10}{\milli\gram\per\liter}$.
+\paragraph{\ce{O2}的电子结构}
+\ce{O2}是少数几种具有偶数个电子而(在基态下)保持顺磁性的分子.基态~\ce{O2}称作\tbf{三线态氧},其光谱项记号为$^3\Sigma_g^{-}$(有关光谱项记号的含义请查阅结构化学的相关书籍),分子轨道表示式为
+\[\text{KK}\left(\sigma_{2\text{s}}\right)^2\left(\sigma_{2\text{s}}^\ast\right)^2\left(\sigma_{2\text{p}}\right)^2\left(\pi_{2\text{p}}\right)^4\left(\pi_{2\text{p}}^\ast\right)^2\]
+需要注意的是,~\ce{O2}尽管是特殊的,但它并没有发生s-p混杂.\\
+\indent \ce{O2}的第一激发态又称作\tbf{单线态氧},其中两个电子成对地占据一个$\pi_{2\text{p}}^\ast$轨道,其光谱项记号为$^1\Delta_g$.~\ce{O2}的第二激发态中,两个电子自旋反平行地分占$\pi_{2\text{p}}^\ast$轨道,其光谱项记号$^1\Sigma_g^+$.\\
+\indent 单线态~\ce{O2}与基态~\ce{O2}的能量差为$94.3\kJm$,这一跃迁对应于波长为$\SI{1240}{\nano\meter}$的近红外光,因此单线态~\ce{O2}向基态的跃迁发出暗红色的光.由于单线态氧向基态的跃迁是自旋禁阻的,因此气相中的单线态氧的寿命较长,大约在$54\sim\SI{86}{\milli\second}$左右.在液相中~\ce{O2}的寿命则在$\si{\micro\second}$级别,并且与溶剂的极性等常规物理性质无关,而与溶剂在近红外处的吸收密切相关\cite{Merkel1972}.由这一现象可以认为单线态~\ce{O2}在溶剂中的无辐射跃迁实际上是电子-振动能量转移,即通过分子间相互作用将跃迁发射的能量转移到溶剂分子上,使后者的振动能级升高.因此,单线态~\ce{O2}的寿命取决于溶剂的振动能级(或高倍频和组合频)是否与跃迁能级匹配.含有~\ce{O-H}和~\ce{C-H}键的溶剂,其振动的倍频恰好落在近红外区内,因此淬灭速度很快(例如在~\ce{H2O}中的寿命仅为$\SI{2}{\micro\second}$);而氘代的溶剂则由于有效质量的增加,振动频率降低,猝灭速度变慢.至于不含有~\ce{H}原子的溶剂,例如~\ce{CCl4}和~\ce{CS2}等,由于重原子形成的共价键的振动频率很低,无法有效接收能量,因此单线态~\ce{O2}在其中的寿命可达$\si{\milli\second}$量级.
 \paragraph{\ce{O2}的制备}
-制备氧气主要通过含氧化合物的分解\footnote{虽然更经济的方法是直接购买氧气罐.在工业上,通过液化的方法分离空气中的各组分已经是一项成熟的技术.}.实验室一般采取如下方法:
-\begin{enumerate}[label=\tbf{\arabic*},topsep=0pt,parsep=0pt,itemsep=0pt,partopsep=0pt]
-    \item 热分解\ce{KClO3}.分解的反应方程式为
+在工业上,通过液化的方法分离空气中的各组分已经是一项成熟的技术,因此大量需求~\ce{O2}的最经济的方法是直接购买氧气罐.实验室制备氧气主要通过含氧化合物的分解,通常有如下办法:
+\begin{enumerate}[label=\tbf{\roman*.},leftmargin=*]
+    \item 热分解~\ce{KClO3}.分解的反应方程式为
         \begin{center}
             \ce{2KClO3(s) ->T[$\Delta$] 2KCl(s) + 3O2(g)}
         \end{center}
-        这一反应需要$400\sim500\tccentigrade$的温度.如果加入\ce{MnO2}作为催化剂,则温度可以降低到$150\tccentigrade$,但产物中会不可避免地出现少量\ce{ClO2}.
-    \item 热分解\ce{KMnO4}.分解的反应方程式为
+        这一反应需要$400\sim\SI{500}{\celsius}$的温度.如果加入~\ce{MnO2}作为催化剂,则温度可以降低到$\SI{150}{\celsius}$,但产物中会不可避免地出现少量~\ce{ClO2}.
+    \item 热分解~\ce{KMnO4}.分解的反应方程式为
         \begin{center}
             \ce{2KMnO4(s) ->T[$\Delta$] K2MnO4(s) + MnO2(s) + O2(g)}
         \end{center}
-        如果所用的\ce{KMnO4}足够纯,那么这种办法可以生成非常纯净的\ce{O2}.
-    \item 硝酸盐的热分解.以\ce{NaNO3}为例,分解的反应方程式为
+        如果所用的~\ce{KMnO4}足够纯,那么这种办法可以生成非常纯净的~\ce{O2}.
+    \item 硝酸盐的热分解.以~\ce{NaNO3}为例,分解的反应方程式为
         \begin{center}
             \ce{2NaNO3(s) ->T[$\Delta$] 2NaNO2(s) + O2(g)}
         \end{center}
-    \item 过氧化物的分解.典型的有\ce{H2O2}在\ce{MnO2}催化下的分解
+    \item 过氧化物的分解.典型的有~\ce{H2O2}在~\ce{MnO2}催化下的分解
         \begin{center}
             \ce{2H2O2(aq) ->T[\ce{MnO2}] 2H2O(l) + O2(g)}
         \end{center}
@@ -38,18 +42,14 @@
         \begin{center}
             \ce{2BaO2(s) ->T[$\Delta$] 2BaO(s) + O2(g)}
         \end{center}
-    \item 碱金属过氧化物与\ce{CO2}反应.\ce{Na2O2}与\ce{CO2}的反应以前被用于潜水员,消防员等的供氧设备中,而宇航密封舱则考虑到重量因素采用\ce{Li2O2}.反应的方程式如下:
+    \item 碱金属过氧化物与~\ce{CO2}反应.~\ce{Na2O2}与~\ce{CO2}的反应以前被用于潜水员,消防员等的供氧设备中,而宇航密封舱则考虑到重量因素采用~\ce{Li2O2}.反应的方程式如下:
         \begin{center}
             \ce{2M2O2 + 2CO2 -> 2M2CO3 + O2}\ \ \ $\left(\ce{M}=\ce{Li,Na}\right)$
         \end{center}
-        这一反应的好处是既产生\ce{O2},又消耗\ce{CO2}.
+        这一反应的好处是既产生~\ce{O2},又消耗~\ce{CO2}.
 \end{enumerate}
-\paragraph{单线态\ce{O2}}
-基态的\ce{O2}又称作\tbf{三线态氧},记作$^3\Sigma_g^-$.\\
-\indent \ce{O2}的第一激发态又称作\tbf{单线态氧},其中两个电子成对地占据一个$\pi_{2\text{p}}^\ast$轨道,记作$^1\Delta_g$.\ce{O2}的第二激发态中,两个电子自旋反平行地分占$\pi_{2\text{p}}^\ast$轨道,记作$^1\Sigma_g^+$.\\
-\indent 单线态\ce{O2}与基态\ce{O2}的能量差为$94.3\kJm$.由于单线态氧向基态的跃迁是自旋禁阻的,因此气相中的单线态氧的寿命较长,大约在$54\sim86\text{ ms}$左右.\\
-\indent 单线态氧需要特殊的方法制备.
-\begin{enumerate}[label=\tbf{\arabic*},topsep=0pt,parsep=0pt,itemsep=0pt,partopsep=0pt]
+上述反应产生的都是三线态氧.单线态氧需要特殊的方法制备.
+\begin{enumerate}[label=\tbf{\roman*.},leftmargin=*]
     \item 最简单的方法是\ce{H2O2}与\ce{NaOCl}的反应:
         \begin{center}
             \ce{H2O2(aq) + NaOCl(aq) -> NaCl(aq) + H2O(l) + O2($^1\Delta_g$,g)}
@@ -61,51 +61,48 @@
             \ce{P(O3)(OR)3 -> PO(OR)3 + O2($^1\Delta_g$)}
         \end{center}
 \end{enumerate}
-
-\indent 单线态氧在有机化学中有着重要的应用.作为烯烃的等电子体,它可以发生ene反应,环加成反应等周环反应.
-\paragraph{固态\ce{O2}的结构}
-固态\ce{O2}具有多种不同的晶型.
-\begin{enumerate}[label=\tbf{\arabic*},topsep=0pt,parsep=0pt,itemsep=0pt,partopsep=0pt]
-    \item $\alpha$-$\ce{O2}$\\
-        \indent 浅蓝色晶体,属于单斜晶系,正常大气压下生成于$23.8\K$以下.
+\paragraph{固态~\ce{O2}的结构}
+固态\ce{O2}具有多种不同的晶型.这些晶型的存在条件可以参考下面的固态~\ce{O2}的相图.
+\begin{figure}[H]\centering
+    \includegraphics[scale=0.4]{figure/O2phasediagram.png}
+    \caption{固态~\ce{O2}的相图}
+\end{figure}
+各固相的晶体结构和其它的一些性质如下:
+\begin{enumerate}[label=\tbf{\arabic*.},leftmargin=*]
+    \item $\alpha$-$\ce{O2}$:浅蓝色晶体,属于单斜晶系\cite{Barrett1967},正常大气压下生成于$\SI{23.8}{\kelvin}$以下.
         \begin{figure}[H]
-            \centering\includegraphics[scale=0.125]{picture/alpha-O2.eps}
-            \caption{$\alpha$-$\ce{O2}$的晶体结构示意}
+            \centering\includegraphics[scale=0.125]{figure/alpha-O2.png}
+            \caption{$\alpha$-$\ce{O2}$的晶体结构\quad$\text{C}\,1\,2/\text{m}\,1$\quad$a=\SI{540.3}{\pico\meter},b=\SI{342.9}{\pico\meter},c=\SI{508.6}{\pico\meter},\beta=132.5^\circ$}
         \end{figure}
-    \item $\beta$-$\ce{O2}$\\
-        \indent 淡蓝色至粉红色晶体,属于三方晶系,正常大气压下生成于$43.8\K$以下.
+    \item $\beta$-$\ce{O2}$:淡蓝色至粉红色晶体,属于三方晶系,正常大气压下生成于$\SI{43.8}{\kelvin}$以下.
         \begin{figure}[H]
-            \centering\includegraphics[scale=0.125]{picture/beta-O2.eps}
-            \caption{$\beta$-$\ce{O2}$的晶体结构示意}
+            \centering\includegraphics[scale=0.125]{figure/beta-O2.png}
+            \caption{$\beta$-$\ce{O2}$的晶体结构\quad$\text{R}\,\bar{3}\,\text{m}$\quad$a=b=\SI{284.7}{\pico\meter},c=\SI{1022.5}{\pico\meter},\beta=120^\circ$}
         \end{figure}
-    \item $\gamma$-$\ce{O2}$\\
-        \indent 淡蓝色晶体,属于立方晶系,正常大气压下生成于$54.4\K$以下.
+    \item $\gamma$-$\ce{O2}$:淡蓝色晶体,属于立方晶系,正常大气压下生成于$\SI{54.4}{\kelvin}$以下.需要注意的是,下图中的球代表随机取向的~\ce{O2}分子,具体的取向方式可以参看$\beta$-\ce{F2}的结构(二者具有相同的结构).
         \begin{figure}[H]
-            \centering\includegraphics[scale=0.125]{picture/gamma-O2.eps}
-            \caption{$\gamma$-$\ce{O2}$的晶体结构示意}
+            \centering\includegraphics[scale=0.125]{figure/gamma-O2.png}
+            \caption{$\gamma$-$\ce{O2}$的晶体结构\quad$\text{P}\,\text{m}\,\bar{3}\,\text{n}$\quad$a=b=c=\SI{678}{\pico\meter}$}
         \end{figure}
-    \item $\delta$-$\ce{O2}$\\
-        \indent 橙色晶体,属于正交晶系,室温时生成于$9\text{ GPa}$以上.
+    \item $\delta$-$\ce{O2}$:橙色晶体,属于正交晶系,室温时生成于$\SI{9}{\giga\pascal}$以上.
         \begin{figure}[H]
-            \centering\includegraphics[scale=0.125]{picture/delta-O2.eps}
-            \caption{$\delta$-$\ce{O2}$的晶体结构示意}
+            \centering\includegraphics[scale=0.125]{figure/delta-O2.png}
+            \caption{$\delta$-$\ce{O2}$的晶体结构\quad$\text{F}\,\text{m}\,\text{m}\,\text{m}$\quad$a=\SI{421.5}{\pico\meter},b=\SI{295.7}{\pico\meter},c=\SI{669.0}{\pico\meter}$}
         \end{figure}
-    \item $\ep$-$\ce{O2}$\\
-        \indent 深红色至黑色晶体,属于单斜晶系,室温时生成于$9\text{ GPa}$以上.$\ep$-$\ce{O2}$又被称作\tbf{红氧},其中含有\ce{O2}的四聚体\ce{O8}.
+    \item $\ep$-$\ce{O2}$:深红色至黑色晶体,属于单斜晶系,室温时生成于$\SI{9}{\giga\pascal}$以上.$\ep$-$\ce{O2}$又被称作\tbf{红氧},其中含有~\ce{O2}的四聚体~\ce{O8}.
         \begin{figure}[H]
-            \centering\includegraphics[scale=0.125]{picture/ep-O2.eps}
-            \caption{$\ep$-$\ce{O2}$的晶体结构示意}
+            \centering\includegraphics[scale=0.125]{figure/epsilon-O2.png}
+            \caption{$\ep$-$\ce{O2}$的晶体结构\quad$\text{C}\,1\,2/\text{m}\,1$\quad$a=\SI{797.0}{\pico\meter},b=\SI{563.3}{\pico\meter},c=\SI{371.1}{\pico\meter},\beta=149.4^\circ$}
         \end{figure}
-        可以看到,\ce{O8}是由四个\ce{O2}作用形成的菱面体簇合分子,这与\ce{S8}有明显区别.
+        可以看到,~\ce{O8}是由四个~\ce{O2}作用形成的平行六面体簇合分子,这与~\ce{S8}有明显区别.
 \end{enumerate}
 \subsubsection{\ce{O3}}
-\begin{substance}[\ce{O3}]
-    \ce{O3}俗称臭氧,室温下为淡蓝色气体,有淡淡的鱼腥味.常压下在$161.2\K$时液化为深蓝色液体,在$80.6\K$时凝固为紫黑色固体\footnotemark.
-\end{substance}\footnotetext{值得注意的是,\ce{O3}和\ce{I2}是唯二的紫黑色固体单质.}
+\ce{O3}俗称臭氧,室温下为淡蓝色气体,有淡淡的鱼腥味.常压下在$\SI{161.2}{\kelvin}$时液化为深蓝色液体,在$\SI{80.6}{\kelvin}$时凝固为紫黑色固体\footnote{值得注意的是,\ce{O3}和\ce{I2}是唯二的紫黑色固体单质.}\\
+\indent 低浓度的~\ce{O3}闻起来像雷雨后的新鲜空气的味道(闪电会使得大气中的~\ce{O2}转化为~\ce{O3}),但~\ce{O3}并不是这种气味的主要来源\cite{Joung2015}.打印店中的特殊的金属气味则主要来源于激光打印机放电产生的~\ce{O3}.高浓度的~\ce{O3}则呈现令人恶心的味道,并且具有明显的刺激性.
 \paragraph{\ce{O3}的结构}
 \ce{O3}为折线形分子,中心\ce{O}原子为sp$^2$杂化,键角为$116.8^\circ$.\ce{O3}的HOMO轨道系数最大处在两端的\ce{O}原子上,这与其共振式中两端\ce{O}原子带形式负电荷也相符合.
 \begin{figure}[H]
-    \centering\includegraphics[scale=0.25]{picture/O3.eps}
+    \centering\includegraphics[scale=0.25]{figure/O3.eps}
     \caption{\ce{O3}的共振式}
 \end{figure}
 \paragraph{自然界中的\ce{O3}}自然界中的\ce{O3}主要来源于以下途径:
@@ -140,7 +137,7 @@
 \begin{center}
     \ce{O3 + 3I^- + 2H2O -> O2 + I3^- + 2OH^-}
 \end{center}
-然后用\ce{Na2S2O3}进行反滴定即可.注意氧化产物为\ce{I3^-},而没有进一步被氧化.这可能是动力学因素导致的.\\
+然后用\ce{Na2S2O3}进行返滴定即可.注意氧化产物为\ce{I3^-},而没有进一步被氧化.这可能是动力学因素导致的.\\
 \indent \ce{O3}作为氧化剂的其它典型反应列举如下:
 \begin{center}
     \ce{O3 + CN^- -> OCN^- + O2}\\
@@ -171,61 +168,52 @@
 \begin{enumerate}[label=\tbf{\arabic*},topsep=0pt,parsep=0pt,itemsep=0pt,partopsep=0pt]
     \item \ce{H3O^+}.作为\ce{NH3}的等电子体,\ce{H3O^+}也是三角锥型的离子.它存在于\ce{[H3O][SbF6]},\ce{[H3O][HSO4]}等多种晶体中.
         \begin{figure}[H]
-            \centering\includegraphics[scale=0.25]{picture/H3O+.eps}
+            \centering\includegraphics[scale=0.25]{figure/H3O+.eps}
             \caption{\ce{H3O+}的结构}
         \end{figure}
     \item \ce{H5O2+}.它存在于多种晶体中,既有交错式,也有重叠式.
         \begin{figure}[H]
-            \centering\includegraphics[scale=0.25]{picture/H5O2+.eps}
+            \centering\includegraphics[scale=0.25]{figure/H5O2+.eps}
             \caption{\ce{H5O2+}的结构}
         \end{figure}
     \item \ce{H7O3+}和\ce{H9O4+}.
         \begin{figure}[H]
             \centering
-            \subfigure[\ce{H7O3+}]
-            {
-                \begin{minipage}[b]{.45\linewidth}
-                    \centering\includegraphics[scale=0.25]{picture/H7O3+.eps}
-                \end{minipage}
-            }
-            \subfigure[\ce{H9O4+}]
-            {
-                \begin{minipage}[b]{.45\linewidth}
-                    \centering\includegraphics[scale=0.25]{picture/H9O4+.eps}
-                \end{minipage}
-            }
+            \begin{subfigure}[b]{.45\linewidth}\centering
+                \includegraphics[scale=0.25]{figure/H7O3+.eps}
+            \end{subfigure}
+            \begin{subfigure}[b]{.45\linewidth}
+                \includegraphics[scale=0.25]{figure/H9O4+.eps}
+            \end{subfigure}
             \caption{\ce{H7O3+}和\ce{H9O4+}的结构}
         \end{figure}
     \item \ce{H13O6+}.它最初被发现于笼状阳离子\ce{[(C9H18)3(NH)2Cl]^+}在盐酸溶液析出的结晶中.该固体中的\ce{H13O6+}被周围的\ce{Cl-}离子所稳定.下面是该笼状阳离子结构和水合氢离子的结构.
         \begin{figure}[H]
-            \centering\includegraphics[scale=0.25]{picture/H13O6+.eps}
+            \centering\includegraphics[scale=0.25]{figure/H13O6+.eps}
             \caption{\ce{[(C9H18)3(NH)2Cl]^+}和\ce{H13O6+}的结构}
         \end{figure}
 \end{enumerate}
-\subsubsection{各种晶型的冰}我们现在来介绍各种晶型的冰.
+\subsubsection{各种晶型的冰}
+我们现在来介绍各种晶型的冰.
 \begin{enumerate}[label=\tbf{\arabic*},topsep=0pt,parsep=0pt,itemsep=0pt,partopsep=0pt]
     \item 冰-$I_h$\\
         冰-$I_h$是冰的最常见的晶型,其晶体结构示意如下.
         \begin{figure}[H]
-            \centering\includegraphics[scale=0.125]{picture/Ih-Ice.eps}
+            \centering\includegraphics[scale=0.125]{figure/Ih-Ice.eps}
             \caption{冰-$I_h$的晶体结构}
         \end{figure}
         冰-$I_h$中,\ce{O}做六方密堆积,每两个\ce{O}之间有一个\ce{H}原子.所有\ce{H}都是统计分布的,它与某一边的\ce{O}形成化学键,与另一边的\ce{O}形成氢键.\\
-        一个值得考虑的问题是冰-$I_h$的残余熵.我们可以推导如下.
-        \begin{derivation}
-            考虑到六方冰中O原子做六方密堆积排列,因此O的位置就固定不动.\\
-            由于固态的冰中存在氢键网络,每个O原子都通过氢键和周围四个O原子连接,因此我们需要做一个假设,%
-            即每个O原子周围都有两个H与其距离较远,另外两个与其距离较近.这对应着O形成两根O$-$H化学键和两根O$\cdot\cdot$H氢键.\\
-            这样,我们只需要考虑H的位置即可.对于1\ mol冰中的2\ mol\ H原子,都有两种状态,即处于两个O原子之间离其中某个O原子更近的位置.%
-            这样的微观状态数一共有$2^{2\NA}$种.\\
-            考虑到O原子对H原子的位置,每个O原子周围恰好有两个H靠近,两个H远离.这样的概率为
-            \[P_O=\dfrac{C_4^2}{2^4}=\dfrac{3}{8}\]
-            于是总的微观状态数为
-            \[\Omega=2^{2\NA}\cdot\left(P_O\right)^{\NA}=\left(\dfrac32\right)^{\NA}\]
-            于是
-            \[S=k_\text B\ln\Omega=R\ln\dfrac32\JmK\approx3.37\JmK\]
-            
-        \end{derivation}
+        一个值得考虑的问题是冰-$I_h$的残余熵.我们可以推导如下.考虑到六方冰中O原子做六方密堆积排列,因此O的位置就固定不动.\\
+        由于固态的冰中存在氢键网络,每个O原子都通过氢键和周围四个O原子连接,因此我们需要做一个假设,%
+        即每个O原子周围都有两个H与其距离较远,另外两个与其距离较近.这对应着O形成两根O$-$H化学键和两根O$\cdot\cdot$H氢键.\\
+        这样,我们只需要考虑H的位置即可.对于1\ mol冰中的2\ mol\ H原子,都有两种状态,即处于两个O原子之间离其中某个O原子更近的位置.%
+        这样的微观状态数一共有$2^{2\NA}$种.\\
+        考虑到O原子对H原子的位置,每个O原子周围恰好有两个H靠近,两个H远离.这样的概率为
+        \[P_O=\dfrac{C_4^2}{2^4}=\dfrac{3}{8}\]
+        于是总的微观状态数为
+        \[\Omega=2^{2\NA}\cdot\left(P_O\right)^{\NA}=\left(\dfrac32\right)^{\NA}\]
+        于是
+        \[S=k_\text B\ln\Omega=R\ln\dfrac32\JmK\approx3.37\JmK\]
         冰-$I_h$的氢键网络使得其密度小于水.当冰-$I_h$融化时,约有$\dfrac14$的氢键被破坏,并且这一比例将随着温度升高而持续增大,从而使得\ce{H2O}分子相互靠近,密度增大.另一方面,温度升高将使得分子热运动加剧,从而使密度减小.这两个效应的净结果是\ce{H2O}的密度在$3.98\tccentigrade$时达到最大.
     \item 冰-$I_c$\\
         冰-$I_c$的结构与冰-$I_h$十分相近,区别只在于冰-$I_c$中的\ce{O}原子做立方最密堆积,而\ce{H}分布的方式则相同.
@@ -257,7 +245,6 @@
 \begin{center}
     $\varphi^\ominus_{\text{Base}}$:\ \ \ \ce{O2 ->T[$-0.076\text{ V}$] HO2^- ->T[$0.878\text{ V}$] H2O}
 \end{center}
-
 \indent 无论是作为氧化剂还是还原剂,\ce{H2O2}在水溶液体系中都不会引入杂质.因此,\ce{H2O2}是实验室中常用的氧化剂.\\
 \indent 从标准电极电势看,\ce{H2O2}容易发生歧化.这在由催化剂的存在下进行地十分迅速.事实上,这一分解反应的催化剂大多是那些处于氧化态时可以氧化\ce{H2O2},处于还原态时可以被\ce{H2O2}氧化的物质.我们以$\ce{Fe^3+}/\ce{Fe^2+}$电对为例,催化反应的方程式为
 \begin{center}
@@ -279,7 +266,7 @@
 
 \indent 但以上两种方法都已被乙基蒽醌法所取代.这一方法采用乙基蒽醌和\ce{Pd}作为催化剂,由\ce{H2}和\ce{O2}直接合成\ce{H2O2},具体反应过程如下.
 \begin{figure}[H]
-    \centering\includegraphics[scale=0.25]{picture/H2O2Prod.eps}
+    \centering\includegraphics[scale=0.25]{figure/H2O2Prod.eps}
     \caption{乙基蒽醌法制备\ce{H2O2}}
 \end{figure}
 工业上采取此方法大量地合成\ce{H2O2}.
