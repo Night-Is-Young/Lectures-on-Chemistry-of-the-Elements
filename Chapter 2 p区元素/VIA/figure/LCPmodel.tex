@@ -1,0 +1,13 @@
+\documentclass{standalone}
+\usepackage{EC}
+\begin{document}
+\begin{tikzpicture}
+    \coordinate (A) at (0,0);
+    \coordinate (B) at (4.38,0);
+    \coordinate (C) at (2.19,1.74);
+    \draw (0,0) circle (2.19);
+    \draw (4.38,0) circle (2.19);
+    \draw[-] (C)--(A);
+    \draw[-] (C)--(B);
+\end{tikzpicture}
+\end{document}

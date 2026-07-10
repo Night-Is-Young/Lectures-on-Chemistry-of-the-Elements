@@ -1,25 +1,20 @@
-\documentclass{ctexart}
+\documentclass{ctexbook}
 \usepackage{EC}
 \begin{document}
 \section{硫及其化合物}
 \subsection{单质硫}
-\subsubsection{\ce{S8}:$\alpha$-正交硫,$\beta$-单斜硫和$\gamma$-单斜硫}
-\begin{substance}[正交$\mbf{\alpha}$-\ce{S8}]
-    硫最常见的,也是热力学上最稳定的单质为正交$\mbf{\alpha}$-\ce{S8}(简称正交硫).这是一种黄色固体,具有优良的绝缘性和绝热性.
-\end{substance}
-正交硫中含有$D_{4\text d}$点群的\ce{S8}分子,其结构颇像皇冠.
+\subsubsection{\ce{S8}: $\alpha$-正交硫,$\beta$-单斜硫和$\gamma$-单斜硫}
+硫最常见的,也是热力学上最稳定的单质为正交$\mbf{\alpha}$-\ce{S8}(简称正交硫).这是一种黄色固体,具有优良的绝缘性和绝热性.正交硫中含有$D_{4\text d}$点群的\ce{S8}分子,其结构颇像皇冠.
 \begin{figure}[H]
     \centering
-    \subfigure[\ce{S8}分子的俯视图]{
-        \begin{minipage}[b]{.45\linewidth}
-            \centering\includegraphics{picture/S8-1.eps}
-        \end{minipage}
-    }
-    \subfigure[\ce{S8}分子的侧视图]{
-        \begin{minipage}[b]{.45\linewidth}
-            \centering\includegraphics{picture/S8-2.eps}
-        \end{minipage}
-    }
+    \begin{subfigure}[b]{.45\linewidth}\centering
+        \includegraphics{figure/S8-1.eps}
+        \caption{\ce{S8}分子的俯视图}
+    \end{subfigure}
+    \begin{subfigure}[b]{.45\linewidth}\centering
+        \includegraphics{figure/S8-2.eps}
+        \caption{\ce{S8}分子的侧视图}
+    \end{subfigure}
     \caption{\ce{S8}分子的立体结构}
 \end{figure}
 加热$\alpha$-\ce{S8}至$95.3\tccentigrade$可使其转变为$\beta$-单斜\ce{S8}.将硫熔融后缓慢冷却可以得到$\gamma$-单斜\ce{S8}.这两种晶型中都由\ce{S8}分子组成,区别只在于排列方式不同.
@@ -33,21 +28,19 @@ $\ep$-硫由\ce{S6}分子构成,其颜色为橙红色,分子构象与环己烷�
 \subsection{$\mbf{-2}$氧化态}
 \subsubsection{\ce{H2S}}
 我们照例从氢化物开始.
-\begin{substance}[\ce{H2S}]
-    硫化氢,化学式为\ce{H2S},是无色的具有恶臭的剧毒气体.\ce{H2S}在空气中燃烧时发出浅蓝色的火焰.\ce{H2S}易溶于水,室温下在纯水中的溶解度\footnotemark 大约为$0.1\text{ mol}\cdot\text{L}^{-1}$.
-\end{substance}\footnotetext{一般而言,气体的溶解度仅指该形态的饱和浓度,这与分析浓度是不同的.对于\ce{H2S}而言,饱和时其浓度总是为$0.1\text{ mol}\cdot\text{L}^{-1}$,与\ce{HS-}或\ce{S^2-}的浓度无关.}
+硫化氢,化学式为\ce{H2S},是无色的具有恶臭的剧毒气体.\ce{H2S}在空气中燃烧时发出浅蓝色的火焰.\ce{H2S}易溶于水,室温下在纯水中的溶解度\footnote{一般而言,气体的溶解度仅指该形态的饱和浓度,这与分析浓度是不同的.对于\ce{H2S}而言,饱和时其浓度总是为$0.1\text{ mol}\cdot\text{L}^{-1}$,与\ce{HS-}或\ce{S^2-}的浓度无关.}大约为$0.1\text{ mol}\cdot\text{L}^{-1}$.\\
 \ce{H2S}是较弱的酸,并且是一种中等强度的还原剂.将\ce{H2S}溶液置于空气中,溶液将缓慢地变浑浊,其中生成了\ce{S}单质沉淀.
 \subsubsection{金属元素的硫化物}
 自然界有许多重要矿物以及金属元素的矿石是硫化物,这些矿石最重要的用途是自其中冶炼出金属.这些矿物中比较重要的列举如下:
 \begin{table}[H]\centering
-        \begin{tabular}{|c|c|c|c|c|c|}
-        \hline
-        名称 & 理想化学式 & 名称 & 理想化学式 & 名称 & 理想化学式 \\\hline
-        辉钼矿 & \ce{MoS2} & 方铅矿 & \ce{PbS} & 雄黄 & \ce{As4S4} \\\hline
-        雌黄 & \ce{As2S3} & 黄铁矿 & \ce{FeS2} & 白铁矿 & \ce{FeS2} \\\hline
-        辉锑矿 & \ce{Sb2S3} & 黄铜矿 & \ce{CuFeS2} & 砷黄铁矿 & \ce{FeAsS} \\\hline
-        辉铜矿 & \ce{Cu2S} & 闪锌矿 & \ce{ZnS} & 朱砂 & \ce{HgS} \\\hline
-        \end{tabular}
+    \begin{tabular}{|c|c|c|c|c|c|}
+    \hline
+    名称 & 理想化学式 & 名称 & 理想化学式 & 名称 & 理想化学式 \\\hline
+    辉钼矿 & \ce{MoS2} & 方铅矿 & \ce{PbS} & 雄黄 & \ce{As4S4} \\\hline
+    雌黄 & \ce{As2S3} & 黄铁矿 & \ce{FeS2} & 白铁矿 & \ce{FeS2} \\\hline
+    辉锑矿 & \ce{Sb2S3} & 黄铜矿 & \ce{CuFeS2} & 砷黄铁矿 & \ce{FeAsS} \\\hline
+    辉铜矿 & \ce{Cu2S} & 闪锌矿 & \ce{ZnS} & 朱砂 & \ce{HgS} \\\hline
+    \end{tabular}
 \end{table}
 所有硫化物矿中以黄铁矿丰度最大,这也是硫单质的主要来源.这些硫化物的性质将在对应元素的章节提及.
 \subsection{多硫阴离子}
@@ -55,21 +48,18 @@ $\ep$-硫由\ce{S6}分子构成,其颜色为橙红色,分子构象与环己烷�
 \indent 有关多硫离子,值得提到的一点是石硫合剂.它是\ce{Ca(OH)2}与\ce{S}单质反应得到的,通常以红黄色水溶液的形式用作病虫害防治.\\
 \indent 另一个有趣的配合物,也是无机化合物中鲜有的具有手性的例子,是\ce{Pt^{\ce{IV}}}与\ce{S5^2-}的配离子.它的结构如下所示.
 \begin{figure}[H]
-    \centering\includegraphics{picture/PtS15.eps}
+    \centering\includegraphics{figure/PtS15.eps}
     \caption{\ce{PtS15^2-}的结构}
 \end{figure}
 \subsection{$\mbf{+4}$氧化态}
 \subsubsection{\ce{SO2}}
-\ce{SO2}是硫的常见氧化物.
-\begin{substance}[\ce{SO2}]
-    二氧化硫,化学式为\ce{SO2},是无色,有窒息性臭味的有毒气体.\ce{SO2}的熔点为$-75.5\tccentigrade$,沸点为$-10.0\tccentigrade$.\ce{SO2}气体易溶于水.
-\end{substance}
+\ce{SO2}是硫的常见氧化物.二氧化硫,化学式为\ce{SO2},是无色,有窒息性臭味的有毒气体.\ce{SO2}的熔点为$-75.5\tccentigrade$,沸点为$-10.0\tccentigrade$.\ce{SO2}气体易溶于水.
 工业上大规模制备\ce{SO2}是由硫或\ce{H2S}在空气中燃烧,或锻烧黄铁矿.\ce{SO2}也是一种常见的大气污染物.工业上生产的\ce{SO2}主要用来制备硫酸其他如漂白,杀菌,食物保存,冷冻或作为非水溶剂等.
 \subsubsection{亚硫酸及其盐}
 亚硫酸仅存在于低浓度的\ce{SO2}水溶液中,难以作为纯物质被单独分离.亚硫酸盐则稳定得多,各种阳离子都能与它们形成稳定的盐.\\
 \indent 亚硫酸氢根\ce{HSO3-}有两种互变异构体.占主要的那种是具有$C_{3\text v}$对称性的\ce{HSO3-}而非\ce{HOSO2^-}.
 \begin{figure}[H]
-    \centering\includegraphics{picture/HSO3-.eps}
+    \centering\includegraphics{figure/HSO3-.eps}
     \caption{\ce{HSO3-}的两种互变异构体的结构}
 \end{figure}
 \indent \ce{HSO3-}和\ce{SO3^2-}为中等强度的还原剂.它们与\ce{I2}能发生定量的反应:
@@ -88,18 +78,15 @@ $\ep$-硫由\ce{S6}分子构成,其颜色为橙红色,分子构象与环己烷�
 \end{center}
 与\ce{HSO3-}一样,\ce{S2O5^2-}的结构也不同寻常,其中的两个\ce{S}并不等价,而是由一根\ce{S-S}键相连.
 \begin{figure}[H]
-    \centering\includegraphics{picture/S2O52-.eps}
+    \centering\includegraphics{figure/S2O52-.eps}
     \caption{\ce{S2O5^2-}的结构}
 \end{figure}
 \subsection{$\mbf{+6}$氧化态}
 \subsubsection{\ce{SO3}}
-\ce{SO3}也是硫的常见氧化物.
-\begin{substance}[\ce{SO3}]
-    三氧化硫,化学式为\ce{SO3},是无色针状固体或液体,有刺激性气味.\ce{SO3}的熔点为$16.9\tccentigrade$,沸点为$45\tccentigrade$,极易溶于水.
-\end{substance}
+\ce{SO3}也是硫的常见氧化物.三氧化硫,化学式为\ce{SO3},是无色针状固体或液体,有刺激性气味.\ce{SO3}的熔点为$16.9\tccentigrade$,沸点为$45\tccentigrade$,极易溶于水.
 气态的\ce{SO3}为平面型分子.液态的\ce{SO3}主要为其三聚体\ce{S3O9},其结构如下.
 \begin{figure}[H]
-    \centering\includegraphics{picture/S3O9.eps}
+    \centering\includegraphics{figure/S3O9.eps}
     \caption{\ce{SO3}的三聚体的结构}
 \end{figure}
 固态\ce{SO3}有两种晶型,一种是由\ce{S3O9}构成的$\gamma$-\ce{SO3};当微量水存在时,可以结晶为针状的$\beta$-\ce{SO3},其中含有长链聚合物\ce{HO(SO3)_nH}.另一种更稳定的晶型$\alpha$-\ce{SO3}中有复杂的交联结构\footnote{同一温度下这三种晶型的蒸气压大小顺序为$\alpha<\beta<\gamma$,因此加热$\alpha$-\ce{SO3}至熔化时会导致其蒸气压突然升高,巨大的压力可以冲破加热它的玻璃管.这一现象称为$\alpha$爆炸.}.\\
@@ -107,10 +94,7 @@ $\ep$-硫由\ce{S6}分子构成,其颜色为橙红色,分子构象与环己烷�
 \subsubsection{\ce{SO4}}
 这种化合物中含有过氧键,实际上可以写作\ce{SO2(O2)}.注意,其中的\ce{S}为三配位,并没有三元环,否则张力将太大.
 \subsubsection{\ce{H2SO4}}
-硫酸是一种重要的物质.
-\begin{substance}[\ce{H2SO4}]
-    硫酸,化学式为\ce{H2SO4}.无水硫酸为无色粘稠的液体,与水以任意比例混溶,混合过程放出大量的热.
-\end{substance}
+硫酸是一种重要的物质.硫酸,化学式为\ce{H2SO4}.无水硫酸为无色粘稠的液体,与水以任意比例混溶,混合过程放出大量的热.
 在无水硫酸中存在一系列平衡:
 \begin{center}
     \ce{2H2SO4 <=> H3SO4+ + HSO4-}\\
@@ -144,9 +128,7 @@ $\ep$-硫由\ce{S6}分子构成,其颜色为橙红色,分子构象与环己烷�
     \ce{8Na2SO3 + S8 -> 8Na2S2O3}
 \end{center}
 \indent \ce{S2O3^2-}的结构与\ce{SO4^2-}极为相似,只是把其中一个端基\ce{O}替换为\ce{S}即可.
-\begin{substance}[\ce{Na2S2O3.5H2O}]
-    海波/大苏打,即五水合硫代硫酸钠,化学式为\ce{Na2S2O3.5H2O},是一种无色晶体,熔点$48.5\tccentigrade$,易溶于水.
-\end{substance}
+海波/大苏打,即五水合硫代硫酸钠,化学式为\ce{Na2S2O3.5H2O},是一种无色晶体,熔点$48.5\tccentigrade$,易溶于水.
 海波在照相业\footnote{尽管这一行业现在已经很少用这种古老的办法摄影了.}中用作定影剂,用于溶解未反应的\ce{AgBr},反应的方程式为
 \begin{center}
     \ce{AgBr + 3S2O3^2- -> [Ag(S2O3)3]^5- + Br-}
@@ -217,15 +199,14 @@ $\ep$-硫由\ce{S6}分子构成,其颜色为橙红色,分子构象与环己烷�
         两者的结构示意如下.
         \begin{figure}[H]
             \centering
-            \subfigure[\ce{FSSF}的结构]{
-                \begin{minipage}[b]{.45\linewidth}
-                    \centering\includegraphics{picture/S2F2.eps}
-                \end{minipage}
-            }\subfigure[\ce{SSF2}的结构]{
-                \begin{minipage}[b]{.45\linewidth}
-                    \centering\includegraphics{picture/SSF2.eps}
-                \end{minipage}
-            }
+            \begin{subfigure}[b]{.45\linewidth}
+                \centering\includegraphics{figure/S2F2.eps}
+                \caption{\ce{FSSF}的结构}
+            \end{subfigure}
+            \begin{subfigure}[b]{.45\linewidth}
+                \centering\includegraphics{figure/SSF2.eps}
+                \caption{\ce{SSF2}的结构}
+            \end{subfigure}
             \caption{两种\ce{S2F2}的结构}
         \end{figure}
     \item \tbf{\ce{SF2}}\\
@@ -238,21 +219,18 @@ $\ep$-硫由\ce{S6}分子构成,其颜色为橙红色,分子构象与环己烷�
         它具有经典的跷跷板结构,其中的四个\ce{F}是不断流变的.有关\ce{SF4}的有趣的衍生结构是\ce{(H2C)SF4},它和\ce{SOF4}一样具有三角双锥结构,轴向的\ce{F}向远离端基\ce{O}或\ce{CH2}的方向偏移.值得注意的是,\ce{CH2}中的两个\ce{H}与轴向\ce{F}共平面,这是由于$\pi$键对轨道方向的要求决定的,尽管此时看起来位阻更大.
         \begin{figure}[H]
             \centering
-            \subfigure[\ce{SF4}的结构]{
-                \begin{minipage}[b]{.3\linewidth}
-                    \centering\includegraphics{picture/SF4.eps}
-                \end{minipage}
-            }
-            \subfigure[\ce{SOF4}的结构]{
-                \begin{minipage}[b]{.3\linewidth}
-                    \centering\includegraphics{picture/SOF4.eps}
-                \end{minipage}
-            }
-            \subfigure[\ce{(H2C)SF4}的结构]{
-                \begin{minipage}[b]{.3\linewidth}
-                    \centering\includegraphics{picture/S(CH2)F4.eps}
-                \end{minipage}
-            }
+            \begin{subfigure}[b]{.3\linewidth}
+                \centering\includegraphics{figure/SF4.eps}
+                \caption{\ce{SF4}的结构}
+            \end{subfigure}
+            \begin{subfigure}[b]{.3\linewidth}
+                \centering\includegraphics{figure/SOF4.eps}
+                \caption{\ce{SOF4}的结构}
+            \end{subfigure}
+            \begin{subfigure}[b]{.3\linewidth}
+                \centering\includegraphics{figure/S(CH2)F4.eps}
+                \caption{\ce{(H2C)SF4}的结构}
+            \end{subfigure}
             \caption{\ce{SF4}及其衍生物的结构}
         \end{figure}
         \ce{SF4}遇潮气迅速分解,并立即水解生成\ce{HF}和\ce{SO2}.尽管如此,在无机和有机合成中,它仍是具有高度选择性的强氟化剂,用途颇为广泛.
@@ -269,27 +247,21 @@ $\ep$-硫由\ce{S6}分子构成,其颜色为橙红色,分子构象与环己烷�
         下面是\ce{SF6}和\ce{S2F10}的结构.
         \begin{figure}[H]
             \centering
-            \subfigure[\ce{SF6}的结构]{
-                \begin{minipage}[b]{.45\linewidth}
-                    \centering\includegraphics{picture/SF6.eps}
-                \end{minipage}
-            }
-            \subfigure[\ce{S2F10}的结构]{
-                \begin{minipage}[b]{.3\linewidth}
-                    \centering\includegraphics{picture/S2F10.eps}
-                \end{minipage}
-            }
+            \begin{subfigure}[b]{.45\linewidth}
+                \centering\includegraphics{figure/SF6.eps}
+                \caption{\ce{SF6}的结构}
+            \end{subfigure}
+            \begin{subfigure}[b]{.45\linewidth}
+                \centering\includegraphics{figure/S2F10.eps}
+                \caption{\ce{S2F10}的结构}
+            \end{subfigure}
             \caption{\ce{SF6}和\ce{S2F10}的结构}
         \end{figure}
 \end{enumerate}
 \subsubsection{硫的氯化物}
 在剩余的硫的卤化物中,我们主要讨论最常见的\ce{SCl2}和\ce{S2Cl2},它们都是重要的化工产品.
-\begin{substance}[\ce{SCl2}]
-    二氯化硫,化学式为\ce{SCl2},是有毒且有恶臭味的樱桃红色液体,易挥发,熔点为$-122\tccentigrade$,沸点为$59\tccentigrade$.
-\end{substance}
-\begin{substance}[\ce{S2Cl2}]
-    二氯化二硫,化学式为\ce{S2Cl2},是有毒且有恶臭味的金黄色液体,熔点为$-76\tccentigrade$,沸点为$138\tccentigrade$.
-\end{substance}
+二氯化硫,化学式为\ce{SCl2},是有毒且有恶臭味的樱桃红色液体,易挥发,熔点为$-122\tccentigrade$,沸点为$59\tccentigrade$.
+二氯化二硫,化学式为\ce{S2Cl2},是有毒且有恶臭味的金黄色液体,熔点为$-76\tccentigrade$,沸点为$138\tccentigrade$.
 \ce{S2Cl2}在热力学上比\ce{SCl2}更稳定.因此,如果某一反应应当生成硫的氯化物,在没有其它提示的情况下你可以优先考虑\ce{S2Cl2}的生成.\ce{SCl2}最著名的反应是对乙烯的硫代氯化:
 \begin{center}
     \ce{SCl2 + C2H4 -> S(CH2CH2Cl)2}
@@ -297,12 +269,8 @@ $\ep$-硫由\ce{S6}分子构成,其颜色为橙红色,分子构象与环己烷�
 产物即臭名昭著的芥子气.
 \subsubsection{硫的氯氧化物}
 硫可以形成两个主要系列的卤氧化物,即\ce{S^{IV}OX2}和\ce{S^{VI}O2X2}.我们主要介绍亚硫酰氯\ce{SOCl2}和硫酰氯\ce{SO2Cl2}.
-\begin{substance}[\ce{SOCl2}]
-    亚硫酰氯,化学式为\ce{SOCl2},是无色易挥发的液体,熔点为$-101\tccentigrade$,沸点为$76\tccentigrade$.
-\end{substance}
-\begin{substance}[\ce{SO2Cl2}]
-    硫酰氯,化学式为\ce{SO2Cl2},也是无色易挥发的液体,熔点为$-54\tccentigrade$,沸点为$69\tccentigrade$.
-\end{substance}
+亚硫酰氯,化学式为\ce{SOCl2},是无色易挥发的液体,熔点为$-101\tccentigrade$,沸点为$76\tccentigrade$.
+硫酰氯,化学式为\ce{SO2Cl2},也是无色易挥发的液体,熔点为$-54\tccentigrade$,沸点为$69\tccentigrade$.
 \ce{SOCl2}可以由\ce{SO2}氯化得到,亦可以由\ce{SCl2}被\ce{SO3}氧化得到:
 \begin{center}
     \ce{SO2 + PCl5 -> SOCl2 + POCl3}\\
@@ -324,7 +292,7 @@ $\ep$-硫由\ce{S6}分子构成,其颜色为橙红色,分子构象与环己烷�
 \end{center}
 \indent\ce{S4N4}具有耐人寻味的结构.
 \begin{figure}[H]
-    \centering\includegraphics{picture/S4N4.eps}
+    \centering\includegraphics{figure/S4N4.eps}
     \caption{\ce{S4N4}的立体结构}
 \end{figure}
 \ce{S4N4}分子隶属$D_{2\text d}$点群,\ce{S-N}键长小于单键键长,表明杂环中有一定的离域效应.跨环的\ce{S-S}有一定的成键作用.\\
