@@ -1,0 +1,664 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{Ferreira2011}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=34dc600ff81540b40ab0b5f42c2dd1e3}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={A.G.M.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d69ad067c2c75fffa993b62062affaa6}{%
+           family={Lobo},
+           familyi={L\bibinitperiod},
+           given={L.Q.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{5eb2d404e3d64ae0bf62a8345b66219f}
+      \strng{fullhash}{5eb2d404e3d64ae0bf62a8345b66219f}
+      \strng{fullhashraw}{5eb2d404e3d64ae0bf62a8345b66219f}
+      \strng{bibnamehash}{5eb2d404e3d64ae0bf62a8345b66219f}
+      \strng{authorbibnamehash}{5eb2d404e3d64ae0bf62a8345b66219f}
+      \strng{authornamehash}{5eb2d404e3d64ae0bf62a8345b66219f}
+      \strng{authorfullhash}{5eb2d404e3d64ae0bf62a8345b66219f}
+      \strng{authorfullhashraw}{5eb2d404e3d64ae0bf62a8345b66219f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The experimental values of the (p,T) phase diagram of sulfur have been assessed through empirical equations commonly used. This treatment shows insufficiencies, namely those leading to significant uncertainties in the coordinates of the low-pressure triple points. An alternative way to try and find reliable equations for the phase equilibrium curves is provided by the exact integration of Clapeyron equation established and developed in a previous work. No fitting to (p,T) experimental data is then necessary. According to this method equations have been found to all the sulfur low-pressure equilibrium lines, and at the same time providing the enthalpies of transition between the phases as functions of temperature, and reliable values for the coordinates of the low-pressure triple points. The details of all these calculations and of the corresponding results are the object of the present paper. The (p,T) low-pressure phase diagram of sulfur is reconstructed on the basis of the results of the calculations carried out following these lines.}
+      \field{issn}{0021-9614}
+      \field{journaltitle}{The Journal of Chemical Thermodynamics}
+      \field{number}{2}
+      \field{title}{The low-pressure phase diagram of sulfur}
+      \field{volume}{43}
+      \field{year}{2011}
+      \field{pages}{95\bibrangedash 104}
+      \range{pages}{10}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jct.2010.07.007
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0021961410002235
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0021961410002235
+      \endverb
+      \keyw{Sulfur,Phase diagram,Sublimation,Vaporization,Fusion,Solid-solid transition,Enthalpies of transition,Triple points}
+    \endentry
+    \entry{Kanatzidis1983}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=9facfd170da2aa42f18ffb99d87b81d2}{%
+           family={Kanatzidis},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=645abaa9f049ccb6b855bbb745ff2328}{%
+           family={Baenziger},
+           familyi={B\bibinitperiod},
+           given={N.\bibnamedelimi C.},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=8c71c4d3568d34037962c7a526014520}{%
+           family={Coucouvanis},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3fca1c4125a8018695c16523678ba93}
+      \strng{fullhash}{22cf1db6cf3dddce4552876308c0b87e}
+      \strng{fullhashraw}{22cf1db6cf3dddce4552876308c0b87e}
+      \strng{bibnamehash}{22cf1db6cf3dddce4552876308c0b87e}
+      \strng{authorbibnamehash}{22cf1db6cf3dddce4552876308c0b87e}
+      \strng{authornamehash}{f3fca1c4125a8018695c16523678ba93}
+      \strng{authorfullhash}{22cf1db6cf3dddce4552876308c0b87e}
+      \strng{authorfullhashraw}{22cf1db6cf3dddce4552876308c0b87e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Inorganic Chemistry}
+      \field{number}{2}
+      \field{title}{Crystal structure determination of bis(tetraphenylphosphonium) heptasulfide, (Ph4P)2S7}
+      \field{volume}{22}
+      \field{year}{1983}
+      \field{pages}{290\bibrangedash 292}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1021/ic00144a019
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/ic00144a019
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/ic00144a019
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/ic00144a019
+      \endverb
+    \endentry
+    \entry{Sheldrick1997}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=7d1622522e7eeebe96852d808e398d5d}{%
+           family={Sheldrick},
+           familyi={S\bibinitperiod},
+           given={William\bibnamedelima S.},
+           giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=8ff4621ab1ae7e07fe15d4b0129e210f}{%
+           family={Wachhold},
+           familyi={W\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e7bc77cb5085b593082f1cf5cf9d0882}
+      \strng{fullhash}{e7bc77cb5085b593082f1cf5cf9d0882}
+      \strng{fullhashraw}{e7bc77cb5085b593082f1cf5cf9d0882}
+      \strng{bibnamehash}{e7bc77cb5085b593082f1cf5cf9d0882}
+      \strng{authorbibnamehash}{e7bc77cb5085b593082f1cf5cf9d0882}
+      \strng{authornamehash}{e7bc77cb5085b593082f1cf5cf9d0882}
+      \strng{authorfullhash}{e7bc77cb5085b593082f1cf5cf9d0882}
+      \strng{authorfullhashraw}{e7bc77cb5085b593082f1cf5cf9d0882}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Development of solventothermal methods in the intermediate-temperature (100-600°C) range has been motivated by current interest in the design of solid-state compounds with open framework structures. The preparation of nanoporous chalcogenidometalates by this technique is particularly promising, as a combination of the typical ion-exchanging and catalytic features of zeolite-like phases with the unique optoelectronic properties of transition metal and group 13-16 chalcogenides could afford novel multifunctional materials. Superheated strongly polarizing solvents such as water, methanol, and amines at temperatures in the range 110-200°C provide reaction conditions adequate to greatly enhance solubility, diffusion, and crystallization but still mild enough to leave molecular building blocks such as chains and rings intact to participate in the formation of polymeric anions. Such intermediate temperatures often allow the isolation of metastable solid-state compounds and thermodynamically stable phases that decompose at higher temperatures. The dimensionality and pore size of the anion network can be influenced by the choice of a suitable structure-directing alkali metal or alkyl-ammonium cation. Methanolothermal conditions have been found to be particularly suitable for the preparation of selenido- and telluridometalates, and have afforded a new class of very tellurium-rich alkali metal tellurides such as RbTe6 and Cs3Te22. This article presents a comprehensive review of the application of mild solventothermal techniques to the preparation of heavier group 14-16 and transition metal chalcogenidometalates.}
+      \field{journaltitle}{Angewandte Chemie International Edition in English}
+      \field{number}{3}
+      \field{title}{Solventothermal Synthesis of Solid-State Chalcogenidometalates}
+      \field{volume}{36}
+      \field{year}{1997}
+      \field{pages}{206\bibrangedash 224}
+      \range{pages}{19}
+      \verb{doi}
+      \verb https://doi.org/10.1002/anie.199702061
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.199702061
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.199702061
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.199702061
+      \endverb
+      \keyw{chalcogens,methanol,nanostructures,polychalcogenides,solventothermal synthesis,Chalcogens,Methanol,Nanostructures,Polychalcogenides,Solventothermal synthesis}
+    \endentry
+    \entry{Lin2015}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=8b0373446ec8ac08573616e1b8566465}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Zhan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=5324c06150710942bc6a5d8f41844c04}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Chengdu},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{347f9339a254e45bf22c5a3274432706}
+      \strng{fullhash}{347f9339a254e45bf22c5a3274432706}
+      \strng{fullhashraw}{347f9339a254e45bf22c5a3274432706}
+      \strng{bibnamehash}{347f9339a254e45bf22c5a3274432706}
+      \strng{authorbibnamehash}{347f9339a254e45bf22c5a3274432706}
+      \strng{authornamehash}{347f9339a254e45bf22c5a3274432706}
+      \strng{authorfullhash}{347f9339a254e45bf22c5a3274432706}
+      \strng{authorfullhashraw}{347f9339a254e45bf22c5a3274432706}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Lithium-sulfur (Li-S) batteries supply a theoretical specific energy 5 times higher than that of lithium-ion batteries (2500 vs. ~500 W h kg-1). However, the insulating properties and polysulfide shuttle effects of the sulfur cathode and safety concerns of the lithium anode in liquid electrolytes are still key limitations to practical use of traditional Li-S batteries. In this review, we start with a brief discussion on fundamentals of Li-S batteries and key challenges associated with conventional liquid cells. We then introduce the most recent progress in liquid systems, including sulfur positive electrodes, lithium negative electrodes, and electrolytes and binders. We discuss the significance of investigating electrode reaction mechanisms in liquid cells using in situ techniques to monitor the compositional and morphological changes. We also discuss the importance of this game-changing shift, moving from traditional liquid cells to recently developed solid cells, with positive advances in both solid electrolytes and electrode materials. Finally, the opportunities and perspectives for future research on Li-S batteries are presented.}
+      \field{issn}{2050-7488}
+      \field{journaltitle}{Journal of Materials Chemistry A}
+      \field{month}{01}
+      \field{number}{3}
+      \field{title}{Lithium-sulfur batteries: from liquid to solid cells}
+      \field{volume}{3}
+      \field{year}{2015}
+      \field{pages}{936\bibrangedash 958}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1039/c4ta04727c
+      \endverb
+      \verb{eprint}
+      \verb https://pubs.rsc.org/ta/article-pdf/3/3/936/3963876/c4ta04727c.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1039/c4ta04727c
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1039/c4ta04727c
+      \endverb
+    \endentry
+    \entry{Block1994}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=acb8ce3fa42ac533f82c4ae6c3e4fc0b}{%
+           family={Block},
+           familyi={B\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=fece87486e7066a60de68d6c9af62b09}{%
+           family={Deorazio},
+           familyi={D\bibinitperiod},
+           given={Russell},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{05bfd761999227727094a9220dc4ad32}
+      \strng{fullhash}{05bfd761999227727094a9220dc4ad32}
+      \strng{fullhashraw}{05bfd761999227727094a9220dc4ad32}
+      \strng{bibnamehash}{05bfd761999227727094a9220dc4ad32}
+      \strng{authorbibnamehash}{05bfd761999227727094a9220dc4ad32}
+      \strng{authornamehash}{05bfd761999227727094a9220dc4ad32}
+      \strng{authorfullhash}{05bfd761999227727094a9220dc4ad32}
+      \strng{authorfullhashraw}{05bfd761999227727094a9220dc4ad32}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pure and Applied Chemistry}
+      \field{number}{10-11}
+      \field{title}{Chemistry in a salad bowl: Comparative organosulfur chemistry of garlic, onion and shiitake mushrooms}
+      \field{volume}{66}
+      \field{year}{1994}
+      \field{pages}{2205\bibrangedash 2206}
+      \range{pages}{2}
+      \verb{doi}
+      \verb doi:10.1351/pac199466102205
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1351/pac199466102205
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1351/pac199466102205
+      \endverb
+    \endentry
+    \entry{Bernhard2000}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=8869e86741f092af05c21f179c5c863e}{%
+           family={Neumüller},
+           familyi={N\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod}}}%
+        {{hash=cd37d801823753d166a207a27766a4b3}{%
+           family={Schmock},
+           familyi={S\bibinitperiod},
+           given={Fritjof},
+           giveni={F\bibinitperiod}}}%
+        {{hash=050cb37b3cb2b039081b793af1fd3917}{%
+           family={Kirmse},
+           familyi={K\bibinitperiod},
+           given={Reinhard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3d76e133102b18dc760ba92e8e2311c2}{%
+           family={Voigt},
+           familyi={V\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4c542898ab53ab4e719d94a9d7abb74c}{%
+           family={Diefenbach},
+           familyi={D\bibinitperiod},
+           given={Axel},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d3f453e2faa2caa64d1f08299147d8c9}{%
+           family={Bickelhaupt},
+           familyi={B\bibinitperiod},
+           given={F.\bibnamedelimi Matthias},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e8a34fe33604bf5f20639666fb9936d6}{%
+           family={Dehnicke},
+           familyi={D\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b0ba9eca4ab399e101aa627de356fb9}
+      \strng{fullhash}{50cb21e9722b66239bd2d2289779a418}
+      \strng{fullhashraw}{50cb21e9722b66239bd2d2289779a418}
+      \strng{bibnamehash}{50cb21e9722b66239bd2d2289779a418}
+      \strng{authorbibnamehash}{50cb21e9722b66239bd2d2289779a418}
+      \strng{authornamehash}{7b0ba9eca4ab399e101aa627de356fb9}
+      \strng{authorfullhash}{50cb21e9722b66239bd2d2289779a418}
+      \strng{authorfullhashraw}{50cb21e9722b66239bd2d2289779a418}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Two long S-S bonds link the two S3 fragments in the cyclic radical anion S6.-. This forms as orange-red crystals with PPh4+ as the counterion in the reaction of sulfane with (tetraphenylphosphonium) hydrogen diazide. The anion has a chair conformation with C2h symmetry (see picture).}
+      \field{journaltitle}{Angewandte Chemie International Edition}
+      \field{number}{24}
+      \field{title}{(Ph4P)S6—A Compound Containing the Cyclic Radical Anion S6.-}
+      \field{volume}{39}
+      \field{year}{2000}
+      \field{pages}{4580\bibrangedash 4582}
+      \range{pages}{3}
+      \verb{doi}
+      \verb https://doi.org/10.1002/1521-3773(20001215)39:24<4580::AID-ANIE4580>3.0.CO;2-G
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/1521-3773%2820001215%2939%3A24%3C4580%3A%3AAID-ANIE4580%3E3.0.CO%3B2-G
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/1521-3773%2820001215%2939%3A24%3C4580%3A%3AAID-ANIE4580%3E3.0.CO%3B2-G
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/1521-3773%2820001215%2939%3A24%3C4580%3A%3AAID-ANIE4580%3E3.0.CO%3B2-G
+      \endverb
+      \keyw{ab initio calculations,density functional calculations,radical anions,structure elucidation,sulfur}
+    \endentry
+    \entry{GB26132-2010}{standard}{}{}
+      \name{author}{1}{}{%
+        {{hash=8f294322f5291324b3fe754b9fb6aece}{%
+           family={中华人民共和国生态环境部},
+           familyi={中\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {北京}%
+      }
+      \list{organization}{1}{%
+        {中国环境科学出版社}%
+      }
+      \strng{namehash}{8f294322f5291324b3fe754b9fb6aece}
+      \strng{fullhash}{8f294322f5291324b3fe754b9fb6aece}
+      \strng{fullhashraw}{8f294322f5291324b3fe754b9fb6aece}
+      \strng{bibnamehash}{8f294322f5291324b3fe754b9fb6aece}
+      \strng{authorbibnamehash}{8f294322f5291324b3fe754b9fb6aece}
+      \strng{authornamehash}{8f294322f5291324b3fe754b9fb6aece}
+      \strng{authorfullhash}{8f294322f5291324b3fe754b9fb6aece}
+      \strng{authorfullhashraw}{8f294322f5291324b3fe754b9fb6aece}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{GB 26132-2010}
+      \field{title}{硫酸工业污染物排放标准}
+      \field{year}{2010}
+    \endentry
+    \entry{Ashar2016}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{hash=cbde02ec868a4b4e307c625d619f4c8a}{%
+           family={Ashar},
+           familyi={A\bibinitperiod},
+           given={Navin\bibnamedelima G.},
+           giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{cbde02ec868a4b4e307c625d619f4c8a}
+      \strng{fullhash}{cbde02ec868a4b4e307c625d619f4c8a}
+      \strng{fullhashraw}{cbde02ec868a4b4e307c625d619f4c8a}
+      \strng{bibnamehash}{cbde02ec868a4b4e307c625d619f4c8a}
+      \strng{authorbibnamehash}{cbde02ec868a4b4e307c625d619f4c8a}
+      \strng{authornamehash}{cbde02ec868a4b4e307c625d619f4c8a}
+      \strng{authorfullhash}{cbde02ec868a4b4e307c625d619f4c8a}
+      \strng{authorfullhashraw}{cbde02ec868a4b4e307c625d619f4c8a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Sulphonation Techniques: Liquid Sulphur Dioxide as a Solvent of Sulphur Trioxide}
+      \field{isbn}{978-3-319-22641-5}
+      \field{title}{Chemical and Physical Properties of Sulphur Dioxide and Sulphur Trioxide}
+      \field{year}{2016}
+      \field{pages}{13\bibrangedash 14}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1007/978-3-319-22641-5_2
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-319-22641-5_2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-319-22641-5_2
+      \endverb
+    \endentry
+    \entry{McDonald1967}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=9ede956cffafa917a49031e9b6a9ef74}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={W.\bibnamedelimi S.},
+           giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=dd9e9386e2b71b29bf66002f0c718151}{%
+           family={Cruickshank},
+           familyi={C\bibinitperiod},
+           given={D.\bibnamedelimi W.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c791fa2fc0522ba853ea248c5f2f096f}
+      \strng{fullhash}{c791fa2fc0522ba853ea248c5f2f096f}
+      \strng{fullhashraw}{c791fa2fc0522ba853ea248c5f2f096f}
+      \strng{bibnamehash}{c791fa2fc0522ba853ea248c5f2f096f}
+      \strng{authorbibnamehash}{c791fa2fc0522ba853ea248c5f2f096f}
+      \strng{authornamehash}{c791fa2fc0522ba853ea248c5f2f096f}
+      \strng{authorfullhash}{c791fa2fc0522ba853ea248c5f2f096f}
+      \strng{authorfullhashraw}{c791fa2fc0522ba853ea248c5f2f096f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Crystallographica}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{A refinement of the structure of S${\sb 3}$O${\sb 9}$}}
+      \field{volume}{22}
+      \field{year}{1967}
+      \field{pages}{48\bibrangedash 51}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1107/S0365110X6700009X
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1107/S0365110X6700009X
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1107/S0365110X6700009X
+      \endverb
+    \endentry
+    \entry{Kugel1975}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=662359149131183b7c6a5a64e9e1326f}{%
+           family={Kugel},
+           familyi={K\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ffee4352495a15cf91c1245c8dea9e00}{%
+           family={Taube},
+           familyi={T\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{6b8d3b2708210aaf44414af6ba5a5f52}
+      \strng{fullhash}{6b8d3b2708210aaf44414af6ba5a5f52}
+      \strng{fullhashraw}{6b8d3b2708210aaf44414af6ba5a5f52}
+      \strng{bibnamehash}{6b8d3b2708210aaf44414af6ba5a5f52}
+      \strng{authorbibnamehash}{6b8d3b2708210aaf44414af6ba5a5f52}
+      \strng{authornamehash}{6b8d3b2708210aaf44414af6ba5a5f52}
+      \strng{authorfullhash}{6b8d3b2708210aaf44414af6ba5a5f52}
+      \strng{authorfullhashraw}{6b8d3b2708210aaf44414af6ba5a5f52}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Physical Chemistry}
+      \field{number}{20}
+      \field{title}{Infrared spectrum and structure of matrix-isolated sulfur tetroxide}
+      \field{volume}{79}
+      \field{year}{1975}
+      \field{pages}{2130\bibrangedash 2135}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1021/j100587a014
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/j100587a014
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/j100587a014
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/j100587a014
+      \endverb
+    \endentry
+    \entry{LaBonville1977}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=cc5b0dcd963d4f2fb4de313fd0553b9a}{%
+           family={La\bibnamedelima Bonville},
+           familyi={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e8d0e318925d15fd8d3a6b2a3f02b827}{%
+           family={Kugel},
+           familyi={K\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=70755f7a1b9124f2a45bfb715b28dd1d}{%
+           family={Ferraro},
+           familyi={F\bibinitperiod},
+           given={J.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{2fe8403fd411f78344b2653c2f0c0442}
+      \strng{fullhash}{85b9b4d4a81ef887869fbf1af68d19f9}
+      \strng{fullhashraw}{85b9b4d4a81ef887869fbf1af68d19f9}
+      \strng{bibnamehash}{85b9b4d4a81ef887869fbf1af68d19f9}
+      \strng{authorbibnamehash}{85b9b4d4a81ef887869fbf1af68d19f9}
+      \strng{authornamehash}{2fe8403fd411f78344b2653c2f0c0442}
+      \strng{authorfullhash}{85b9b4d4a81ef887869fbf1af68d19f9}
+      \strng{authorfullhashraw}{85b9b4d4a81ef887869fbf1af68d19f9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Normal coordinate analyses for the neutral molecules CO3 and SO4 were made. For the CO3 molecule a trans Cs structure was found to be more suitable than the three-membered ring C2v bridged structure, based on frequency and isotopic fit and force constant transferability. Three structures were considered for the SO4 molecule: C3v, C2v bridged structure, and Cs. The Cs structure was preferred because of the agreement between observed and calculated frequencies and reasonable values for the force constants.}
+      \field{issn}{0021-9606}
+      \field{journaltitle}{The Journal of Chemical Physics}
+      \field{month}{08}
+      \field{number}{4}
+      \field{title}{Normal coordinate analyses of the neutral CO3 and SO4 molecules}
+      \field{volume}{67}
+      \field{year}{1977}
+      \field{pages}{1477\bibrangedash 1481}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1063/1.435022
+      \endverb
+      \verb{eprint}
+      \verb https://pubs.aip.org/aip/jcp/article-pdf/67/4/1477/18907231/1477_1_online.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1063/1.435022
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1063/1.435022
+      \endverb
+    \endentry
+    \entry{Greenwood1997}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=504c1b9cb2bb2547dabeef1d1acc740b}{%
+           family={Greenwood},
+           familyi={G\bibinitperiod},
+           given={Norman\bibnamedelima N.},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=8171228686f38e9ae3767f58cc568454}{%
+           family={Earnshaw},
+           familyi={E\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Butterworth-Heinemann}%
+      }
+      \strng{namehash}{0dd511b750de2292bceeeb11130f5a96}
+      \strng{fullhash}{0dd511b750de2292bceeeb11130f5a96}
+      \strng{fullhashraw}{0dd511b750de2292bceeeb11130f5a96}
+      \strng{bibnamehash}{0dd511b750de2292bceeeb11130f5a96}
+      \strng{authorbibnamehash}{0dd511b750de2292bceeeb11130f5a96}
+      \strng{authornamehash}{0dd511b750de2292bceeeb11130f5a96}
+      \strng{authorfullhash}{0dd511b750de2292bceeeb11130f5a96}
+      \strng{authorfullhashraw}{0dd511b750de2292bceeeb11130f5a96}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{isbn}{978-0-7506-3365-9}
+      \field{title}{Chemistry of the Elements}
+      \field{year}{1997}
+    \endentry
+    \entry{McKee1993}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=df857968a607a47f36cb9b8dcff5e2ae}{%
+           family={McKee},
+           familyi={M\bibinitperiod},
+           given={Michael\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{df857968a607a47f36cb9b8dcff5e2ae}
+      \strng{fullhash}{df857968a607a47f36cb9b8dcff5e2ae}
+      \strng{fullhashraw}{df857968a607a47f36cb9b8dcff5e2ae}
+      \strng{bibnamehash}{df857968a607a47f36cb9b8dcff5e2ae}
+      \strng{authorbibnamehash}{df857968a607a47f36cb9b8dcff5e2ae}
+      \strng{authornamehash}{df857968a607a47f36cb9b8dcff5e2ae}
+      \strng{authorfullhash}{df857968a607a47f36cb9b8dcff5e2ae}
+      \strng{authorfullhashraw}{df857968a607a47f36cb9b8dcff5e2ae}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{number}{20}
+      \field{title}{Computational studies on sulfur oxides (SO4 and S2O3)}
+      \field{volume}{115}
+      \field{year}{1993}
+      \field{pages}{9136\bibrangedash 9142}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1021/ja00073a032
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/ja00073a032
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/ja00073a032
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/ja00073a032
+      \endverb
+    \endentry
+    \entry{Goodarzi2012}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=ae61467d727fe025135149fcdaa3aae8}{%
+           family={Goodarzi},
+           familyi={G\bibinitperiod},
+           given={Moein},
+           giveni={M\bibinitperiod}}}%
+        {{hash=eb0b5fceb50a7beeb8c675e86bdf3359}{%
+           family={Vahedpour},
+           familyi={V\bibinitperiod},
+           given={Morteza},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7331db79b03d4f21885cf4733004818d}{%
+           family={Solimannejad},
+           familyi={S\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5f1529509353e60b3c39734d55e456b}
+      \strng{fullhash}{b38fbb2139406213fdd64ac610a352a7}
+      \strng{fullhashraw}{b38fbb2139406213fdd64ac610a352a7}
+      \strng{bibnamehash}{b38fbb2139406213fdd64ac610a352a7}
+      \strng{authorbibnamehash}{b38fbb2139406213fdd64ac610a352a7}
+      \strng{authornamehash}{a5f1529509353e60b3c39734d55e456b}
+      \strng{authorfullhash}{b38fbb2139406213fdd64ac610a352a7}
+      \strng{authorfullhashraw}{b38fbb2139406213fdd64ac610a352a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The mechanism of SO2+O2 and O+SO3(D3h) reactions have been investigated at the MP2/6-31+G(d) and CCSD(T)/cc-pV(Q+d)Z//MP2 levels on the triplet and singlet PESs. Although, no stable collision complexes have been found for the SO2+O2(3∑g-), O(3P)+SO3(D3h) and O(1D)+SO3(D3h) reactions, 1IN(O2S-O2) has been considered on the singlet PES for the SO2+O2(1Δg) reaction. The results show that there are no favorable paths for the OSO ring formation of SO4(C2v) in the atmospheric reactions of the SO2+O2(3∑g-), SO2+O2(1Δg) and O(3P)+SO3(D3h) while, the O(1D)+SO3(D3h) reaction can be suitable for the SO4(C2v) formation on the singlet PES.}
+      \field{issn}{0009-2614}
+      \field{journaltitle}{Chemical Physics Letters}
+      \field{title}{What is the mechanism of the OSO ring formation in sulfur tetroxide (SO4(C2v)) molecule?}
+      \field{volume}{538}
+      \field{year}{2012}
+      \field{pages}{10\bibrangedash 13}
+      \range{pages}{4}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.cplett.2012.04.036
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0009261412005179
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0009261412005179
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
