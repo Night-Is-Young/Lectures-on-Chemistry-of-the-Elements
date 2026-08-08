@@ -1,5 +1,9 @@
 \documentclass{ctexart}
 \usepackage{EC}
+\usepackage[
+    backend=biber,
+    style=chem-acs,
+]{biblatex}
 \begin{document}
 \section{硒,碲及其化合物}
 \subsection{硒,碲的单质}
@@ -10,16 +14,14 @@
 灰硒属于六方晶系,是\ce{Se}在热力学上最稳定的单质.它的晶体结构比较特殊,是由周期为$3$的\ce{Se}螺旋长链组成的.
 \begin{figure}[H]
     \centering
-    \subfigure[灰硒的晶体结构示意图]{
-        \begin{minipage}[b]{.45\linewidth}
-            \centering\includegraphics[scale=0.125]{picture/Se.eps}
-        \end{minipage}
-    }
-    \subfigure[灰硒的晶胞$c$轴投影图]{
-        \begin{minipage}[b]{.45\linewidth}
-            \centering\includegraphics[scale=0.125]{picture/Se-c.eps}
-        \end{minipage}
-    }
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics[scale=0.125]{figure/Se.eps}
+        \caption{灰硒的晶体结构示意图}
+    \end{subfigure}
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics[scale=0.125]{figure/Se-c.eps}
+        \caption{灰硒的晶胞$c$轴投影图}
+    \end{subfigure}
     \caption{灰硒的晶体结构}
 \end{figure}
 \paragraph{黑硒} 这是常见的市售硒单质的元素形态,是蓝黑色有脆性的玻璃态固体,由熔融的\ce{Se}迅速冷却得到.黑硒其中有着大小不同的\ce{Se_n}环.
@@ -72,18 +74,14 @@
 下面给出了前述几种阳离子的立体结构.
 \begin{figure}[H]
     \centering
-    \subfigure[\ce{X4^2+}$\left(\ce{X}=\ce{S,Se,Te}\right)$的结构]
-    {
-        \begin{minipage}[b]{.45\linewidth}
-            \centering\includegraphics[scale=0.25]{picture/X42+.eps}
-        \end{minipage}
-    }
-    \subfigure[\ce{Te6^4+}的结构]
-    {
-        \begin{minipage}[b]{.45\linewidth}
-            \centering\includegraphics[scale=0.25]{picture/Te64+.eps}
-        \end{minipage}
-    }
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics[scale=0.25]{figure/X42+.eps}
+        \caption{\ce{X4^2+}$\left(\ce{X}=\ce{S,Se,Te}\right)$的结构}
+    \end{subfigure}
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics[scale=0.25]{figure/Te64+.eps}
+        \caption{\ce{Te6^4+}的结构}
+    \end{subfigure}
     \caption{部分\ce{S,Se,Te}的多原子阳离子的结构}
 \end{figure}
 \subsection{\ce{Se,Te}的卤化物}
@@ -91,69 +89,59 @@
 \ce{Te}可以形成异常低价态卤化物.这些物质通常是长链结构,以\ce{Te}单质本身具有的螺旋结构为基础.控制条件可以使\ce{Te}与\ce{Cl2}化合成\ce{Te3Cl2},这是一种长链分子,主链中每个两个\ce{Te}原子,在第三个\ce{Te}上加两个\ce{Cl}原子而被氧化.\ce{Te2I}具有船式六元\ce{Te}环组成的带状一维结构.$\beta$-\ce{TeI}的结构则与\ce{Te2I}有一定类似之处.
 \begin{figure}[H]
     \centering
-    \subfigure[\ce{Te2I}的长链结构]
-    {
-        \begin{minipage}[b]{.45\linewidth}
-            \centering\includegraphics{picture/Te2I.eps}
-        \end{minipage}
-    }
-    \subfigure[$\beta$-\ce{TeI}的长链结构]
-    {
-        \begin{minipage}[b]{.45\linewidth}
-            \centering\includegraphics{picture/beta-TeI.eps}
-        \end{minipage}
-    }
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics{figure/Te2I.eps}
+        \caption{\ce{Te2I}的长链结构}
+    \end{subfigure}
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics{figure/beta-TeI.eps}
+        \caption{$\beta$-\ce{TeI}的长链结构}
+    \end{subfigure}
     \caption{\ce{Te2I}和$\beta$-\ce{TeI}的结构}
 \end{figure}
 \subsubsection{\ce{Se,Te}的四卤化物}
 \ce{SeF4}具有与\ce{SF4}相似的结构.而\ce{TeF4}中的\ce{Te}则通过桥连\ce{F}原子形成了长链结构.
 \begin{figure}[H]
-    \centering\includegraphics{picture/TeF4.eps}
+    \centering\includegraphics{figure/TeF4.eps}
     \caption{\ce{TeF4}的长链结构}
 \end{figure}
 \ce{TeCl4}的结构则值得探究.在正常情况下,\ce{TeCl4}是由四聚体\ce{Te4Cl16}构成的,这一四聚体是一个立方体簇合物.它可以逐次失去\ce{Te}形成\ce{Te3Cl^-_13},\ce{Te2Cl^2-_10}和\ce{TeCl^2-_6}.这些离子的结构都可以看作是由\ce{Te4Cl16}立方体衍生而来.
 \begin{figure}[H]
     \centering
-    \subfigure[\ce{Te4Cl16}的结构]{
-        \begin{minipage}[b]{.45\linewidth}
-            \centering\includegraphics[scale=0.75]{picture/Te4Cl16.eps}
-        \end{minipage}
-    }
-    \subfigure[\ce{Te3Cl^-_13}的结构]{
-        \begin{minipage}[b]{.45\linewidth}
-            \centering\includegraphics[scale=0.75]{picture/Te3Cl13.eps}
-        \end{minipage}
-    }
-    \subfigure[\ce{Te2Cl^2-_10}的结构]{
-        \begin{minipage}[b]{.45\linewidth}
-            \centering\includegraphics[scale=0.75]{picture/Te2Cl10.eps}
-        \end{minipage}
-    }
-    \subfigure[\ce{TeCl^2-_6}的结构]{
-        \begin{minipage}[b]{.45\linewidth}
-            \centering\includegraphics{picture/TeCl6.eps}
-        \end{minipage}
-    }
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics[scale=0.75]{figure/Te4Cl16.eps}
+        \caption{\ce{Te4Cl16}的结构}
+    \end{subfigure}
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics[scale=0.75]{figure/Te3Cl13.eps}
+        \caption{\ce{Te3Cl^-_13}的结构}
+    \end{subfigure}
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics[scale=0.75]{figure/Te2Cl10.eps}
+        \caption{\ce{Te2Cl^2-_10}的结构}
+    \end{subfigure}
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics[scale=0.75]{figure/TeCl6.eps}
+        \caption{\ce{TeCl^2-_6}的结构}
+    \end{subfigure}
     \caption{\ce{Te4Cl16}及其衍生结构}
 \end{figure}
 当然,我们有更好的画法表示上面的离子.
 \begin{figure}[H]
     \centering
-    \subfigure[\ce{Te3Cl^-_13}的结构]{
-        \begin{minipage}[b]{.45\linewidth}
-            \centering\includegraphics{picture/Te3Cl13-2.eps}
-        \end{minipage}
-    }
-    \subfigure[\ce{Te2Cl^2-_10}的结构]{
-        \begin{minipage}[b]{.45\linewidth}
-            \centering\includegraphics{picture/Te2Cl10-2.eps}
-        \end{minipage}
-    }
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics[scale=0.75]{figure/Te3Cl13-2.eps}
+        \caption{\ce{Te3Cl16}的结构}
+    \end{subfigure}
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics[scale=0.75]{figure/Te2Cl10-2.eps}
+        \caption{\ce{Te2Cl^2-_10}的结构}
+    \end{subfigure}
     \caption{更好的绘制方法}
 \end{figure}
 而\ce{TeI4}虽然也形成四聚体,但结构与\ce{TeCl4}亦有所不同.
 \begin{figure}[H]
-    \centering\includegraphics{picture/Te4I16.eps}
+    \centering\includegraphics{figure/Te4I16.eps}
     \caption{\ce{Te4I16}的结构}
 \end{figure}
 在有强Lewis酸存在的情形下,这些卤化物都可以形成对应的阳离子盐,例如:
@@ -185,7 +173,7 @@
 在热力学上,\ce{SeO2}相较\ce{SO2}和\ce{TeO2}氧化性更强,容易被\ce{NH3},\ce{N2H4}或\ce{SO2}的水溶液还原成单质\ce{Se}.在有机化学中,它也可以作为氧化剂制备醇.\\
 \indent 固态\ce{SeO2}是以\ce{\{SeO3\}}角锥体共用\ce{O}原子形成的长链结构,示意如下.
 \begin{figure}[H]
-    \centering\includegraphics[scale=0.25]{picture/SeO2.eps}
+    \centering\includegraphics[scale=0.25]{figure/SeO2.eps}
     \caption{固态\ce{SeO2}的长链结构}
 \end{figure}
 \begin{substance}[\ce{TeO2}]
@@ -194,18 +182,14 @@
 自然界中的\ce{TeO2}以$\beta$-\ce{TeO2}的形式存在,其中有复杂的二维层状结构,如下图所示.
 \begin{figure}[H]
     \centering
-    \subfigure[$\beta$-\ce{TeO2}沿$a$轴的投影图]
-    {
-        \begin{minipage}[b]{.45\linewidth}
-            \centering\includegraphics[scale=0.125]{picture/beta-TeO2-a.eps}
-        \end{minipage}
-    }
-    \subfigure[$\beta$-\ce{TeO2}沿$b$轴的投影图]
-    {
-        \begin{minipage}[b]{.45\linewidth}
-            \centering\includegraphics[scale=0.125]{picture/beta-TeO2-b.eps}
-        \end{minipage}
-    }
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics[scale=0.125]{figure/beta-TeO2-a.eps}
+        \caption{$\beta$-\ce{TeO2}沿$a$轴的投影图}
+    \end{subfigure}
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics[scale=0.125]{figure/beta-TeO2-b.eps}
+        \caption{$\beta$-\ce{TeO2}沿$b$轴的投影图}
+    \end{subfigure}
     \caption{$\beta$-\ce{TeO2}的晶体结构}
 \end{figure}
 而$\alpha$-\ce{TeO2}则在实验室中合成,为似金红石结构.
@@ -232,7 +216,7 @@
 \end{center}
 固态的\ce{SeO3}以环状四聚体\ce{Se4O12}的形式存在,其结构示意如下.
 \begin{figure}[H]
-    \centering\includegraphics{picture/SeO3.eps}
+    \centering\includegraphics{figure/SeO3.eps}
     \caption{环状四聚体\ce{Se4O12}的结构}
 \end{figure}
 \begin{substance}[\ce{TeO3}]

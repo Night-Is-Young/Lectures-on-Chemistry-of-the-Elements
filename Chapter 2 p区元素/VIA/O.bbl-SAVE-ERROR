@@ -159,6 +159,64 @@
       \verb https://doi.org/10.1038/ncomms7083
       \endverb
     \endentry
+    \entry{Sakamoto2009}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=12693921797822279366989ecefd6148}{%
+           family={Sakamoto},
+           familyi={S\bibinitperiod},
+           given={Yosuke},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=85254dd64c6105ba0f7510154569613b}{%
+           family={Yabushita},
+           familyi={Y\bibinitperiod},
+           given={Akihiro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f8c78fef932516483d37a6cb816556d9}{%
+           family={Kawasaki},
+           familyi={K\bibinitperiod},
+           given={Masahiro},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9f254ed524b05ce421add00503b333ef}{%
+           family={Enami},
+           familyi={E\bibinitperiod},
+           given={Shinichi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{80732a2137d8234ff251c3c0a715e21a}
+      \strng{fullhash}{0a6044da27d3b78ccc5c62534a94752b}
+      \strng{fullhashraw}{0a6044da27d3b78ccc5c62534a94752b}
+      \strng{bibnamehash}{0a6044da27d3b78ccc5c62534a94752b}
+      \strng{authorbibnamehash}{0a6044da27d3b78ccc5c62534a94752b}
+      \strng{authornamehash}{80732a2137d8234ff251c3c0a715e21a}
+      \strng{authorfullhash}{0a6044da27d3b78ccc5c62534a94752b}
+      \strng{authorfullhashraw}{0a6044da27d3b78ccc5c62534a94752b}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Recent studies indicated that gaseous halogens mediate key tropospheric chemical processes. The inclusion of halogen-ozone chemistry in atmospheric box models actually closes the ~50\% gap between estimated and measured ozone losses in the marine boundary layer. The additional source of gaseous halogens is deemed to involve previously unaccounted for reactions of O3(g) with sea surface water and marine aerosols. Here, we report that molecular iodine, I2(g), and iodine monoxide radical, IO(g), are released ([I2(g)] \&gt; 100[IO(g)]) during the heterogeneous reaction of gaseous ozone, O3(g), with aqueous potassium iodide, KI(aq). It was found that (1) the amounts of I2(g) and IO(g) produced are directly proportional to [KI(aq)] up to 5 mM and (2) IO(g) yields are independent of bulk pH between 2 and 11, whereas I2(g) production is markedly enhanced at pH \&lt; 4. We propose that O3(g) reacts with I- at the air/water interface to produce I2(g) and IO(g) via HOI and IOOO- intermediates, respectively.}
+      \field{issn}{1089-5639}
+      \field{journaltitle}{The Journal of Physical Chemistry A}
+      \field{month}{06}
+      \field{number}{27}
+      \field{title}{Direct Emission of I2 Molecule and IO Radical from the Heterogeneous Reactions of Gaseous Ozone with Aqueous Potassium Iodide Solution}
+      \field{volume}{113}
+      \field{year}{2009}
+      \field{pages}{7707\bibrangedash 7713}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1021/jp903486u
+      \endverb
+      \verb{eprint}
+      \verb https://pubs.acs.org/jpcafh/article-pdf/113/27/7707/4725629/jp903486u.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/jp903486u
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/jp903486u
+      \endverb
+    \endentry
     \entry{cmglee2011}{online}{}{}
       \name{author}{1}{}{%
         {{hash=63be37eb23dc88361a0deca071ffd509}{%
@@ -173,8 +231,8 @@
       \strng{authornamehash}{63be37eb23dc88361a0deca071ffd509}
       \strng{authorfullhash}{63be37eb23dc88361a0deca071ffd509}
       \strng{authorfullhashraw}{63be37eb23dc88361a0deca071ffd509}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Own work. Licensed under CC BY-SA 3.0}
@@ -213,8 +271,8 @@
       \strng{authornamehash}{57002dec049d71166a4985e677fc4d28}
       \strng{authorfullhash}{57002dec049d71166a4985e677fc4d28}
       \strng{authorfullhashraw}{57002dec049d71166a4985e677fc4d28}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{3rd}
@@ -242,8 +300,8 @@
       \strng{authornamehash}{298133a6b79dcce8ef5f6cb15b60f119}
       \strng{authorfullhash}{298133a6b79dcce8ef5f6cb15b60f119}
       \strng{authorfullhashraw}{298133a6b79dcce8ef5f6cb15b60f119}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{1}
@@ -280,8 +338,8 @@
       \strng{authornamehash}{fa2582d278d00b7bf3c7c06aff8e1285}
       \strng{authorfullhash}{fa2582d278d00b7bf3c7c06aff8e1285}
       \strng{authorfullhashraw}{fa2582d278d00b7bf3c7c06aff8e1285}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The lattice statistical problem of calculating the residual entropy of ice has been considered in some detail for the hexagonal and cubic ice lattices as well as for a two-dimensional icelike lattice. Even for the two-dimensional lattice, this problem appears to be intractable using exact methods, so an approximation method is in order. The series method of DiMarzio and Stillinger has been developed so that the series is completely characterized by the numbers of various kinds of cycles on the lattice. The first five terms of the series have been evaluated and used to extrapolate values of the residual entropy S(0) within rather narrow limits for all practical purposes. The result for hexagonal ice and cubic ice is S(0) = .8145 ± .0002 cal/deg/mole which agrees with experiment even better than Pauling's original approximation. Some other methods are also discussed, and their results tend to confirm the series results.}
@@ -341,8 +399,8 @@
       \strng{authornamehash}{3e274da532ecac62db5670b2d5adb280}
       \strng{authorfullhash}{884cde5c23e95a6bca237c8a11865081}
       \strng{authorfullhashraw}{884cde5c23e95a6bca237c8a11865081}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{19}
@@ -392,8 +450,8 @@
       \strng{authornamehash}{c263a99f4f126853d61c8f7a45be1f80}
       \strng{authorfullhash}{5ae1ea1dee88bfad282b35e4c0210ef1}
       \strng{authorfullhashraw}{5ae1ea1dee88bfad282b35e4c0210ef1}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{9}
@@ -750,6 +808,134 @@
       \verb https://www.sciencedirect.com/science/article/pii/S001085459900199X
       \endverb
       \keyw{VSEPR model,Molecular geometry,Ligand-ligand repulsions,LCP model}
+    \endentry
+    \entry{Studier1971}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=ceebae852dedad0ac3ab65f89e73d6a6}{%
+           family={Studier},
+           familyi={S\bibinitperiod},
+           given={Martin\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=28eb678fd8203a4c1f0c10da641d7a57}{%
+           family={Appelman},
+           familyi={A\bibinitperiod},
+           given={Evan\bibnamedelima H.},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{8a6f26a7fad7536127f3a210e472432c}
+      \strng{fullhash}{8a6f26a7fad7536127f3a210e472432c}
+      \strng{fullhashraw}{8a6f26a7fad7536127f3a210e472432c}
+      \strng{bibnamehash}{8a6f26a7fad7536127f3a210e472432c}
+      \strng{authorbibnamehash}{8a6f26a7fad7536127f3a210e472432c}
+      \strng{authornamehash}{8a6f26a7fad7536127f3a210e472432c}
+      \strng{authorfullhash}{8a6f26a7fad7536127f3a210e472432c}
+      \strng{authorfullhashraw}{8a6f26a7fad7536127f3a210e472432c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{number}{9}
+      \field{title}{Hypofluorous acid}
+      \field{volume}{93}
+      \field{year}{1971}
+      \field{pages}{2349\bibrangedash 2351}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1021/ja00738a059
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/ja00738a059
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/ja00738a059
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/ja00738a059
+      \endverb
+    \endentry
+    \entry{Volnov1967}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=093469370045d80b894f5f885e64f907}{%
+           family={Vol'nov},
+           familyi={V\bibinitperiod},
+           given={I.\bibnamedelimi I.},
+           giveni={I\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=aa4ea49445cb8ed3f2cd2410f7bbf554}{%
+           family={Chamova},
+           familyi={C\bibinitperiod},
+           given={V.\bibnamedelimi N.},
+           giveni={V\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=5cd20393a4c6fa1a765fb2f8d26426d2}{%
+           family={Latysheva},
+           familyi={L\bibinitperiod},
+           given={E.\bibnamedelimi I.},
+           giveni={E\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \strng{namehash}{b396cbf6685057276446e17b5f96f291}
+      \strng{fullhash}{d226f1889c834c8ee701eb229e1ed570}
+      \strng{fullhashraw}{d226f1889c834c8ee701eb229e1ed570}
+      \strng{bibnamehash}{d226f1889c834c8ee701eb229e1ed570}
+      \strng{authorbibnamehash}{d226f1889c834c8ee701eb229e1ed570}
+      \strng{authornamehash}{b396cbf6685057276446e17b5f96f291}
+      \strng{authorfullhash}{d226f1889c834c8ee701eb229e1ed570}
+      \strng{authorfullhashraw}{d226f1889c834c8ee701eb229e1ed570}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A mechanism of the formation of ozonides of alkali metals was proposed on the basis of data obtained in an investigation of the reaction of oxygen-labeled KOH with ozone, the reaction of KOH with atomic oxygen, and the reaction of KOH with ozone; this mechanism is based upon: the catalytic decomposition of ozone on the surface of the solid alkalies into molecular and atomic oxygen, the interaction of the latter with the hydroxide, forming a superperoxide, and an interaction of the superperoxide with ozone, forming the ozonide.}
+      \field{day}{1}
+      \field{issn}{1573-9171}
+      \field{journaltitle}{Bulletin of the Academy of Sciences of the USSR, Division of chemical science}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{On the mechanism of the formation of ozonides of the alkali metals}
+      \field{volume}{16}
+      \field{year}{1967}
+      \field{dateera}{ce}
+      \field{pages}{1147\bibrangedash 1150}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1007/BF00908262
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/BF00908262
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/BF00908262
+      \endverb
+    \endentry
+    \entry{Schnick1987}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=056f40ec68bbda883d4755ab9da4043b}{%
+           family={Schnick},
+           familyi={S\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=9bb90d78cb3331e3c03cc584efb3eab6}{%
+           family={Jansen},
+           familyi={J\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d56f6365fdf93cd482ac6cf067da9a44}
+      \strng{fullhash}{d56f6365fdf93cd482ac6cf067da9a44}
+      \strng{fullhashraw}{d56f6365fdf93cd482ac6cf067da9a44}
+      \strng{bibnamehash}{d56f6365fdf93cd482ac6cf067da9a44}
+      \strng{authorbibnamehash}{d56f6365fdf93cd482ac6cf067da9a44}
+      \strng{authornamehash}{d56f6365fdf93cd482ac6cf067da9a44}
+      \strng{authorfullhash}{d56f6365fdf93cd482ac6cf067da9a44}
+      \strng{authorfullhashraw}{d56f6365fdf93cd482ac6cf067da9a44}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revue de chimie minérale}
+      \field{title}{Preparation, Crystal Structure and Thermal Behaviour of Potassium Ozonide}
+      \field{year}{1987}
+      \field{pages}{446\bibrangedash 456}
+      \range{pages}{11}
     \endentry
   \enddatalist
 \endrefsection

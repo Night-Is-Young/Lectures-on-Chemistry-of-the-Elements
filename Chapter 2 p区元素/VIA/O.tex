@@ -20,20 +20,17 @@
 \paragraph{\ce{O2}的制备}
 在工业上,通过液化的方法分离空气中的各组分已经是一项成熟的技术,因此大量需求~\ce{O2}的最经济的方法是直接购买氧气罐.实验室制备氧气主要通过含氧化合物的分解,通常有如下办法:
 \begin{enumerate}[label=\tbf{\roman*.},leftmargin=*]
-    \item 热分解~\ce{KClO3}.分解的反应方程式为
+    \item 热分解~\ce{KClO3}.加热~\ce{KClO3}至熔融时发生分解,分解的反应方程式为
         \begin{tightcenter}
-            \ce{2KClO3(s) ->T[$\Delta$] 2KCl(s) + 3O2(g)}
+            \ce{2KClO3 ->T[$\Delta$] 2KCl + 3O2}\\
+            \ce{4KClO3 ->T[$\Delta$] KCl + 3KClO4}
         \end{tightcenter}
-        这一反应需要$400\sim\SI{500}{\celsius}$的温度.如果加入~\ce{MnO2}作为催化剂,则温度可以降低到$\SI{150}{\celsius}$,但产物中会不可避免地出现少量~\ce{ClO2}.
+        为了将副反应生成的~\ce{KClO4}中的氧全部释出,这一反应需要$400\sim\SI{500}{\celsius}$的温度.如果加入~\ce{MnO2}作为催化剂,则温度可以降低到$\SI{150}{\celsius}$,但产物中会不可避免地出现少量~\ce{ClO2}.
     \item 热分解~\ce{KMnO4}.分解的反应方程式为
         \begin{tightcenter}
             \ce{2KMnO4(s) ->T[$\Delta$] K2MnO4(s) + MnO2(s) + O2(g)}
         \end{tightcenter}
         如果所用的~\ce{KMnO4}足够纯,那么这种办法可以生成非常纯净的~\ce{O2}.
-    \item 硝酸盐的热分解.以~\ce{NaNO3}为例,分解的反应方程式为
-        \begin{tightcenter}
-            \ce{2NaNO3(s) ->T[$\Delta$] 2NaNO2(s) + O2(g)}
-        \end{tightcenter}
     \item 过氧化物的分解.典型的有~\ce{H2O2}在~\ce{MnO2}催化下的分解
         \begin{tightcenter}
             \ce{2H2O2(aq) ->T[\ce{MnO2}] 2H2O(l) + O2(g)}
@@ -48,19 +45,15 @@
         \end{tightcenter}
         这一反应的好处是既产生~\ce{O2},又消耗~\ce{CO2}.
 \end{enumerate}
-上述反应产生的都是三线态氧.单线态氧需要特殊的方法制备.
-\begin{enumerate}[label=\tbf{\roman*.},leftmargin=*]
-    \item 最简单的方法是\ce{H2O2}与\ce{NaOCl}的反应:
-        \begin{tightcenter}
-            \ce{H2O2(aq) + NaOCl(aq) -> NaCl(aq) + H2O(l) + O2($^1\Delta_g$,g)}
-        \end{tightcenter}
-        如果将\ce{Cl2}通入较浓的\ce{NaOH}与\ce{H2O2}的混合液中,可以看到闪烁的红光.这是由于两分子单线态氧相互作用后向基态跃迁所致.
-    \item 在有机溶剂中,也可以采用亚磷酸酯和\ce{O3}在低温下形成加合物后分解的方式制备单线态\ce{O2}:
-        \begin{tightcenter}
-            \ce{P(OR)3 + O3 -> P(O3)(OR)3}\\
-            \ce{P(O3)(OR)3 -> PO(OR)3 + O2($^1\Delta_g$)}
-        \end{tightcenter}
-\end{enumerate}
+上述反应产生的都是三线态氧.单线态氧需要特殊的方法制备.最简单的方法是~\ce{H2O2}与~\ce{NaOCl}的反应:
+\begin{tightcenter}
+    \ce{H2O2(aq) + NaOCl(aq) -> NaCl(aq) + H2O(l) + O2($^1\Delta_g$,g)}
+\end{tightcenter}
+如果将~\ce{Cl2}通入较浓的~\ce{NaOH}与~\ce{H2O2}的混合液中,可以看到闪烁的红光.这是由于两分子单线态氧相互作用后向基态跃迁所致.在有机溶剂中,也可以采用亚磷酸酯和~\ce{O3}在低温下形成加合物后分解的方式制备单线态~\ce{O2}:
+\begin{tightcenter}
+    \ce{P(OR)3 + O3 -> P(O3)(OR)3}\\
+    \ce{P(O3)(OR)3 -> PO(OR)3 + O2($^1\Delta_g$)}
+\end{tightcenter}
 \paragraph{固态~\ce{O2}的结构}
 固态\ce{O2}具有多种不同的晶型.这些晶型的存在条件可以参考下面的固态~\ce{O2}的相图.
 \begin{figure}[H]\centering
@@ -102,10 +95,9 @@
 \paragraph{\ce{O3}的结构}
 \ce{O3}为折线形分子,中心~\ce{O}原子为sp$^2$杂化,键角为$116.8^\circ$.~\ce{O3}的HOMO轨道系数最大处在两端的~\ce{O}原子上,这与其共振式中两端~\ce{O}原子带形式负电荷也相符合.
 \begin{figure}[H]
-    \centering\includegraphics{figure/O3.eps}
-    \caption{\ce{O3}的共振式}
+    \centering\includegraphics{figure/O3-MOdiagram.eps}
+    \caption{\ce{O3}的分子轨道图}
 \end{figure}
-我们也可以从另一个有趣的角度思考~\ce{O3}的结构.初学者很容易将~\ce{O3}的结构误认为环状,正与其等电子体环丙烷那样.然而,环状的结构却自发地出现对称性破缺,这可以认为是二阶Jahn-Teller效应的结果.
 \paragraph{自然界中的\ce{O3}}自然界中的~\ce{O3}主要来源于以下途径:
 \begin{tightcenter}
     \ce{O2 ->T[$h\nu$][uv] 2O}\\
@@ -116,7 +108,7 @@
 \begin{tightcenter}
     \ce{2O3 ->T[uv] 3O2}
 \end{tightcenter}
-大气中的臭氧层正是因此而将太阳辐射中的紫外线吸收,保护了地球表面居民们免遭强烈辐射.\\
+大气中的臭氧层正是因此而将太阳辐射中的紫外线吸收,保护了地球表面的居民们免遭强烈辐射.\\
 \indent 然而,以氟利昂~\ce{CClF3}为代表的物质对臭氧层有巨大破坏.它们性质稳定,进入大气后则被紫外光照射而生成~\ce{Cl.}:
 \begin{tightcenter}
     \ce{CClF3 ->T[$h\nu$] F3C. + Cl.}
@@ -141,23 +133,22 @@
     \ce{O3 + 2H^+ + 2e^- -> O2 + 2H2O}\ \ \ $\varphi^\ominus=\SI{+2.076}{\volt}$\\
     \ce{O3 + H2O + 2e^- -> O2 + 2OH^-}\ \ \ $\varphi^\ominus=\SI{+1.24}{\volt}$
 \end{tightcenter}
-需要注意的是,~\ce{O3}作为氧化剂,还原产物一般为~\ce{O2}.\\
+需要注意的是,~\ce{O3}作为氧化剂,生成的产物一般为~\ce{O2}.\\
 \indent 测定~\ce{O3}/\ce{O2}混合气体中~\ce{O3}的含量可以通过碘量法.在硼酸缓冲液中,~\ce{O3}与~\ce{I^-}发生如下反应
 \begin{tightcenter}
-    \ce{O3 + 3I^- + 2H2O -> O2 + I3^- + 2OH^-}
+    \ce{O3 + 3I^- + 2H2O + 2B(OH)3 -> O2 + I3^- + 2[B(OH)4]-}
 \end{tightcenter}
-然后用~\ce{Na2S2O3}进行返滴定即可.注意氧化产物为~\ce{I3^-}而没有进一步被氧化.这可能是动力学因素导致的.\\
+然后用~\ce{Na2S2O3}进行返滴定即可.注意氧化产物为~\ce{I3^-}而没有进一步被氧化,因为滴定时需要加入过量的~\ce{I-}以确保~\ce{O3}完全反应.反应的机理可以认为首先是~\ce{I-}与~\ce{O3}反应生成~\ce{IOOO-},然后~\ce{IOOO-}分解为~\ce{IO-}和~\ce{O2},最后~\ce{IO-}与~\ce{I-}归中生成~\ce{I2}\cite{Sakamoto2009}.\\
 \indent \ce{O3}作为氧化剂的其它典型反应列举如下:
 \begin{tightcenter}
     \ce{O3 + CN^- -> OCN^- + O2}\\
     \ce{4O3 + PbS -> PbSO4 + 4O2}\\
     \ce{O3(g) + XeO3(aq) + 2H2O(l) -> H4XeO6(aq) + O2(g)}
 \end{tightcenter}
-等等.\\
-\indent 关于~\ce{O3}的另一类重要反应,即形成臭氧化物~\ce{MO3}的反应,我们留到后面再讨论.
-\subsection{$-$2氧化态:水}
-水的化学式为~\ce{H2O},在常温下是无色无味的液体.在标准大气压下,水的沸点是$\SI{373.15}{\kelvin}$,凝固点是$\SI{273.15}{\kelvin}$.
-\subsubsection{滴定微量\ce{H2O}的方法}
+等等.有关~\ce{O3}的另一类重要反应,即形成臭氧化物~\ce{MO3}的反应,我们留到后面再讨论.
+\subsection{$-$2氧化态:水~\ce{H2O}}
+水的化学式为~\ce{H2O},在常温下是无色无味的液体.标准大气压下水的沸点是$\SI{373.15}{\kelvin}$,凝固点是$\SI{273.15}{\kelvin}$.
+\subsubsection{滴定微量~\ce{H2O}的方法}
 我们先来介绍测定微量水的方法:~\tbf{Karl Fischer法}.这一方法的原理是~\ce{I2}氧化~\ce{SO2}时需要定量的水参与反应:
 \begin{tightcenter}
     \ce{I2 + SO2 + 2H2O -> 2HI + H2SO4}
@@ -171,7 +162,7 @@
 \subsubsection{水的电离与水合质子}
 我们已经知道水可以进行自耦电离:
 \begin{tightcenter}
-    \ce{2H2O(l) <=> H3O^+(aq) + OH^-(aq)}\ \ \ $K_\text{h}=1.0\times10^{-14}$
+    \ce{2H2O(l) <=> H3O^+(aq) + OH^-(aq)}\ \ \ $K_\text{h}(\SI{25}{\celsius})=1.0\times10^{-14}$
 \end{tightcenter}
 除了~\ce{H3O^+}以外,还有多种多样的水合质子~\ce{H_{2n+1}O_n^+}.它们的结构如下.
 \begin{enumerate}[label=\tbf{\arabic*.},leftmargin=*]
@@ -221,8 +212,8 @@
             \centering\includegraphics[scale=0.125]{figure/Ice-Ih.png}
             \caption{冰-$\text{I}_{\text{h}}$的晶体结构\quad$\text{P}\,6_3/\text{m}\,\text{m}\,\text{c}$\quad$a=b=\SI{450.6}{\pico\meter},c=\SI{734.6}{\pico\meter}$}
         \end{figure}
-        冰-$\text{I}_{\text{h}}$中,~\ce{O}做六方密堆积,每两个~\ce{O}之间有一个~\ce{H}原子.所有~\ce{H}都是统计分布的,它与某一边的~\ce{O}形成化学键,与另一边的~\ce{O}形成氢键.\\
-        \indent 一个值得考虑的问题是冰-$\text{I}_{\text{h}}$的残余熵. Pauling在他的著作《化学键的本质》中给出了一个简单的结论,即我们所熟知的\tbf{Pauling熵}\cite{Pauling1960}.他的推导过程如下:\\
+        冰-$\text{I}_{\text{h}}$中,~\ce{O}做六方密堆积,每两个~\ce{O}之间有一个~\ce{H}原子.所有~\ce{H}都是统计分布的,它与某一边的~\ce{O}形成~\ce{O-H}共价键,与另一边的~\ce{O}形成~\ce{O$\cdots$H}氢键.\\
+        \indent 一个值得考虑的问题是冰-$\text{I}_{\text{h}}$的残余熵. Pauling在他的著作\textit{The Nature of the Chemical Bond}中给出了一个简单的结论,即我们所熟知的\tbf{Pauling熵}\cite{Pauling1960}.他的推导过程如下:\\
         考虑到六方冰中~\ce{O}原子做六方密堆积排列,因此~\ce{O}的位置就固定不动.由于固态的冰中存在氢键网络,每个~\ce{O}原子都通过氢键和周围四个~\ce{O}原子连接,因此我们需要做一个假设,即每个~\ce{O}原子周围都有两个~\ce{H}与其距离较远,另外两个与其距离较近.这对应着~\ce{O}形成两根~\ce{O-H}化学键和两根~\ce{O...H}氢键.\\
         这样,我们只需要考虑~\ce{H}的位置即可.对于$\SI{1}{\mole}$冰中的$\SI{2}{\mole}$~\ce{H}原子,都有两种状态,即处于两个~\ce{O}原子之间离其中某个~\ce{O}原子更近的位置.这样的微观状态数一共有$2^{2N_{\text{A}}}$种.\\
         考虑到~\ce{O}原子对~\ce{H}原子的位置,每个~\ce{O}原子周围恰好有两个~\ce{H}靠近,两个~\ce{H}远离.这样的概率为
@@ -232,10 +223,10 @@
         于是
         \[S=k_\text B\ln\Omega=R\ln\dfrac32\JmK\approx\SI{3.37}{\joule\per\mole\per\kelvin}\]
         容易看出上面的推导过程是有一些问题的,因为每个~\ce{H}原子的分布不是独立的,它与周围~\ce{H}原子的分布有密切关系.因此,后来的人们采用转移矩阵的方法对冰的残余熵进行了更精确的计算.对于简单的二维正方形氢键网格,其残余熵为\cite{Lieb1967}:
-        \[\Omega=\left(\dfrac43\right)^{3/2},\quad S=k_\text B\ln\Omega=\dfrac32R\ln\dfrac43\JmK\approx\SI{3.59}{\joule\per\mole\per\kelvin}\]
+        \[\Omega=\left(\dfrac43\right)^{3N_{\text{A}}/2},\quad S=k_\text B\ln\Omega=\dfrac32R\ln\dfrac43\JmK\approx\SI{3.59}{\joule\per\mole\per\kelvin}\]
         三维的冰-$\text{I}_{\text{h}}$的残余熵至今没有解析解.在上世纪六十年代,人们用级数展开的方式求得\cite{Nagle1966}
         \[S\approx\SI{3.41}{\joule\per\mole\per\kelvin}\]
-        后来,人们通过转移矩阵\cite{Li2024}和蒙特卡洛模拟\cite{Berg2007}等先进方式给出了更高精度的数值解,与Pauling的结果相差很小.因此,Pauling的估计有合理之处.\\
+        后来,人们通过转移矩阵\cite{Li2024}和蒙特卡洛模拟\cite{Berg2007}等先进方式给出了更高精度的数值解,与Pauling的结果相差很小.因此,~Pauling的估计有合理之处.\\
         冰-$\text{I}_{\text{h}}$的氢键网络使得其密度小于水.当冰-$\text{I}_{\text{h}}$融化时,约有$\dfrac14$的氢键被破坏,并且这一比例将随着温度升高而持续增大,从而使得~\ce{H2O}分子相互靠近,密度增大.另一方面,温度升高将使得分子热运动加剧,从而使密度减小.这两个效应的净结果是~\ce{H2O}的密度在$\SI{3.98}{\celsius}$时达到最大.
     \item 冰-$\text{I}_{\text{c}}$\\
         冰-$\text{I}_{\text{c}}$的结构与冰-$\text{I}_{\text{h}}$十分相近,区别只在于冰-$\text{I}_{\text{c}}$中的~\ce{O}原子做立方最密堆积,而~\ce{H}分布的方式则相同,其晶体结构如下所示:
@@ -246,9 +237,8 @@
         然而现实中的立方冰$\text{I}_\text{c}$样品并非纯立方结构,同时包含六方结构\cite{Kuhs1987}.这类堆垛无序冰I(称作冰-$\text{I}_{\text{sd}}$)存在两种堆垛方式,使相邻层间的六元环呈现不同构象(参考六方金刚石中的船式环和立方金刚石中的椅式六元环).\\
         \indent 近十年来,该领域研究因堆垛无序漫衍射特征模拟技术的进步取得重大突破\cite{Tamsin2012}.基于相关分析,可测定冰$\text{I}_{\text{sd}}$的立方度(即立方堆积占比).不同制备方法可得到立方度差异极大的样品.普通方法制备的冰的立方度最高为$50\%$左右.真空下过冷水纳米液滴冻结得到的冰$\text{I}_{\text{sd}}$立方度为$78\%$,是目前已知立方度最高的样品\cite{Amaya2017}.
 \end{enumerate}
-\subsection{$\mbf{-1}$氧化态}
-在\ce{O}的\ce{-1}氧化态中最重要的化合物就是过氧化氢.其余的过氧化物放在后面进行介绍.\\
-\indent 过氧化氢,化学式为~\ce{H2O2}.纯净的~\ce{H2O2}为几乎无色(带有非常浅的蓝色)的液体.~\ce{H2O2}可以与~\ce{H2O}任意比例地互溶,这是由于两者形成氢键的缘故.实验室中常用的是$3\%\sim30\%$的过氧化氢水溶液,称为\tbf{双氧水}.
+\subsection{$\mbf{-1}$氧化态:过氧化氢~\ce{H2O2}}
+在\ce{O}的\ce{-1}氧化态中最重要的化合物就是过氧化氢.其余的过氧化物放在后面进行介绍.过氧化氢的化学式为~\ce{H2O2}.纯净的~\ce{H2O2}为几乎无色(带有非常浅的蓝色)的液体.~\ce{H2O2}可以与~\ce{H2O}任意比例地互溶,这是由于两者形成氢键的缘故.实验室中常用的是$3\%\sim30\%$的过氧化氢水溶液,称为\tbf{双氧水}.
 \subsubsection{\ce{H2O2}的酸碱性}
 \ce{H2O2}是比\ce{H2O}稍强的酸:
 \begin{tightcenter}
@@ -270,7 +260,13 @@
 \begin{tightcenter}
     $\varphi^\ominus_{\text{Base}}$:\ \ \ \ce{O2 ->T[$\SI{-0.076}{\volt}$] HO2^- ->T[$\SI{0.878}{\volt}$] H2O}
 \end{tightcenter}
-无论是作为氧化剂还是还原剂,~\ce{H2O2}在水溶液体系中都不会引入杂质.因此,~\ce{H2O2}是实验室中常用的氧化剂.\\
+\ce{H2O2}在水溶液体系中的反应不会引入杂质,因此是实验室中常用的氧化剂:
+\begin{tightcenter}
+    \ce{2[Cr(OH)4]- + 3H2O2 + 2OH- -> 2[CrO4]^{2-} + 8H2O}\\
+    \ce{Mn(OH)2 + H2O2 -> MnO2 + H2O}\\
+    \ce{PbS + 4H2O2 -> PbSO4 + 4H2O}
+\end{tightcenter}
+最后一个反应可以用于油画的漂白,因为油画常用的白色颜料白铅~\ce{Pb(OH)2.2PbSO4}遇到空气中的~\ce{H2S}即转变为黑色的~\ce{PbS},用双氧水粉刷则重新变为白色的~\ce{PbSO4}.\\
 \indent 从标准电极电势看,~\ce{H2O2}容易发生歧化.这在由催化剂的存在下进行地十分迅速.事实上,这一分解反应的催化剂大多是那些处于氧化态时可以氧化~\ce{H2O2},处于还原态时可以被~\ce{H2O2}氧化的物质.我们以$\ce{Fe^3+}/\ce{Fe^2+}$电对为例,催化反应的方程式为
 \begin{tightcenter}
     \ce{2Fe^2+ + H2O2 + 2H+ -> 2Fe^3+ + 2H2O}\\
@@ -293,9 +289,20 @@ J.L.Thenard于1818年首次通过酸化~\ce{BaO2}的方式后减压蒸除~\ce{H2
     \includegraphics{figure/H2O2Prod.eps}
     \caption{乙基蒽醌法制备~\ce{H2O2}}
 \end{figure}
-\noindent 工业上采取此方法大量地合成~\ce{H2O2}.
 \subsection{正氧化态:氧的氟化物}
-由于氧的高电负性,几乎只有在与氟形成共价键时才显正价.典型的物质有~\ce{OF2},~\ce{HOF}和~\ce{O2F2}等.~\ce{OF2}是一种无色,剧毒的气体,可以冷凝为淡黄色的液体.纯净的~\ce{OF2}对热稳定,直到$\SI{200}{\celsius}$才开始分解.~\ce{HOF}是一种白色固体,于$-117\tccentigrade$熔化为淡黄色液体.~\ce{HOF}在室温下迅速地分解为~\ce{HF}和~\ce{O2}.~\ce{OF2}是一种黄色固体,于$\SI{-154}{\celsius}$熔化为淡黄色液体.~\ce{O2F2}极不稳定,甚至在$\SI{-160}{\celsius}$就以每日约$4\%$的速度分解.
+由于氧的高电负性,几乎只有在与氟形成共价键时才显正价.相关的物质有~\ce{OF2},~\ce{HOF}和~\ce{O2F2}等,它们的物理性质列表如下:
+\begin{table}[H]\centering
+    \caption{氧的氟化物的物理性质}
+    \label{table:氧的氟化物的物理性质}
+    \begin{tabular}{lccc}\toprule
+    \multicolumn{1}{c}{性质} & \ce{OF2} & \ce{O2F2} & \ce{HOF} \\\hline
+    外观和状态 & 无色气体/淡黄色液体 & 淡黄色固体 & 白色固体/淡黄色液体 \\
+    熔点/$\si{\kelvin}$ & $49$ & $119$ & $256$ \\
+    沸点/$\si{\kelvin}$ & $128$ & $210$ & $<0$\\
+    \bottomrule
+    \end{tabular}
+\end{table}
+纯净的~\ce{OF2}对热稳定,直到$\SI{200}{\celsius}$才开始分解.~\ce{HOF}则在室温下迅速地分解为~\ce{HF}和~\ce{O2}.~\ce{O2F2}极不稳定,甚至在$\SI{-160}{\celsius}$就以每日约$4\%$的速度分解.
 \subsubsection{氧的氟化物的结构}
 不出所料地,~\ce{OF2}和~\ce{HOF}均为折线形分子.它们的键角数据如下(作为对比,这里一并放上~\ce{H2O}的键角数据):
 \begin{tightcenter}
@@ -371,7 +378,7 @@ J.L.Thenard于1818年首次通过酸化~\ce{BaO2}的方式后减压蒸除~\ce{H2
 \indent \ce{O2F2}和~\ce{H2O2}的结构相似.值得注意的是,~\ce{O2F2}中的~\ce{O-O}键长为$121.7\text{ pm}$,明显小于~\ce{H2O2}中的$147.5\text{ pm}$;而~\ce{O2F2}中的~\ce{O-F}键长为$157.5\text{ pm}$,明显大于~\ce{OF2}中的$140.5\text{ pm}$.这可能是由于氧原子的孤对电子对$\sigma^\ast\left(\ce{O-F}\right)$轨道的超共轭效应削弱~\ce{O-F}键而增强~\ce{O-O}键所致.
 \subsubsection{氧的氟化物的制备与反应}
 \paragraph{\ce{OF2}的制备与反应}
-\ce{OF2}是上述三种化合物中最稳定的,其制备方式也比较简单,将~\ce{F2}通入~\ce{NaOH}溶液即可:
+\ce{OF2}是上述三种化合物中最稳定的,其制备方式也比较简单,将~\ce{F2}通入~\ce{NaOH}溶液即可(注意这一反应不是歧化反应):
 \begin{tightcenter}
     \ce{2F2 + 2NaOH -> 2NaF + OF2 + H2O}
 \end{tightcenter}
@@ -386,7 +393,7 @@ J.L.Thenard于1818年首次通过酸化~\ce{BaO2}的方式后减压蒸除~\ce{H2
     \ce{O2 + F2 ->[$77\sim\SI{90}{\kelvin}$, $1\sim\SI{3}{\kilo\pascal}$][\text{放电}] O2F2}
 \end{tightcenter}
 也可以由~\ce{OF2}在紫外线辐射分解生成~\ce{OF.},然后升温缔合得到.\\
-\indent \ce{O2F2}是已知的最强的氧化剂和氟化剂之一,例如在低温下就可以将一些稀土元素氧化至$+6$价:
+\indent \ce{O2F2}是已知的最强的氧化剂和氟化剂之一,例如在低温下就可以将一些稀土元素氧化至$+6$价(如果使用~\ce{F2}或卤素氟化物则需要在高温条件下才能反应):
 \begin{tightcenter}
     \ce{NpO2 + 3O2F2 -> NpF6 + 4O2}
 \end{tightcenter}
