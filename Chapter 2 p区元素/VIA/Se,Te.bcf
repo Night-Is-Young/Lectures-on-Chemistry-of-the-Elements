@@ -2376,8 +2376,20 @@
   <!-- CITATION DATA -->
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">ref.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1" intorder="1">Wang2016</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">Cameron2000</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">Passmore1980b</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">Cameron2000a</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Cameron2000</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">Krossing2004</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">Burns1980</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">Couch1972</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">Beck1990</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">Gillespie1976</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">Kniep1984</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

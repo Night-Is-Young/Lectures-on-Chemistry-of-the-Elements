@@ -1,0 +1,537 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{Wang2016}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=466ce84bc5093e2ec73b823c573ad026}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{466ce84bc5093e2ec73b823c573ad026}
+      \strng{fullhash}{466ce84bc5093e2ec73b823c573ad026}
+      \strng{fullhashraw}{466ce84bc5093e2ec73b823c573ad026}
+      \strng{bibnamehash}{466ce84bc5093e2ec73b823c573ad026}
+      \strng{authorbibnamehash}{466ce84bc5093e2ec73b823c573ad026}
+      \strng{authornamehash}{466ce84bc5093e2ec73b823c573ad026}
+      \strng{authorfullhash}{466ce84bc5093e2ec73b823c573ad026}
+      \strng{authorfullhashraw}{466ce84bc5093e2ec73b823c573ad026}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{24119717}
+      \field{journaltitle}{Journal of the Southern African Institute of Mining and Metallurgy}
+      \field{number}{6}
+      \field{title}{Selenium Minerals and the Recovery of Selenium from Copper Refinery Anode Slimes}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{116}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{593\bibrangedash 600}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.17159/2411-9717/2016/v116n6a16
+      \endverb
+    \endentry
+    \entry{Cameron2000}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=80c91a8bbcb93221eb07fdd706fb253b}{%
+           family={Cameron},
+           familyi={C\bibinitperiod},
+           given={T.\bibnamedelimi Stanley},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=6c20aa1f5339010be6b48b6992f11e4b}{%
+           family={Deeth},
+           familyi={D\bibinitperiod},
+           given={Robert\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=e58539b2f4f8e3343b8e454f25ab34b4}{%
+           family={Dionne},
+           familyi={D\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod}}}%
+        {{hash=86905a06ec29057a8051d35857eb8e6f}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Hongbin},
+           giveni={H\bibinitperiod}}}%
+        {{hash=bf983725ba4c859949f7961e533324e4}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={H.\bibnamedelimi Donald\bibnamedelima B.},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=dd4b3ef6d4fe1ae44fdb0f7da2678311}{%
+           family={Krossing},
+           familyi={K\bibinitperiod},
+           given={Ingo},
+           giveni={I\bibinitperiod}}}%
+        {{hash=bee902a79c850c5ffc4bf6d54d8a11c3}{%
+           family={Passmore},
+           familyi={P\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+        {{hash=38898a932907d06dd9481f1bea8de97a}{%
+           family={Roobottom},
+           familyi={R\bibinitperiod},
+           given={Helen\bibnamedelima K.},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{278919d6ba623a46ed4c1f028c7e76ab}
+      \strng{fullhash}{75ecd94a0ad3af771681822a87aee342}
+      \strng{fullhashraw}{75ecd94a0ad3af771681822a87aee342}
+      \strng{bibnamehash}{75ecd94a0ad3af771681822a87aee342}
+      \strng{authorbibnamehash}{75ecd94a0ad3af771681822a87aee342}
+      \strng{authornamehash}{278919d6ba623a46ed4c1f028c7e76ab}
+      \strng{authorfullhash}{75ecd94a0ad3af771681822a87aee342}
+      \strng{authorfullhashraw}{75ecd94a0ad3af771681822a87aee342}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0020-1669, 1520-510X}
+      \field{journaltitle}{Inorganic Chemistry}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{25}
+      \field{title}{Bonding, {{Structure}}, and {{Energetics}} of {{Gaseous E}}{\textsubscript{8}}{\textsuperscript{2+}} and of {{Solid E}}{\textsubscript{8}} ({{AsF}}{\textsubscript{6}} ){\textsubscript{2}} ({{E}} = {{S}}, {{Se}})}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{39}
+      \field{year}{2000}
+      \field{urldateera}{ce}
+      \field{pages}{5614\bibrangedash 5631}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1021/ic990760e
+      \endverb
+    \endentry
+    \entry{Passmore1980b}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=bee902a79c850c5ffc4bf6d54d8a11c3}{%
+           family={Passmore},
+           familyi={P\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b79e8e899177840e46a718194f04e8e3}{%
+           family={Sutherland},
+           familyi={S\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+        {{hash=3813c4930d6eb74a2a76781f3b6423a5}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Peter\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c91fc1086d9259672a457fe9d10478a6}
+      \strng{fullhash}{9a97e2a8f67258a7737366f1d2ba2289}
+      \strng{fullhashraw}{9a97e2a8f67258a7737366f1d2ba2289}
+      \strng{bibnamehash}{9a97e2a8f67258a7737366f1d2ba2289}
+      \strng{authorbibnamehash}{9a97e2a8f67258a7737366f1d2ba2289}
+      \strng{authornamehash}{c91fc1086d9259672a457fe9d10478a6}
+      \strng{authorfullhash}{9a97e2a8f67258a7737366f1d2ba2289}
+      \strng{authorfullhashraw}{9a97e2a8f67258a7737366f1d2ba2289}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-4936}
+      \field{journaltitle}{J. Chem. Soc., Chem. Commun.}
+      \field{langid}{english}
+      \field{number}{8}
+      \field{title}{Preparation and Crystal Structures of ({{S}}{\textsubscript{7}} {{I}}){\textsubscript{4}} {{S}}{\textsubscript{4}} ({{AsF}}{\textsubscript{6}} ){\textsubscript{6}} and {{S}}{\textsubscript{4}} ({{AsF}}{\textsubscript{6}} ){\textsubscript{2}} {$\cdot$}0.{{6SO}}{\textsubscript{2}} ; a Convenient Synthesis of Hexafluoroarsenate Salts of Chalcogen Homoatomic Cations}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{year}{1980}
+      \field{urldateera}{ce}
+      \field{pages}{330\bibrangedash 331}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1039/C39800000330
+      \endverb
+    \endentry
+    \entry{Cameron2000a}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=80c91a8bbcb93221eb07fdd706fb253b}{%
+           family={Cameron},
+           familyi={C\bibinitperiod},
+           given={T.\bibnamedelimi Stanley},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=e58539b2f4f8e3343b8e454f25ab34b4}{%
+           family={Dionne},
+           familyi={D\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod}}}%
+        {{hash=5a9593594bc112e0fcc4f9f63b6b5074}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={H.\bibnamedelimi Donald\bibnamedelima Brooke},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=ed427e8feb750f52f6b8a1b4103b2c3c}{%
+           family={Parsons},
+           familyi={P\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bee902a79c850c5ffc4bf6d54d8a11c3}{%
+           family={Passmore},
+           familyi={P\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+        {{hash=38898a932907d06dd9481f1bea8de97a}{%
+           family={Roobottom},
+           familyi={R\bibinitperiod},
+           given={Helen\bibnamedelima K.},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{278919d6ba623a46ed4c1f028c7e76ab}
+      \strng{fullhash}{c0bc689d29cdff86e3bcd2fdad30ae93}
+      \strng{fullhashraw}{c0bc689d29cdff86e3bcd2fdad30ae93}
+      \strng{bibnamehash}{c0bc689d29cdff86e3bcd2fdad30ae93}
+      \strng{authorbibnamehash}{c0bc689d29cdff86e3bcd2fdad30ae93}
+      \strng{authornamehash}{278919d6ba623a46ed4c1f028c7e76ab}
+      \strng{authorfullhash}{c0bc689d29cdff86e3bcd2fdad30ae93}
+      \strng{authorfullhashraw}{c0bc689d29cdff86e3bcd2fdad30ae93}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0020-1669, 1520-510X}
+      \field{journaltitle}{Inorganic Chemistry}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{10}
+      \field{title}{Preparation, {{X-ray Crystal Structure Determination}}, {{Lattice Potential Energy}}, and {{Energetics}} of {{Formation}} of the {{Salt S}}{\textsubscript{4}} ({{AsF}}{\textsubscript{6}} ){\textsubscript{2}} {$\cdot$}{{AsF}}{\textsubscript{3}} {{Containing}} the {{Lattice-Stabilized Tetrasulfur}} [2+] {{Cation}}. {{Implications}} for the {{Understanding}} of the {{Stability}} of {{M}}{\textsubscript{4}}{\textsuperscript{2+}} and {{M}}{\textsubscript{2}}{\textsuperscript{+}} ({{M}} = {{S}}, {{Se}}, and {{Te}}) {{Crystalline Salts}}}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{39}
+      \field{year}{2000}
+      \field{urldateera}{ce}
+      \field{pages}{2042\bibrangedash 2052}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1021/ic990850j
+      \endverb
+    \endentry
+    \entry{Krossing2004}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=dd4b3ef6d4fe1ae44fdb0f7da2678311}{%
+           family={Krossing},
+           familyi={K\bibinitperiod},
+           given={Ingo},
+           giveni={I\bibinitperiod}}}%
+        {{hash=bee902a79c850c5ffc4bf6d54d8a11c3}{%
+           family={Passmore},
+           familyi={P\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{2dfc046f32c0e4b250e593d0868ab562}
+      \strng{fullhash}{2dfc046f32c0e4b250e593d0868ab562}
+      \strng{fullhashraw}{2dfc046f32c0e4b250e593d0868ab562}
+      \strng{bibnamehash}{2dfc046f32c0e4b250e593d0868ab562}
+      \strng{authorbibnamehash}{2dfc046f32c0e4b250e593d0868ab562}
+      \strng{authornamehash}{2dfc046f32c0e4b250e593d0868ab562}
+      \strng{authorfullhash}{2dfc046f32c0e4b250e593d0868ab562}
+      \strng{authorfullhashraw}{2dfc046f32c0e4b250e593d0868ab562}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0020-1669, 1520-510X}
+      \field{journaltitle}{Inorganic Chemistry}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{3}
+      \field{shorttitle}{Evidence for the {{Blue}} 10{$\pi$} {{S}}{\textsubscript{6}}{\textsuperscript{2+}} {{Dication}} in {{Solutions}} of {{S}}{\textsubscript{8}} ({{AsF}}{\textsubscript{6}} ){\textsubscript{2}}}
+      \field{title}{Evidence for the {{Blue}} 10{$\pi$} {{S}}{\textsubscript{6}}{\textsuperscript{2+}} {{Dication}} in {{Solutions}} of {{S}}{\textsubscript{8}} ({{AsF}}{\textsubscript{6}} ){\textsubscript{2}} : {{A Computational Study Including Solvation Energies}}}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{43}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+      \field{pages}{1000\bibrangedash 1011}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1021/ic0207303
+      \endverb
+    \endentry
+    \entry{Burns1980}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=9d26ad2c771dbe46430db0c299b34c65}{%
+           family={Burns},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=bd530d7393afb358bb89513fa9068b24}{%
+           family={Chan},
+           familyi={C\bibinitperiod},
+           given={Wang-Lurk},
+           giveni={W\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=dde4130a51382d4d9139c5da2b025fd5}{%
+           family={Gillespie},
+           familyi={G\bibinitperiod},
+           given={Ronald\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5f923a1484c72b6e1297eaf43fa76c65}{%
+           family={Luk},
+           familyi={L\bibinitperiod},
+           given={Woon-Chung},
+           giveni={W\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=d15bb0dddcc01c95688b892276752bc4}{%
+           family={Sawyer},
+           familyi={S\bibinitperiod},
+           given={Jeffery\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=eb73bf220aa034ae75cbc866a2260d3e}{%
+           family={Slim},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{c147fc4abe1fde6293e22a312373d066}
+      \strng{fullhash}{bee14a1bd6cc70905f9cf825241cc77f}
+      \strng{fullhashraw}{bee14a1bd6cc70905f9cf825241cc77f}
+      \strng{bibnamehash}{bee14a1bd6cc70905f9cf825241cc77f}
+      \strng{authorbibnamehash}{bee14a1bd6cc70905f9cf825241cc77f}
+      \strng{authornamehash}{c147fc4abe1fde6293e22a312373d066}
+      \strng{authorfullhash}{bee14a1bd6cc70905f9cf825241cc77f}
+      \strng{authorfullhashraw}{bee14a1bd6cc70905f9cf825241cc77f}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0020-1669, 1520-510X}
+      \field{journaltitle}{Inorganic Chemistry}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{Preparation and Characterization of Decaselenium Bis(Hexafluoroarsenate), Decaselenium Bis(Hexafluoroantimonate), and Decaselenium Bis(Tetrachloroaluminate) and Crystal Structure of Decaselenium Bis(Hexafluoroantimonate)}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{19}
+      \field{year}{1980}
+      \field{urldateera}{ce}
+      \field{pages}{1432\bibrangedash 1439}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1021/ic50208a003
+      \endverb
+    \endentry
+    \entry{Couch1972}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=25e32f92ebb4b720d7e24a76d1e0697c}{%
+           family={Couch},
+           familyi={C\bibinitperiod},
+           given={Thomas\bibnamedelima W.},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=bfd5fbc7f78bd181a27c6dfc3a507ab6}{%
+           family={Lokken},
+           familyi={L\bibinitperiod},
+           given={Donald\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6b08554cd346a92b75bcb148908227b3}{%
+           family={Corbett},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{68d45309e4ea7f6042d11301766ea72c}
+      \strng{fullhash}{2ee0ee080b19ab7b961f9f2487d952bc}
+      \strng{fullhashraw}{2ee0ee080b19ab7b961f9f2487d952bc}
+      \strng{bibnamehash}{2ee0ee080b19ab7b961f9f2487d952bc}
+      \strng{authorbibnamehash}{2ee0ee080b19ab7b961f9f2487d952bc}
+      \strng{authornamehash}{68d45309e4ea7f6042d11301766ea72c}
+      \strng{authorfullhash}{2ee0ee080b19ab7b961f9f2487d952bc}
+      \strng{authorfullhashraw}{2ee0ee080b19ab7b961f9f2487d952bc}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0020-1669, 1520-510X}
+      \field{journaltitle}{Inorganic Chemistry}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{Crystal Structures of Tetratellurium(2+) Tetrachloroaluminate and Heptachlorodialuminate, {{Te42}}+({{AlCl4-}})2 and {{Te42}}+({{Al2Cl7-}})2}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{11}
+      \field{year}{1972}
+      \field{urldateera}{ce}
+      \field{pages}{357\bibrangedash 362}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1021/ic50108a031
+      \endverb
+    \endentry
+    \entry{Beck1990}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=c6a92a7035c6503acae903176d8dc426}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c6a92a7035c6503acae903176d8dc426}
+      \strng{fullhash}{c6a92a7035c6503acae903176d8dc426}
+      \strng{fullhashraw}{c6a92a7035c6503acae903176d8dc426}
+      \strng{bibnamehash}{c6a92a7035c6503acae903176d8dc426}
+      \strng{authorbibnamehash}{c6a92a7035c6503acae903176d8dc426}
+      \strng{authornamehash}{c6a92a7035c6503acae903176d8dc426}
+      \strng{authorfullhash}{c6a92a7035c6503acae903176d8dc426}
+      \strng{authorfullhashraw}{c6a92a7035c6503acae903176d8dc426}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0570-0833}
+      \field{journaltitle}{Angewandte Chemie International Edition in English}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{Te, a {{New Tellurium Polycation}}}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{29}
+      \field{year}{1990}
+      \field{urldateera}{ce}
+      \field{pages}{293\bibrangedash 295}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1002/anie.199002931
+      \endverb
+    \endentry
+    \entry{Gillespie1976}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=f2ce35ca93a539767d71b7f3458db1c0}{%
+           family={Gillespie},
+           familyi={G\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=bed286988fcd3f85f555529b768a19d7}{%
+           family={Luk},
+           familyi={L\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=7bf354577e39b12bd0ae7a282fb6c1b7}{%
+           family={Slim},
+           familyi={S\bibinitperiod},
+           given={D.\bibnamedelimi R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee2b6aa9fb62bd81e0911d1084e98768}
+      \strng{fullhash}{0dc3a94b050772439638413f37b46f73}
+      \strng{fullhashraw}{0dc3a94b050772439638413f37b46f73}
+      \strng{bibnamehash}{0dc3a94b050772439638413f37b46f73}
+      \strng{authorbibnamehash}{0dc3a94b050772439638413f37b46f73}
+      \strng{authornamehash}{ee2b6aa9fb62bd81e0911d1084e98768}
+      \strng{authorfullhash}{0dc3a94b050772439638413f37b46f73}
+      \strng{authorfullhashraw}{0dc3a94b050772439638413f37b46f73}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-4936}
+      \field{journaltitle}{J. Chem. Soc., Chem. Commun.}
+      \field{langid}{english}
+      \field{number}{19}
+      \field{title}{X-{{Ray}} Crystal Structure of {{Te}}{\textsubscript{6}} ({{AsF}}{\textsubscript{6}} ){\textsubscript{4}} {$\cdot$}{{2AsF}}{\textsubscript{3}} . {{A}} New Trigonalprismatic Cluster Cation {{Te}}{\textsubscript{6}}{\textsuperscript{4+}}}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{year}{1976}
+      \field{urldateera}{ce}
+      \field{pages}{791\bibrangedash 792}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1039/C39760000791
+      \endverb
+    \endentry
+    \entry{Kniep1984}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=79287ee6d1c64ef7d253138cd2afe4c8}{%
+           family={Kniep},
+           familyi={K\bibinitperiod},
+           given={Rüdiger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=2535a4d7d9600599215ce700ffe90b12}{%
+           family={Korte},
+           familyi={K\bibinitperiod},
+           given={Lutz},
+           giveni={L\bibinitperiod}}}%
+        {{hash=203f80ee5489780c1d0e6b53fef502a3}{%
+           family={Kryschi},
+           familyi={K\bibinitperiod},
+           given={Rainer},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3bea9a66509b7b7f54b6fc62b0f75c2f}{%
+           family={Poll},
+           familyi={P\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d1c82ebcfcac31d2060fa501ac6f476}
+      \strng{fullhash}{f10db354a354d1b56bd6526e06f214fc}
+      \strng{fullhashraw}{f10db354a354d1b56bd6526e06f214fc}
+      \strng{bibnamehash}{f10db354a354d1b56bd6526e06f214fc}
+      \strng{authorbibnamehash}{f10db354a354d1b56bd6526e06f214fc}
+      \strng{authornamehash}{1d1c82ebcfcac31d2060fa501ac6f476}
+      \strng{authorfullhash}{f10db354a354d1b56bd6526e06f214fc}
+      \strng{authorfullhashraw}{f10db354a354d1b56bd6526e06f214fc}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0570-0833}
+      \field{journaltitle}{Angewandte Chemie International Edition in English}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{Bonding {{Attitudes}} in {{Crystalline SeF}}{\textsubscript{4}} and {{TeF}}{\textsubscript{4}}}
+      \field{urlday}{11}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{23}
+      \field{year}{1984}
+      \field{urldateera}{ce}
+      \field{pages}{388\bibrangedash 389}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1002/anie.198403881
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

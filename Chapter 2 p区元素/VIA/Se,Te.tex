@@ -1,92 +1,167 @@
-\documentclass{ctexart}
+\documentclass{ctexbook}
 \usepackage{EC}
 \usepackage[
     backend=biber,
     style=chem-acs,
 ]{biblatex}
+\addbibresource{ref.bib}
 \begin{document}
 \section{硒,碲及其化合物}
 \subsection{硒,碲的单质}
 \subsubsection{单质的结构}
-\paragraph{$\alpha,\beta$和$\gamma$-\ce{Se}}
-这三种硒单质均为红色晶体,属于单斜晶系.和正交$\alpha$-硫一样,这三种晶型都由\ce{Se8}分子构成,其结构与\ce{S8}分子相似.
+\paragraph{$\alpha$-\ce{Se},~$\beta$-\ce{Se}和$\gamma$-\ce{Se}}
+这三种硒单质均为红色晶体,属于单斜晶系.和正交$\alpha$-硫一样,这三种晶型都由~\ce{Se8}分子构成,其结构与~\ce{S8}分子相似.
 \paragraph{灰硒}
-灰硒属于六方晶系,是\ce{Se}在热力学上最稳定的单质.它的晶体结构比较特殊,是由周期为$3$的\ce{Se}螺旋长链组成的.
+灰硒属于六方晶系,是~\ce{Se}在热力学上最稳定的单质.它的晶体结构比较特殊,是由周期为$3$的~\ce{Se}螺旋长链组成的.
 \begin{figure}[H]
     \centering
-    \begin{subfigure}[b]{.45\linewidth}
-        \centering\includegraphics[scale=0.125]{figure/Se.eps}
+    \begin{subfigure}[c]{.45\linewidth}
+        \centering\includegraphics[scale=0.125]{figure/Se-1.png}
         \caption{灰硒的晶体结构示意图}
     \end{subfigure}
-    \begin{subfigure}[b]{.45\linewidth}
-        \centering\includegraphics[scale=0.125]{figure/Se-c.eps}
+    \begin{subfigure}[c]{.45\linewidth}
+        \centering\includegraphics[scale=0.125]{figure/Se-2.png}
         \caption{灰硒的晶胞$c$轴投影图}
     \end{subfigure}
-    \caption{灰硒的晶体结构}
+    \caption{灰硒的晶体结构\quad$\text{P}\,3_1\,2\,1$\quad$a=b=\SI{431.2}{\pico\meter},\,c=\SI{497.1}{\pico\meter},\,\gamma=120^\circ$}
 \end{figure}
-\paragraph{黑硒} 这是常见的市售硒单质的元素形态,是蓝黑色有脆性的玻璃态固体,由熔融的\ce{Se}迅速冷却得到.黑硒其中有着大小不同的\ce{Se_n}环.
+借由灰硒中的~\ce{Se_n}螺旋长链可以直观地理解$3_1$螺旋轴的概念.容易想到,上面示出的灰硒实际上是对映体中的一种,另一种是具有$3_2$螺旋轴的灰硒.
+\paragraph{黑硒} 这是常见的市售硒单质的元素形态,是蓝黑色有脆性的玻璃态固体,由熔融的~\ce{Se}迅速冷却得到.黑硒其中有着大小不同的~\ce{Se_n}环.
 \paragraph{碲单质}
-碲仅有一种晶型,其结构与灰硒完全一致,也是由\ce{Te}组成的螺旋长链构成.尽管\ce{Te}链的尺寸明显大于\ce{Se}链,但是两者链间的原子距离却几乎相等,这使得\ce{Se}和\ce{Te}可以任意地相互替代,形成连续过渡的固体化合物.
+碲仅有一种晶型,其结构与灰硒完全一致,也是由~\ce{Te}组成的螺旋长链构成.尽管~\ce{Te}链的尺寸明显大于~\ce{Se}链,但是两者链间的原子距离却几乎相等,这使得~\ce{Se}和~\ce{Te}可以任意地相互替代,形成连续过渡的固体化合物~\ce{Se_xTe_{1-x}}.
 \subsubsection{单质的生产与用途}
 \paragraph{工业生产}
-电解精炼铜时的阳极泥是\ce{Se}和\ce{Te}的主要来源.典型的工序是加入\ce{Na2CO3}并鼓入空气进行焙烧,产生对应的钠盐:
+电解精炼铜时的阳极泥是~\ce{Se}和~\ce{Te}的主要来源\cite{Wang2016}.典型的方法是加入~\ce{Na2CO3}并鼓入空气进行焙烧,产生对应的钠盐:
 \begin{center}
     \ce{Ag2Se + Na2CO3 + O2 -> 2Ag + Na2SeO3 + CO2}\\
     \ce{Cu2Se + Na2CO3 + 2O2 -> 2CuO + Na2SeO3 + CO2}\\
     \ce{Cu2Te + Na2CO3 + 2O2 -> 2CuO + Na2TeO3 + CO2}
 \end{center}
-为了分离\ce{Se}和\ce{Te},也可以不加\ce{Na2CO3},让\ce{SeO2}自行挥发.不过,酸中和碱性亚硒酸盐和亚碲酸盐也可分离\ce{Se}和\ce{Te};\ce{Te}的水合二氧化物形成沉淀,使酸性较强的\ce{H2SeO3}留在溶液中,再用\ce{SO2}还原:
+为了分离~\ce{Se}和~\ce{Te},也可以不加~\ce{Na2CO3},让~\ce{SeO2}自行挥发.不过,酸中和碱性亚硒酸盐和亚碲酸盐也可分离~\ce{Se}和~\ce{Te};~\ce{Te}的水合二氧化物形成沉淀,使酸性较强的~\ce{H2SeO3}留在溶液中,再用~\ce{SO2}还原:
 \begin{center}
     \ce{H2SeO3 + 2SO2 + H2O -> Se + 2H2SO4}
 \end{center}
-将\ce{TeO2.$x$H2O}用\ce{NaOH}溶解后电解就可以得到\ce{Te}单质:
+将~\ce{TeO2.$x$H2O}用~\ce{NaOH}溶解后电解就可以得到~\ce{Te}单质:
 \begin{center}
     \ce{Na2TeO3 + H2O ->T[电解] Te + 2NaOH + O2}
 \end{center}
 \paragraph{用途}
-硒的主要用途是用作玻璃脱色剂,用红色中和\ce{Fe^2+}的绿色.此外,硒还用做静电复印中的光导体.\\
-\indent 碲的产量比硒小得多,在工业中的应用也有限.
+硒的主要用途是用作钠钙玻璃的脱色剂\ce{CdS_{x}Se_{1-x}},用其红色中和~\ce{Fe^2+}的绿色.非晶态硒的一个重要特性是其光点转换能力,因此还用做静电复印中的光导体(即硒鼓),光电电池,感光元件等.\\
+\indent 碲的产量比硒小得多,在工业中的应用也有限,基本用于低碳钢的添加剂以提高其机械性能.由于碲的化合物容易被人体吸收形成有机碲化物,导致呼吸和汗水有明显的恶臭味,这也可能限制了人们对碲化合物的使用.
 \subsection{\ce{S,Se,Te}的多原子阳离子}
-\subsubsection{多硫阳离子}早在1804年,G.F.Bucholz发现将硫溶解在发烟硫酸中可得清澈透亮的溶液.随着发烟硫酸的强度和反应时间不同,溶液可呈黄色,深蓝色或红色(或其中间色).现已得知,在这些溶液中含有\ce{S_n^2+}离子.\\
-\indent 硫在惰性溶剂(如\ce{SO2})中极易被\ce{SbF5}或\ce{AsF5}定量氧化为深蓝色的\ce{S8^2+}离子,例如:
+\subsubsection{多硫阳离子}
+早在1804年, G.F.Bucholz发现将硫溶解在发烟硫酸中可得清澈透亮的溶液.随着发烟硫酸的强度和反应时间不同,溶液可呈黄色,深蓝色或红色(或其中间色).现在已经知道在这些溶液中含有多硫阳离子~\ce{[S_n]^2+}.
+\paragraph{\ce{[S8]^{2+}}}
+硫在惰性溶剂(如~\ce{SO2})中极易被~\ce{SbF5}或~\ce{AsF5}定量氧化为~\ce{[S8]^2+}离子:
 \begin{center}
-    \ce{S8 + 2AsF5 -> [S8]^2+[AsF6]^-_2 + AsF3}
+    \ce{S8 + 3AsF5 -> [S8][AsF6]2 + AsF3}
 \end{center}
-在前述黄色的溶液中含有\ce{S4^2+},它具有平面正方形的环状结构,理论上具有芳香性.在前述红色的溶液中含有\ce{S_19^2+}.
+起初,人们认为~\ce{[S8]^2+}是深蓝色的,但事实上它是红色的,合成过程中体系呈现的蓝色来源于体系中少量存在的其它离子(在后面会详细介绍).\cite{Cameron2000}.~\ce{[S8]^2+}相对~\ce{S8}的构象发生变化,呈现明显的跨环相互作用:
+\begin{figure}[H]\centering
+    \begin{subfigure}[b]{.35\linewidth}\centering
+        \includegraphics{figure/[S8]2+-length.eps}
+        \caption{\ce{[S8]^{2+}}的键长数据}
+    \end{subfigure}
+    \begin{subfigure}[b]{.55\linewidth}\centering
+        \includegraphics{figure/[S8]2+-resonance_structures.eps}
+        \caption{解释\ce{[S8]^{2+}}跨环作用的共振式}
+    \end{subfigure}
+    \caption{\ce{[S8]^{2+}}的键长与成键方式}
+\end{figure}
+\noindent 我们也可以将~\ce{S8},~\ce{[S8]^{2+}}和~\ce{S4N4}(即假想的~\ce{[S8]^{4+}})的结构进行比较:
+\begin{figure}[H]\centering
+    \includegraphics{figure/S8^n+-transform.eps}
+    \caption{\ce{[S8]^{n+}}$(n=0,2,4)$的结构变化示意图}
+\end{figure}
+\paragraph{\ce{[S4]^{2+}}与~\ce{[S4]^{4+}}}
+在Bucholz制备的溶液中含有~\ce{[S4]^{2+}}.相比于~\ce{[S8]^{2+}},~\ce{[S4]^{2+}}更难分离,直到1980年才分离得到~\ce{[S7I]_4[S4][AsF6]_6}和~\ce{[S4][AsF6]2.$x$SO2}晶体\cite{Passmore1980b}:
+\begin{tightcenter}
+    \ce{4S8 + 2I2 + 9AsF5 ->[SO2] [S7I]_4[S4][AsF6]_6 + 3AsF3}\\
+    \ce{S8 + 6AsF5 + 2$x$SO2 ->[SO2, trace Br2] 2[S4][AsF6]_2.$x$SO2 + 2AsF3}
+\end{tightcenter}
+尽管~\ce{[S4]^{2+}}为平面型,并且存在一定的键长平均化,但对于其是否具有芳香性尚没有明确定论.热力学研究表明,~\ce{[S4]^{2+}}在气相中不稳定,而在固相中因晶格稳定化作用而能稳定存在\cite{Cameron2000a}.\\
+\indent 人们在研究多硫阳离子时提出可能存在~\ce{[S4]^{4+}}离子.得益于沸石化学的发展,已经在~\ce{Cd^{2+}}交换后的沸石笼中捕获了这种正四面体形的离子(正如它的等电子体~\ce{P4}那样),反应的方程式大致为
+\begin{tightcenter}
+    \ce{52S -> 12 S^{2-} + 2[S4]^{4+} + 8[S4]^{2+}}
+\end{tightcenter}
+\paragraph{\ce{[S6]^{2+}}与~\ce{[S5]^{+}}}
+在介绍~\ce{[S8]^{2+}}时,我们说这种红色离子的溶液看起来是深蓝色的.研究表明在~\ce{[S8]^{2+}}的溶液中主要存在如下平衡:
+\begin{tightcenter}
+    \ce{2[S8]^{2+} <=> [S6]^{2+} + 2[S5]^+}
+\end{tightcenter}
+目前尚没有分离出这两种离子的固体,但光谱和计算结果表明~\ce{[S5]^{+}}可能是平面五边形的,而~\ce{[S6]^{2+}}具有椅式六元环结构:
+\begin{figure}[H]\centering
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics{figure/[S5]+.eps}
+        \caption{\ce{[S5]+}的可能结构}
+    \end{subfigure}
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics{figure/[S6]2+.eps}
+        \caption{\ce{[S6]^{2+}}的结构}
+    \end{subfigure}
+\end{figure}
+\indent 最初认为~\ce{[S8]^{2+}}溶液的蓝色主要来自~\ce{[S5]+}自由基离子\cite{Cameron2000}.后来,更精确的理论计算表明蓝色更可能来自~\ce{[S6]^{2+}}离子\cite{Krossing2004}.~\ce{[S6]^{2+}}可以视作$10\pi$体系,具有一定的非平面芳香性,蓝色即来源于共轭体系中$\pi$电子的跃迁.
+\paragraph{\ce{[S19]^{2+}}}
+迄今制备出的最大的多硫阳离子是~\ce{[S19]^{2+}},由低温下~\ce{S}单质在~\ce{SO2}/\ce{SO2ClF}混合溶剂中被~\ce{AsF5}氧化得到:
+\begin{tightcenter}
+    \ce{19S + 3AsF5 -> [S19][AsF6]2 + AsF3}
+\end{tightcenter}
+\ce{[S19]^{2+}}由~\ce{\{S5\}}链连接两个~\ce{\{S7\}}环构成,结构如下所示:
+\begin{figure}[H]\centering
+    \includegraphics{figure/[S19]2+.eps}
+    \caption{\ce{[S19]^{2+}}的结构}
+\end{figure}
 \subsubsection{多硒阳离子}
-硫溶于发烟硫酸中得亮色溶液,\ce{Se}与\ce{Te}也有类似的性质.由于\ce{Se}和\ce{Te}的电负性更低,原子体积更大,因此承受正电荷的能力也更强,相应的离子也可以用种类更多的强酸制备.下面是\ce{Se}可以发生的典型反应:
+硫溶于发烟硫酸中得亮色溶液,~\ce{Se}与~\ce{Te}也有类似的性质.由于~\ce{Se}和~\ce{Te}的电负性更低,原子体积更大,因此承受正电荷的能力也更强,相应的离子也可以用种类更多的强酸制备.~\ce{[Se4]^{2+}}和~\ce{[Se8]^{2+}}可以用制备多硫阳离子相似的方法得到:
+\begin{tightcenter}
+    \ce{Se_8 + 6AsF5 ->T[\ce{SO2}] 2[Se4]^2+[AsF6]^-_2 + 2AsF3}\\
+    \ce{Se_8 + 5SbF5 ->T[\ce{SO2}] [Se8]^2+[Sb2F11]^-_2 + SbF3}
+\end{tightcenter}
+也可以在其它多种强酸中由氧化剂氧化得到,例如:
 \begin{center}
     \ce{4Se + (SO3F)2 ->T[\ce{HSO3F}] [Se4]^2+[SO3F]^-_2}\\
     \ce{Se_4^2+ + 4Se ->T[\ce{HSO3F}] [Se8]^2+}\\
-    \ce{Se_8 + 6AsF5 ->T[\ce{SO2}] 2[Se4]^2+[AsF6]^-_2 + 2AsF3}\\
-    \ce{Se_8 + 5SbF5 ->T[\ce{SO2}] [Se8]^2+[Sb2F11]^-_2 + SbF3}\\
     \ce{15Se + SeCl4 + 4AlCl3 ->[$250\tccentigrade$] 2[Se8]^2+[AlCl4]^-_2}
 \end{center}
-\indent \ce{Se4^2+}是黄色的,而\ce{Se8^2+}则是绿色的.后来,通过\ce{SbF5}与过量\ce{Se}在\ce{SO2}中反应,又得到了深红色的\ce{Se10(SbF6)2}.
+\indent \ce{[Se4]^2+}是黄色的,而~\ce{[Se8]^2+}则是绿色的,它们的结构与相应的多硫阳离子相似.~\ce{SbF5}与过量~\ce{Se}在~\ce{SO2}中反应也可以得到深红色的~\ce{Se10(SbF6)2}\cite{Burns1980}:
+\begin{tightcenter}
+    \ce{10Se + 3SbF5 ->[SO2] [Se10][SbF6]2 + SbF3}
+\end{tightcenter}
 \subsubsection{多碲阳离子}
-用上述相似方法可以制备多原子\ce{Te}阳离子.\\
-\indent \ce{Te4^2+}是亮红色的,而\ce{Te8^2+}尚未得到.在\ce{AsF3}溶剂中用\ce{AsF5}氧化\ce{Te}可以生成棕色的晶体\ce{[Te6][AsF6]4.2AsF3}:
+用相似的方法也可以制备多碲阳离子.~\ce{[Te4]^2+}是亮红色的,可由~\ce{TeCl4}和~\ce{Te}单质与~\ce{AlCl3}反应制得\cite{Couch1972}:
+\begin{tightcenter}
+    \ce{7Te + TeCl4 + 4AlCl3 -> 2[Te4][AlCl4]2}
+\end{tightcenter}
+\ce{[Te4]^{2+}}的结构与~\ce{[S4]^{2+}}和~\ce{[Se4]^{2+}}相同,都是平面四方形的.\\
+\indent \ce{[Te8]^{2+}}的制备方法略有不同,需要将氧化剂更换过渡金属卤化物,例如~\ce{WCl6}和~\ce{ReCl4}\cite{Beck1990}:
+\begin{tightcenter}
+    \ce{2ReCl4 + 15Te + TeCl4 ->T[$\Delta$, 封管] 2[Te8][ReCl6]}
+\end{tightcenter}
+\ce{[Te8]^{2+}}有两种不同的存在形式.在~\ce{[Te8][ReCl6]}中,~\ce{[Te8]^{2+}}的结构类似于~\ce{[S8]^{2+}}和~\ce{[Se8]^{2+}};但在~\ce{[Te8][WCl6]2}中则更接近五元环并环结构.\\
+\indent 前面已经说过制备~\ce{[Te8]^{2+}}的条件与硫或硒类似物不同.如果采用此条件,即在~\ce{AsF3}溶剂中用~\ce{AsF5}氧化~\ce{Te},则会生成棕色的晶体~\ce{[Te6][AsF6]4.2AsF3}\cite{Gillespie1976}:
 \begin{center}
-    \ce{6Te + 6AsF5 ->T[AsF3] [Te6]^2+[AsF6]^-_4.2AsF3}
+    \ce{6Te + 6AsF5 ->T[AsF3] [Te6][AsF6].2AsF3}
 \end{center}
-\ce{Te6^4+}是三棱柱型的阳离子簇.
-\subsubsection{\ce{S,Se,Te}的多原子阳离子的结构}
-下面给出了前述几种阳离子的立体结构.
+\ce{[Te6]^4+}是三棱柱型的阳离子簇,其结构如下所示:
 \begin{figure}[H]
-    \centering
-    \begin{subfigure}[b]{.45\linewidth}
-        \centering\includegraphics[scale=0.25]{figure/X42+.eps}
-        \caption{\ce{X4^2+}$\left(\ce{X}=\ce{S,Se,Te}\right)$的结构}
-    \end{subfigure}
-    \begin{subfigure}[b]{.45\linewidth}
-        \centering\includegraphics[scale=0.25]{figure/Te64+.eps}
-        \caption{\ce{Te6^4+}的结构}
-    \end{subfigure}
-    \caption{部分\ce{S,Se,Te}的多原子阳离子的结构}
+    \centering\includegraphics{figure/[Te6]4+.eps}
+    \caption{\ce{[Te6]^{4+}}的结构}
 \end{figure}
 \subsection{\ce{Se,Te}的卤化物}
 \subsubsection{\ce{Te}的低卤化物}
-\ce{Te}可以形成异常低价态卤化物.这些物质通常是长链结构,以\ce{Te}单质本身具有的螺旋结构为基础.控制条件可以使\ce{Te}与\ce{Cl2}化合成\ce{Te3Cl2},这是一种长链分子,主链中每个两个\ce{Te}原子,在第三个\ce{Te}上加两个\ce{Cl}原子而被氧化.\ce{Te2I}具有船式六元\ce{Te}环组成的带状一维结构.$\beta$-\ce{TeI}的结构则与\ce{Te2I}有一定类似之处.
+\ce{Te}可以形成异常低价态卤化物.这些物质以~\ce{Te}单质本身具有的螺旋结构为基础,形成一维长链结构.控制条件可以使~\ce{Te}与~\ce{Cl2}化合成~\ce{Te3Cl2}.这是一种长链分子,主链中每隔两个~\ce{Te}原子,在第三个~\ce{Te}有两个~\ce{Cl}原子,其结构如下所示:
+\begin{figure}[H]\centering
+    \begin{subfigure}[c]{.4\linewidth}\centering
+        \includegraphics[scale=0.125]{figure/Te3Cl2.png}
+        \caption{\ce{Te3Cl2}的晶体结构}
+    \end{subfigure}
+    \begin{subfigure}[c]{.5\linewidth}\centering
+        \includegraphics{figure/Te3Cl2-chain.eps}
+        \caption{\ce{Te3Cl2}长链结构示意图}
+    \end{subfigure}
+    \caption{\ce{Te3Cl2}的结构}
+\end{figure}
+\ce{Te2I}具有船式六元~\ce{Te}环组成的带状一维结构.~$\beta$-\ce{TeI}的结构则与~\ce{Te2I}有一定类似之处.
 \begin{figure}[H]
     \centering
     \begin{subfigure}[b]{.45\linewidth}
@@ -97,147 +172,181 @@
         \centering\includegraphics{figure/beta-TeI.eps}
         \caption{$\beta$-\ce{TeI}的长链结构}
     \end{subfigure}
-    \caption{\ce{Te2I}和$\beta$-\ce{TeI}的结构}
+    \caption{\ce{Te2I}和$\beta$-\ce{TeI}的长链结构}
 \end{figure}
-\subsubsection{\ce{Se,Te}的四卤化物}
-\ce{SeF4}具有与\ce{SF4}相似的结构.而\ce{TeF4}中的\ce{Te}则通过桥连\ce{F}原子形成了长链结构.
+\subsubsection{\ce{Se,Te}的二卤化物~\ce{ChX2}}
+\paragraph{\ce{SeF4}与~\ce{TeF4}}
+与被充分研究的二卤化硫~\ce{SX2}相比,~\ce{Se}和~\ce{Te}的稳定二卤化物仅有~\ce{SeCl2}和~\ce{SeBr2}.~\ce{SeCl2}是对热不稳定的红色油状液体,~\ce{SeBr2}是一种红棕色固体.两者分别可由下面的方法制备:
+\begin{tightcenter}
+    \ce{Se + SO2Cl2 ->[\SI{296}{\kelvin}] SeCl2 + SO2}\\
+    \ce{SeCl2 + 2Me3SiBr ->[\SI{296}{\kelvin}, THF] SeBr2 + 2Me3SiCl}
+\end{tightcenter}
+\subsubsection{\ce{Se,Te}的四卤化物~\ce{ChX4}}
+四氟化硒~\ce{SeF4}是无色发烟液体,有毒,可以剧烈的水解.~\ce{SeF4}的熔点为$\SI{263.5}{\kelvin}$,沸点为$\SI{375}{\kelvin}$.四氟化碲~\ce{TeF4}是白色固体,也有剧毒.~\ce{TeF4}的熔点为$\SI{403}{\kelvin}$.\\
+\indent \ce{SeF4}是良好的氟化剂,可以由~\ce{SeO2}与~\ce{SF4}反应得到;而~\ce{TeF4}可以由~\ce{TeO2}与~\ce{SF4}或~\ce{SeF4}反应得到:
+\begin{tightcenter}
+    \ce{SeO2 + SF4 -> SO2 + SeF4}\\
+    \ce{TeO2 + SeF4 -> SeO2 + TeF4}
+\end{tightcenter}
+\indent \ce{SeF4}具有与~\ce{SF4}相似的跷跷板形结构,而~\ce{TeF4}则通过桥连~\ce{F}原子形成长链结构\cite{Kniep1984}:
 \begin{figure}[H]
-    \centering\includegraphics{figure/TeF4.eps}
-    \caption{\ce{TeF4}的长链结构}
+    \begin{subfigure}[b]{.35\linewidth}
+        \centering\includegraphics{figure/SeF4.eps}
+        \caption{\ce{SeF4}的分子结构}
+    \end{subfigure}
+    \begin{subfigure}[b]{.55\linewidth}
+        \centering\includegraphics{figure/TeF4.eps}
+        \caption{\ce{TeF4}的长链结构}
+    \end{subfigure}
+    \caption{\ce{ChF4}的结构$(\ce{Ch}=\ce{Se},\,\ce{Te})$}
 \end{figure}
-\ce{TeCl4}的结构则值得探究.在正常情况下,\ce{TeCl4}是由四聚体\ce{Te4Cl16}构成的,这一四聚体是一个立方体簇合物.它可以逐次失去\ce{Te}形成\ce{Te3Cl^-_13},\ce{Te2Cl^2-_10}和\ce{TeCl^2-_6}.这些离子的结构都可以看作是由\ce{Te4Cl16}立方体衍生而来.
+\paragraph{\ce{SeCl4}与~\ce{TeCl4}}
+与硫不同,~\ce{Se}和~\ce{Te}都能由单质直接化合形成稳定的四氯化物:
+\begin{tightcenter}
+    \ce{Se + 2Cl2 -> SeCl4}\qquad\ce{Te + 2Cl2 -> TeCl4}
+\end{tightcenter}
+四氯化硒~\ce{SeCl4}是白色固体,在$\SI{469}{\kelvin}$升华.四氯化碲~\ce{TeCl4}是黄色固体,熔点为$\SI{497}{\kelvin}$,沸点为$\SI{653}{\kelvin}$.这两种氯化物的固体都由~\ce{[ChCl4]4}$(\ce{Ch}=\ce{Se},\,\ce{Te})$四聚体组成.在非极性溶剂中,如果存在~\ce{Cl-}离子,该四聚体也可以逐步发生解聚.以~\ce{TeCl4}为例:
+\begin{tightcenter}
+    \ce{Te4Cl16 + Cl- -> [Te3Cl13]- + TeCl4}\\
+    \ce{[Te3Cl13]- + Cl- -> [Te2Cl10]^2- + TeCl4}\\
+    \ce{[Te2Cl10]^2- -> [TeCl6]^2- + TeCl4}
+\end{tightcenter}
+\indent \ce{TeCl4}以及它的衍生物的结构都以~\ce{\{Te4Cl4\}}立方体为基础.它在~\ce{Cl-}作用下逐次失去~\ce{[TeCl3]+}单元形成~\ce{[Te3Cl13]-},~\ce{[Te2Cl10]^{2-}}和~\ce{[TeCl6]^{2-}}.它们的结构如下所示:
 \begin{figure}[H]
     \centering
     \begin{subfigure}[b]{.45\linewidth}
-        \centering\includegraphics[scale=0.75]{figure/Te4Cl16.eps}
+        \centering\includegraphics{figure/Te4Cl16.eps}
         \caption{\ce{Te4Cl16}的结构}
     \end{subfigure}
     \begin{subfigure}[b]{.45\linewidth}
-        \centering\includegraphics[scale=0.75]{figure/Te3Cl13.eps}
-        \caption{\ce{Te3Cl^-_13}的结构}
+        \centering\includegraphics{figure/Te3Cl13-.eps}
+        \caption{\ce{[Te3Cl13]-}的结构}
     \end{subfigure}
     \begin{subfigure}[b]{.45\linewidth}
-        \centering\includegraphics[scale=0.75]{figure/Te2Cl10.eps}
-        \caption{\ce{Te2Cl^2-_10}的结构}
+        \centering\includegraphics{figure/[Te2Cl10]2-.eps}
+        \caption{\ce{[Te2Cl10]^2-}的结构}
     \end{subfigure}
     \begin{subfigure}[b]{.45\linewidth}
-        \centering\includegraphics[scale=0.75]{figure/TeCl6.eps}
-        \caption{\ce{TeCl^2-_6}的结构}
+        \centering\includegraphics{figure/[TeCl6]2-.eps}
+        \caption{\ce{[TeCl6]^2-}的结构}
     \end{subfigure}
     \caption{\ce{Te4Cl16}及其衍生结构}
 \end{figure}
-当然,我们有更好的画法表示上面的离子.
+当然,我们可以用更清晰的绘制方式表示上面的部分离子.
 \begin{figure}[H]
     \centering
     \begin{subfigure}[b]{.45\linewidth}
-        \centering\includegraphics[scale=0.75]{figure/Te3Cl13-2.eps}
-        \caption{\ce{Te3Cl16}的结构}
+        \centering\includegraphics{figure/[Te3Cl13]-_2.eps}
+        \caption{\ce{[Te3Cl13]^-}的结构}
     \end{subfigure}
     \begin{subfigure}[b]{.45\linewidth}
-        \centering\includegraphics[scale=0.75]{figure/Te2Cl10-2.eps}
-        \caption{\ce{Te2Cl^2-_10}的结构}
+        \centering\includegraphics{figure/[Te2Cl10]2-_2.eps}
+        \caption{\ce{[Te2Cl10]^2-}的结构}
     \end{subfigure}
-    \caption{更好的绘制方法}
+    \caption{部分离子更好的绘制方法}
 \end{figure}
-而\ce{TeI4}虽然也形成四聚体,但结构与\ce{TeCl4}亦有所不同.
+而~\ce{TeI4}虽然也形成四聚体,但结构与~\ce{TeCl4}亦有所不同.
 \begin{figure}[H]
     \centering\includegraphics{figure/Te4I16.eps}
     \caption{\ce{Te4I16}的结构}
 \end{figure}
-在有强Lewis酸存在的情形下,这些卤化物都可以形成对应的阳离子盐,例如:
+在有强Lewis酸存在的情形下,这些卤化物可以形成对应的阳离子盐,例如:
 \begin{center}
     \ce{SeCl4 + GaCl3 -> [SeCl3]+[GaCl4]-}
 \end{center}
-等等.
 \subsubsection{\ce{Se,Te}的六卤化物}
-己知六卤化物仅有无色气态氟化物\ce{SeF6}与\ce{TeF6},以及挥发性液体\ce{TeClF5}与\ce{TeBrF5}.
-\subsection{\ce{Se,Te}的$\mbf{-2}$价化合物}
-\begin{substance}[\ce{H2Se}]
-    硒化氢,化学式为\ce{H2Se},是无色,有恶臭,有毒的气体,可溶于水,溶解度与\ce{H2S}相近.
-\end{substance}
-\begin{substance}[\ce{H2Te}]
-    碲化氢,化学式为\ce{H2Te},是无色,有恶臭,有毒的气体,可溶于水,溶解度与\ce{H2S}相近.
-\end{substance}
-\ce{H2Se}(与\ce{H2O}及\ce{H2S}相似)可用相应的单质在$350\tccentigrade$以上直接化合制得,但由于\ce{H2Te}对热的不稳定性,因此不能用这种方法制得.两者也可以由各自与\ce{Al}的化合物水解得到.\ce{TiCl3}在缓冲溶液中还原\ce{Na2TeO3}也可以制得\ce{H2Te}.\\
-\indent \ce{H2Se}和\ce{H2Te}均为弱酸.它们的第一级电离常数分别如下:
+\ce{Se}和~\ce{Te}稳定的六卤化物仅有~\ce{SeF6}与~\ce{TeF6}.两者都是稳定的无色气体,可以由单质直接化合而成:
+\begin{tightcenter}
+    \ce{Se + 3F2 -> SeF6}\qquad\ce{Te + 3F2 -> TeF6}
+\end{tightcenter}
+\indent 然而,两者的稳定性却没有同族的~\ce{SF6}那么好.~\ce{SeF6}相对比较多型,而~\ce{TeF6}则容易水解为原碲酸~\ce{H6TeO6}:
+\begin{tightcenter}
+    \ce{TeF6 + 6H2O -> 6HF + H6TeO6}
+\end{tightcenter}
+也可以发生配体交换反应或继续被~\ce{F-}配位:
+\begin{tightcenter}
+    \ce{TeF6 + Me3SINMe2 -> Me2NTeF5 + Me3SiF}\\
+    \ce{TeF6 + Me4NF ->[MeCN, $\SI{233}{\kelvin}$] [Me4N][TeF7]}\\
+    \ce{[Me4N][TeF7] + Me4NF ->[MeCN, $\SI{273}{\kelvin}$] [Me4N]2[TeF8]}
+\end{tightcenter}
+\ce{[TeF7]-}和~\ce{[TeF8]^2-}分别是~\ce{IF7}和~\ce{XeF8}的等电子体.两者分别具有五角双锥结构和四方反棱柱结构:
+\begin{figure}[H]\centering
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics{figure/[TeF7]-.eps}
+        \caption{\ce{[TeF7]-}的结构}
+    \end{subfigure}
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics{figure/[TeF8]2-.eps}
+        \caption{\ce{[TeF8]^2-}的结构}
+    \end{subfigure}
+\end{figure}
+\subsection{\ce{Se,Te}的氢化物}
+硒化氢~\ce{H2Se}和碲化氢~\ce{H2Te}都是无色,有恶臭,有毒的气体,可溶于水,溶解度与\ce{H2S}相近.\\
+\indent \ce{H2Se}(与~\ce{H2O}及~\ce{H2S}相似)可用相应的单质在$\SI{350}{\celsius}$以上直接化合制得:
+\begin{tightcenter}
+    \ce{Se + H2 ->[$\SI{350}{\celsius}$] H2Se}
+\end{tightcenter}
+但由于~\ce{H2Te}对热的不稳定性,因此不能用这种方法制备~\ce{H2Te}.~\ce{H2Se}和~\ce{H2Te}可以由各自与\ce{Al}的化合物水解得到:
+\begin{tightcenter}
+    \ce{Al2Ch3 + 6H2O -> 2Al(OH)3 + 3H2Ch}\quad$\ce{Ch}=\ce{Se},\,\ce{Te}$
+\end{tightcenter}
+\indent \ce{H2Se}和~\ce{H2Te}均为弱酸.它们在室温下的第一级电离常数分别如下:
 \begin{center}
     \ce{H2Se + H2O <=> HSe^- + H3O+}\ \ \ $K_\text a=1.3\times10^{-4}$\\
     \ce{H2Te + H2O <=> HTe^- + H3O+}\ \ \ $K_\text a=2.3\times10^{-3}$
 \end{center}
-可见酸性按照$\ce{H2S}<\ce{H2Se}<\ce{H2Te}$的顺序逐渐增大.
+可见酸性按照$\ce{H2S}<\ce{H2Se}<\ce{H2Te}$的顺序逐渐增大.这一递变关系和卤素是类似的.
 \subsection{\ce{Se,Te}的$\mbf{+4}$价化合物:氧化物和含氧酸}
-\subsubsection{氧化物}我们先来讨论这两种元素的$+4$价氧化物.
-\begin{substance}[\ce{SeO2}]
-    二氧化硒,化学式为\ce{SeO2},白色固体,密封时在$340\tccentigrade$熔化为黄色液体.\ce{SeO2}极易溶于水形成亚硒酸\ce{H2SeO3}.
-\end{substance}
-在热力学上,\ce{SeO2}相较\ce{SO2}和\ce{TeO2}氧化性更强,容易被\ce{NH3},\ce{N2H4}或\ce{SO2}的水溶液还原成单质\ce{Se}.在有机化学中,它也可以作为氧化剂制备醇.\\
-\indent 固态\ce{SeO2}是以\ce{\{SeO3\}}角锥体共用\ce{O}原子形成的长链结构,示意如下.
+\subsubsection{氧化物}
+二氧化硒~\ce{SeO2}是白色固体,密封时在$\SI{340}{\celsius}$熔化为黄色液体.~\ce{SeO2}极易溶于水形成亚硒酸~\ce{H2SeO3}.二氧化碲~\ce{TeO2}具有两种晶型:黄色的黄碲矿$\beta$-\ce{TeO2}和白色的副黄碲矿$\alpha$-\ce{TeO2}.~\ce{TeO2}在$733\tccentigrade$熔化为红色液体.~\ce{TeO2}极易溶于水形成亚碲酸~\ce{H2TeO3}.\\
+\indent 固态~\ce{SeO2}是以~\ce{\{SeO3\}}角锥体共用\ce{O}原子形成的长链结构,示意如下.
 \begin{figure}[H]
-    \centering\includegraphics[scale=0.25]{figure/SeO2.eps}
-    \caption{固态\ce{SeO2}的长链结构}
+    \centering\includegraphics{figure/SeO2.eps}
+    \caption{固态~\ce{SeO2}中的长链结构}
 \end{figure}
-\begin{substance}[\ce{TeO2}]
-    二氧化碲,化学式为\ce{TeO2}.固体具有两种晶型:黄色的黄碲矿$\beta$-\ce{TeO2}和白色的副黄碲矿$\alpha$-\ce{TeO2}.\ce{TeO2}在$733\tccentigrade$熔化为红色液体.\ce{TeO2}极易溶于水形成亚碲酸\ce{H2TeO3}.
-\end{substance}
-自然界中的\ce{TeO2}以$\beta$-\ce{TeO2}的形式存在,其中有复杂的二维层状结构,如下图所示.
-\begin{figure}[H]
-    \centering
-    \begin{subfigure}[b]{.45\linewidth}
-        \centering\includegraphics[scale=0.125]{figure/beta-TeO2-a.eps}
-        \caption{$\beta$-\ce{TeO2}沿$a$轴的投影图}
-    \end{subfigure}
-    \begin{subfigure}[b]{.45\linewidth}
-        \centering\includegraphics[scale=0.125]{figure/beta-TeO2-b.eps}
-        \caption{$\beta$-\ce{TeO2}沿$b$轴的投影图}
-    \end{subfigure}
-    \caption{$\beta$-\ce{TeO2}的晶体结构}
-\end{figure}
-而$\alpha$-\ce{TeO2}则在实验室中合成,为似金红石结构.
+\noindent 自然界中的~\ce{TeO2}以黄碲矿$\beta$-\ce{TeO2}的形式存在,其中有复杂的二维层状结构,如下图所示.而副黄碲矿$\alpha$-\ce{TeO2}则在实验室中合成,具有类似金红石的结构.\\
+\indent 在热力学上,~\ce{SeO2}相较~\ce{SO2}和~\ce{TeO2}氧化性更强,容易被~\ce{N2H4}或~\ce{SO2}的水溶液还原成单质~\ce{Se}:
+\begin{tightcenter}
+    \ce{SeO2 + N2H4 -> Se + N2 + 2H2O}\\
+    \ce{SeO2 + 2SO2 + 2H2O -> Se + 2H2SO4}
+\end{tightcenter}
+在有机化学中,它也可以作为氧化剂制备烯丙醇.
 \subsubsection{含氧酸}
-与对应的氧化物相比,两种元素的$+4$价含氧酸,亚硒酸\ce{H2SeO3}和亚碲酸\ce{H2TeO3},则显得有些乏善可陈.两者均为白色的晶型固体,容易脱水成对应的氧化物.\\
-\indent \ce{H2SeO3}最佳的制备方法是\ce{SeO2}水溶液缓慢结晶,或者用稀\ce{HNO3}氧化\ce{Se}粉而得到:
-\begin{center}
+亚硒酸~\ce{H2SeO3}和亚碲酸~\ce{H2TeO3}均为白色的晶型固体,容易脱水成对应的氧化物.\\
+\indent \ce{H2SeO3}最佳的制备方法是~\ce{SeO2}水溶液缓慢结晶,或者用稀~\ce{HNO3}氧化~\ce{Se}粉而得到:
+\begin{tightcenter}
     \ce{3Se + 4HNO3 + H2O -> 2H2SeO3 + 4NO}
-\end{center}而\ce{H2TeO3}则可以由碲的四卤化物水解得到.\\
-\indent \ce{H2SeO3}和\ce{H2TeO3}都是二元中强酸.
+\end{tightcenter}
+而~\ce{H2TeO3}则可以由碲的四卤化物水解得到:
+\begin{tightcenter}
+    \ce{[TeCl4]4 + 12H2O -> 4H2TeO3 + 16HCl}
+\end{tightcenter}
+\indent \ce{H2SeO3}和~\ce{H2TeO3}都是二元中强酸.在室温下有$\text{p}K_{a1}(\ce{H2SeO3})=2.46$, $\text{p}K_{a2}(\ce{H2SeO3})=7.31$和$\text{p}K_{a1}(\ce{H2SeO3})=2.48$, $\text{p}K_{a2}(\ce{H2SeO3})=7.70$,酸性相差不大.
 \subsection{\ce{Se,Te}的$\mbf{+6}$价化合物:氧化物和含氧酸}
 \subsubsection{氧化物}
-\ce{SeO3}和\ce{TeO3}具有比较明显的区别.
-\begin{substance}[\ce{SeO3}]
-    三氧化硒,化学式为\ce{SeO3},是白色吸湿性的固体,在$118\tccentigrade$熔融,容易升华,在$165\tccentigrade$以上分解.
-\end{substance}
-由于次级周期性的缘故,将\ce{Se}氧化到$+6$价是困难的.对于\ce{S},\ce{Se}和\ce{Te}而言,只有\ce{SeO2}被氧化为\ce{SeO3}吸热:
-\begin{center}
+三氧化硒~\ce{SeO3}是白色吸湿性的固体,在$\SI{118}{\celsius}$熔融,容易升华,在$\SI{165}{\celsius}$以上分解.三氧化碲~\ce{TeO3}在常温下为固体,具有两种晶型:橙黄色的$\alpha$-\ce{TeO3}和灰色的$\beta$-\ce{TeO3}.\\
+\indent 由于次级周期性的缘故,将~\ce{Se}氧化到$+6$价是困难的.对于~\ce{S},~\ce{Se}和~\ce{Te}而言,只有~\ce{SeO2}被氧化为~\ce{SeO3}吸热:
+\begin{tightcenter}
     \ce{2SeO2(s) + O2(g) -> 2SeO3(s)}\ \ \ $\Delta H_\text{m}^\ominus=+92\kJm$
-\end{center}
-因此,最好通过\ce{K2SeO4}与\ce{SO3}的反应制备\ce{SeO3}:
-\begin{center}
+\end{tightcenter}
+因此最好通过~\ce{K2SeO4}与~\ce{SO3}的反应制备\ce{SeO3}:
+\begin{tightcenter}
     \ce{K2SeO4 + SO3 -> SeO3 + K2SO4}
-\end{center}
-固态的\ce{SeO3}以环状四聚体\ce{Se4O12}的形式存在,其结构示意如下.
+\end{tightcenter}
+\indent 固态的~\ce{SeO3}以环状四聚体~\ce{Se4O12}的形式存在,其结构示意如下.
 \begin{figure}[H]
-    \centering\includegraphics{figure/SeO3.eps}
-    \caption{环状四聚体\ce{Se4O12}的结构}
+    \centering\includegraphics{figure/Se4O12.eps}
+    \caption{环状四聚体~\ce{Se4O12}的结构}
 \end{figure}
-\begin{substance}[\ce{TeO3}]
-    三氧化碲,化学式为\ce{TeO3}.固体具有两种晶型:橙黄色的$\alpha$-\ce{TeO3}和灰色的$\beta$-\ce{TeO3}.
-\end{substance}
-与\ce{SeO3}不同,\ce{TeO3}不与水作用,自身反应性也较差.
+与本族其它元素的三氧化物不同,~\ce{TeO3}不与水反应,自身反应性也较差.这可能是因为固态~\ce{TeO3}中所有~\ce{Te}均为稳定的六配位构型,不易与其它物质反应.
 \subsubsection{含氧酸}
-同样地,$+6$价的\ce{Se}和\ce{Te}的含氧酸也具有比较明显的区别.
-\begin{substance}[\ce{H2SeO4}]
-    硒酸,化学式为\ce{H2SeO4}.无水\ce{H2SeO4}同浓硫酸的物理性质相似,有强烈的吸湿性,在水中的溶解度很大.
-\end{substance}
-\ce{H2SeO4}在很多方面与\ce{H2SO4}相似:\ce{H2SeO4}的$K_{\text a1}$很大,而$K_{\text a2}=1.2\times10^{-2}$亦与\ce{H2SO4}相近;硒酸盐与硫酸盐相似,这二类盐都生成一系列矾类;$\ce{Se}^{\ce{VI}}$也能生成多聚的酸\ce{H2Se2O7}等.但与\ce{H2SO4}不同的是,\ce{H2SeO4}是很强的氧化剂,甚至能溶解\ce{Au},\ce{Pd}等惰性金属.\\
-\indent 可以通过各类氧化剂氧化\ce{H2SeO3}制备\ce{H2SeO4},例如:
-\begin{center}
+同样地,~$+6$价的~\ce{Se}和~\ce{Te}的含氧酸也具有比较明显的区别.硒酸~\ce{H2SeO4}的性质与硫酸相似,无水~\ce{H2SeO4}有强烈的吸湿性,在水中的溶解度很大.~\ce{H2SeO4}的$K_{a1}$很大,而$K_{a2}=1.2\times10^{-2}$亦与~\ce{H2SO4}相近;硒酸盐与硫酸盐相似,这二类盐都生成一系列矾类;$\ce{Se}^{\ce{VI}}$也能生成多聚的酸~\ce{H2Se2O7}等.但与~\ce{H2SO4}不同的是,~\ce{H2SeO4}是很强的氧化剂,甚至能溶解~\ce{Au},~\ce{Pd}等惰性金属.\\
+\indent 可以通过各类氧化剂氧化~\ce{H2SeO3}制备~\ce{H2SeO4},例如:
+\begin{tightcenter}
     \ce{5H2SeO3 + 2HClO3 -> 5H2SeO4 + Cl2 + H2O}
-\end{center}
+\end{tightcenter}
 等等.\\
-\indent $\ce{Te}^{\ce{VI}}$的含氧酸主要是原碲酸\ce{H6TeO6}.
-\begin{substance}[\ce{H6TeO6}]
-    原碲酸,化学式为\ce{H6TeO6},白色固体,熔点$136\tccentigrade$.
-\end{substance}
-原碲酸的晶体结构是由正八面体的\ce{Te(OH)6}分子构成,在溶液中也是如此.与\ce{H2SO4}或\ce{H2SeO4}不同,\ce{H6TeO6}是弱酸,其$K_{\text a1}=2\times10^{-8}$.\\
-\indent \ce{H6TeO6}可以由氧化剂氧化\ce{Te}或\ce{TeO2}制备.同时,\ce{H6TeO6}也是一种中等强度的氧化剂.
+\indent $\ce{Te}^{\ce{VI}}$的含氧酸主要是原碲酸~\ce{H6TeO6}.它是稳定的白色固体,熔点为$\SI{136}{\celsius}$.原碲酸由正八面体的~\ce{Te(OH)6}分子构成,在溶液中也是如此.与~\ce{H2SO4}或~\ce{H2SeO4}不同,~\ce{H6TeO6}是弱酸,其$K_{\text a1}=2\times10^{-8}$.\\
+\indent \ce{H6TeO6}可以由氧化剂氧化~\ce{Te}或~\ce{TeO2}制备.同时,\ce{H6TeO6}也是一种中等强度的氧化剂.
+%\printbibliography[title={参考文献}]
 \end{document}
