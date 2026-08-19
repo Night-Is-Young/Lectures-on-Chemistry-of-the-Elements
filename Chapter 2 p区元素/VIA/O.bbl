@@ -854,6 +854,319 @@
       \verb https://doi.org/10.1021/ja00738a059
       \endverb
     \endentry
+    \entry{Mori1956}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=f90925832201be6f683163ccfad253bb}{%
+           family={Mori},
+           familyi={M\bibinitperiod},
+           given={Motoshichi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cf77d1962b3ac51409e31be9c7e4a754}{%
+           family={Shibata},
+           familyi={S\bibinitperiod},
+           given={Muraji},
+           giveni={M\bibinitperiod}}}%
+        {{hash=01df8f8cb0081b4bb5471ecb00e1f1ca}{%
+           family={Kyuno},
+           familyi={K\bibinitperiod},
+           given={Eishin},
+           giveni={E\bibinitperiod}}}%
+        {{hash=4b551d22f73adf9b9d20d2e48a349521}{%
+           family={Ito},
+           familyi={I\bibinitperiod},
+           given={Syu},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f15db105a646f678a2feafa27740999c}
+      \strng{fullhash}{22536fcb51d8922545b3991666a948e8}
+      \strng{fullhashraw}{22536fcb51d8922545b3991666a948e8}
+      \strng{bibnamehash}{22536fcb51d8922545b3991666a948e8}
+      \strng{authorbibnamehash}{22536fcb51d8922545b3991666a948e8}
+      \strng{authornamehash}{f15db105a646f678a2feafa27740999c}
+      \strng{authorfullhash}{22536fcb51d8922545b3991666a948e8}
+      \strng{authorfullhashraw}{22536fcb51d8922545b3991666a948e8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0009-2673, 1348-0634}
+      \field{journaltitle}{Bulletin of the Chemical Society of Japan}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Reaction of {{Hydrogen Peroxide}} with {{Titanium}} ({{IV}}) at {{Different pH Values}}}
+      \field{urlday}{17}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{29}
+      \field{year}{1956}
+      \field{urldateera}{ce}
+      \field{pages}{904\bibrangedash 907}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1246/bcsj.29.904
+      \endverb
+    \endentry
+    \entry{Bach2025}{article}{}{}
+      \name{author}{9}{}{%
+        {{hash=d26cd0136a7bcadddd8a828ade8ce094}{%
+           family={Bach},
+           familyi={B\bibinitperiod},
+           given={Karlie},
+           giveni={K\bibinitperiod}}}%
+        {{hash=04e43f6efefd71f73971f68822d13d34}{%
+           family={Garrido\bibnamedelima Ribó},
+           familyi={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Eduard},
+           giveni={E\bibinitperiod}}}%
+        {{hash=11e1214652d18485db178e523afa583d}{%
+           family={Hirschi},
+           familyi={H\bibinitperiod},
+           given={Jacob\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=37a1909c12aa8eed19b2cb0d156ab6b7}{%
+           family={Mao},
+           familyi={M\bibinitperiod},
+           given={Zhiwei},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=5b70a35d7e86ba410299b14be19d91ef}{%
+           family={Nord},
+           familyi={N\bibinitperiod},
+           given={Makenzie\bibnamedelima T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=9b34c1c181246d0b2b9013727508b07a}{%
+           family={Zakharov},
+           familyi={Z\bibinitperiod},
+           given={Lev\bibnamedelima N.},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=9ea893bee9068e27026e23e0a3fcd33a}{%
+           family={Goulas},
+           familyi={G\bibinitperiod},
+           given={Konstantinos\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=56c648ce4b44c3068f9418d8aef95f63}{%
+           family={Zuehlsdorff},
+           familyi={Z\bibinitperiod},
+           given={Tim\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=547f2a5db449c1ff243e50a92351fdc7}{%
+           family={Nyman},
+           familyi={N\bibinitperiod},
+           given={May},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{229108430e852848daede0404f46d629}
+      \strng{fullhash}{0c639e745f7e031083a7c87261d6639f}
+      \strng{fullhashraw}{0c639e745f7e031083a7c87261d6639f}
+      \strng{bibnamehash}{0c639e745f7e031083a7c87261d6639f}
+      \strng{authorbibnamehash}{0c639e745f7e031083a7c87261d6639f}
+      \strng{authornamehash}{229108430e852848daede0404f46d629}
+      \strng{authorfullhash}{0c639e745f7e031083a7c87261d6639f}
+      \strng{authorfullhashraw}{0c639e745f7e031083a7c87261d6639f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0897-4756, 1520-5002}
+      \field{journaltitle}{Chemistry of Materials}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Tetraperoxotitanates for {{High-Capacity Direct Air Capture}} of {{Carbon Dioxide}}}
+      \field{urlday}{17}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{37}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \field{pages}{48\bibrangedash 61}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1021/acs.chemmater.4c01795
+      \endverb
+    \endentry
+    \entry{Funahashi1989}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=3428a65a6f15f94d512c1fc9394cf11b}{%
+           family={Funahashi},
+           familyi={F\bibinitperiod},
+           given={Shigenobu},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cfba6b44b15412886a71fe81b376a1b4}{%
+           family={Ishihara},
+           familyi={I\bibinitperiod},
+           given={Koji},
+           giveni={K\bibinitperiod}}}%
+        {{hash=47e99e7fd5adc8d7c8c272b8c4fce45a}{%
+           family={Inamo{†}},
+           familyi={I\bibinitperiod},
+           given={Masahiko},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b2941998a45fea79c9f6839c9a9b0863}{%
+           family={Tanaka},
+           familyi={T\bibinitperiod},
+           given={Motoharu},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{aff06a9accff3e3b4ca50f032abecf50}
+      \strng{fullhash}{9ef679a67ea2d6b68b9064947d06f47c}
+      \strng{fullhashraw}{9ef679a67ea2d6b68b9064947d06f47c}
+      \strng{bibnamehash}{9ef679a67ea2d6b68b9064947d06f47c}
+      \strng{authorbibnamehash}{9ef679a67ea2d6b68b9064947d06f47c}
+      \strng{authornamehash}{aff06a9accff3e3b4ca50f032abecf50}
+      \strng{authorfullhash}{9ef679a67ea2d6b68b9064947d06f47c}
+      \strng{authorfullhashraw}{9ef679a67ea2d6b68b9064947d06f47c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00201693}
+      \field{journaltitle}{Inorganica Chimica Acta}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{Formation Kinetics of Peroxovanadium({{V}}) Complexes in Strongly Acidic Media as Studied by a High-Pressure Stopped-Flow Technique}
+      \field{urlday}{17}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{157}
+      \field{year}{1989}
+      \field{urldateera}{ce}
+      \field{pages}{65\bibrangedash 71}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/S0020-1693(00)83425-8
+      \endverb
+    \endentry
+    \entry{Campbell1989}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=79f0efdffaca1e3db2f2e31ed26712d2}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Nicholas\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=55452d76cac3344f6c865e77b9f9a6c3}{%
+           family={Dengel},
+           familyi={D\bibinitperiod},
+           given={Andrew\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=89da9e6fcc169ca8ac0ebfe2b07029b4}{%
+           family={Griffith},
+           familyi={G\bibinitperiod},
+           given={William\bibnamedelima P.},
+           giveni={W\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{d26770afbbcc1d6563c9ec065b7573cc}
+      \strng{fullhash}{405130c1d380edba26f9c403f9687f10}
+      \strng{fullhashraw}{405130c1d380edba26f9c403f9687f10}
+      \strng{bibnamehash}{405130c1d380edba26f9c403f9687f10}
+      \strng{authorbibnamehash}{405130c1d380edba26f9c403f9687f10}
+      \strng{authornamehash}{d26770afbbcc1d6563c9ec065b7573cc}
+      \strng{authorfullhash}{405130c1d380edba26f9c403f9687f10}
+      \strng{authorfullhashraw}{405130c1d380edba26f9c403f9687f10}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{02775387}
+      \field{journaltitle}{Polyhedron}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{11}
+      \field{title}{Studies on Transition Metal Peroxo Complexes---{{X}}. {{The}} Nature of Peroxovanadates in Aqueous Solution}
+      \field{urlday}{17}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{8}
+      \field{year}{1989}
+      \field{urldateera}{ce}
+      \field{pages}{1379\bibrangedash 1386}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/S0277-5387(00)86249-X
+      \endverb
+    \endentry
+    \entry{Grzywa2007}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=a01b78ee0d3eb56a0e51e26e5c981a54}{%
+           family={Grzywa},
+           familyi={G\bibinitperiod},
+           given={Maciej},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1a7e5444120449ca6317a6dde2b9fd9d}{%
+           family={{Ł}asocha},
+           familyi={Ł\bibinitperiod},
+           given={Wieslaw},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{4dccb5dfc2ced91158542f7fd00d0852}
+      \strng{fullhash}{4dccb5dfc2ced91158542f7fd00d0852}
+      \strng{fullhashraw}{4dccb5dfc2ced91158542f7fd00d0852}
+      \strng{bibnamehash}{4dccb5dfc2ced91158542f7fd00d0852}
+      \strng{authorbibnamehash}{4dccb5dfc2ced91158542f7fd00d0852}
+      \strng{authornamehash}{4dccb5dfc2ced91158542f7fd00d0852}
+      \strng{authorfullhash}{4dccb5dfc2ced91158542f7fd00d0852}
+      \strng{authorfullhashraw}{4dccb5dfc2ced91158542f7fd00d0852}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0044-2968}
+      \field{journaltitle}{Zeitschrift für Kristallographie}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{Crystal Structure of Potassium and Ammonium Tetraperoxovanadates ({{V}})}
+      \field{urlday}{17}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{222}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \field{pages}{95\bibrangedash 98}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1524/zkri.2007.222.2.95
+      \endverb
+    \endentry
+    \entry{Stomberg1962}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=d561cbd1bb6ee088aee9b7b4e52dba15}{%
+           family={Stomberg},
+           familyi={S\bibinitperiod},
+           given={Rolf},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{d561cbd1bb6ee088aee9b7b4e52dba15}
+      \strng{fullhash}{d561cbd1bb6ee088aee9b7b4e52dba15}
+      \strng{fullhashraw}{d561cbd1bb6ee088aee9b7b4e52dba15}
+      \strng{bibnamehash}{d561cbd1bb6ee088aee9b7b4e52dba15}
+      \strng{authorbibnamehash}{d561cbd1bb6ee088aee9b7b4e52dba15}
+      \strng{authornamehash}{d561cbd1bb6ee088aee9b7b4e52dba15}
+      \strng{authorfullhash}{d561cbd1bb6ee088aee9b7b4e52dba15}
+      \strng{authorfullhashraw}{d561cbd1bb6ee088aee9b7b4e52dba15}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0028-0836, 1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{4854}
+      \field{title}{Crystal {{Structure}} of {{Peroxochromates}}, {{CrO5}}.{{C5H5N}}}
+      \field{urlday}{17}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{196}
+      \field{year}{1962}
+      \field{urldateera}{ce}
+      \field{pages}{570\bibrangedash 571}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1038/196570b0
+      \endverb
+    \endentry
     \entry{Volnov1967}{article}{}{}
       \name{author}{3}{}{%
         {{hash=093469370045d80b894f5f885e64f907}{%
@@ -880,8 +1193,8 @@
       \strng{authornamehash}{b396cbf6685057276446e17b5f96f291}
       \strng{authorfullhash}{d226f1889c834c8ee701eb229e1ed570}
       \strng{authorfullhashraw}{d226f1889c834c8ee701eb229e1ed570}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A mechanism of the formation of ozonides of alkali metals was proposed on the basis of data obtained in an investigation of the reaction of oxygen-labeled KOH with ozone, the reaction of KOH with atomic oxygen, and the reaction of KOH with ozone; this mechanism is based upon: the catalytic decomposition of ozone on the surface of the solid alkalies into molecular and atomic oxygen, the interaction of the latter with the hydroxide, forming a superperoxide, and an interaction of the superperoxide with ozone, forming the ozonide.}
@@ -927,8 +1240,8 @@
       \strng{authornamehash}{d56f6365fdf93cd482ac6cf067da9a44}
       \strng{authorfullhash}{d56f6365fdf93cd482ac6cf067da9a44}
       \strng{authorfullhashraw}{d56f6365fdf93cd482ac6cf067da9a44}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Revue de chimie minérale}

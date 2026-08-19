@@ -1,5 +1,10 @@
-\documentclass{ctexart}
+\documentclass{ctexbook}
 \usepackage{EC}
+\usepackage[
+    backend=biber,
+    style=chem-acs,
+]{biblatex}
+\addbibresource{ref.bib}
 \title{\tbf{VIA族元素}}
 \author{夜未央}
 \begin{document}
@@ -7,4 +12,5 @@
 \include{O}
 \include{S}
 \include{Se,Te}
+\printbibliography[title={参考文献}]
 \end{document}

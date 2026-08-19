@@ -1,0 +1,19 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[1] Config.pm:311> INFO - Logfile is 'O.blg'
+[512] biber-MSWIN64:340> INFO - === 
+[726] Biber.pm:420> INFO - Reading 'O.bcf'
+[919] Biber.pm:994> INFO - Found 25 citekeys in bib section 0
+[937] Biber.pm:4463> INFO - Processing section 0
+[1031] Biber.pm:4654> INFO - Looking for bibtex file 'ref.bib' for section 0
+[1203] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1400] bibtex.pm:1519> INFO - Found BibTeX data source 'ref.bib'
+[1763] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1763] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1763] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1763] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[1918] bbl.pm:676> INFO - Writing 'O.bbl' with encoding 'UTF-8'
+[1950] bbl.pm:779> INFO - Output to O.bbl
+[1950] Biber.pm:131> WARN - legacy month field 'Oct' in entry 'Lieb1967' is not an integer - this will probably not sort properly.
+[1950] Biber.pm:131> WARN - legacy month field 'Nov' in entry 'Li2024' is not an integer - this will probably not sort properly.
+[1950] Biber.pm:131> WARN - legacy month field 'Mar' in entry 'Berg2007' is not an integer - this will probably not sort properly.
+[1951] Biber.pm:133> INFO - WARNINGS: 3

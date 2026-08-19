@@ -1,0 +1,11 @@
+# Convert EPS graphics to same-name PDF files on demand.
+add_cus_dep('eps', 'pdf', 0, 'eps2pdf');
+
+sub eps2pdf {
+    my ($base) = @_;
+    my $eps = "$base.eps";
+    my $pdf = "$base.pdf";
+
+    print "Converting $eps -> $pdf\n";
+    return system('epstopdf.exe', "--outfile=$pdf", $eps);
+}

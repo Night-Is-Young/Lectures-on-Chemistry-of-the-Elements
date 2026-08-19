@@ -2396,8 +2396,14 @@
     <bcf:citekey order="15" intorder="1">Thenard1818</bcf:citekey>
     <bcf:citekey order="16" intorder="1">Gillespie2000</bcf:citekey>
     <bcf:citekey order="17" intorder="1">Studier1971</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">Volnov1967</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">Schnick1987</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">Mori1956</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">Bach2025</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">Funahashi1989</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">Campbell1989</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">Grzywa2007</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">Stomberg1962</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">Volnov1967</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">Schnick1987</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
