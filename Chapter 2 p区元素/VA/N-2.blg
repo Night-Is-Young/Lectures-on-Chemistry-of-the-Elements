@@ -1,0 +1,9 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'N-2.blg'
+[125] biber-MSWIN64:340> INFO - === 
+[170] Biber.pm:420> INFO - Reading 'N-2.bcf'
+[272] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
+[284] bbl.pm:676> INFO - Writing 'N-2.bbl' with encoding 'UTF-8'
+[285] bbl.pm:779> INFO - Output to N-2.bbl
+[285] Biber.pm:131> WARN - The file 'N-2.bcf' does not contain any citations!
+[285] Biber.pm:133> INFO - WARNINGS: 1

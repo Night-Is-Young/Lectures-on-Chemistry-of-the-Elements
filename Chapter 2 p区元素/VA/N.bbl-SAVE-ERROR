@@ -1,0 +1,254 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{Eremets2004}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=490c8c5fd788be0b31b6478ec2e057a1}{%
+           family={Eremets},
+           familyi={E\bibinitperiod},
+           given={Mikhail\bibnamedelima I.},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=e222d24d4ceaf5bf30ab1c2593944111}{%
+           family={Gavriliuk},
+           familyi={G\bibinitperiod},
+           given={Alexander\bibnamedelima G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=93e2da77328adf6ed2827a47de6b4ee6}{%
+           family={Trojan},
+           familyi={T\bibinitperiod},
+           given={Ivan\bibnamedelima A.},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=8e48c3d88af6b05c8ee666e689f65fc6}{%
+           family={Dzivenko},
+           familyi={D\bibinitperiod},
+           given={Dymitro\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=16054dfdae00ded2ca3183db1995676e}{%
+           family={Boehler},
+           familyi={B\bibinitperiod},
+           given={Reinhard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f2f0062676fb26339a1b9f87bcaf8d5}
+      \strng{fullhash}{a2499bab13798beeb031176cb146891d}
+      \strng{fullhashraw}{a2499bab13798beeb031176cb146891d}
+      \strng{bibnamehash}{a2499bab13798beeb031176cb146891d}
+      \strng{authorbibnamehash}{a2499bab13798beeb031176cb146891d}
+      \strng{authornamehash}{3f2f0062676fb26339a1b9f87bcaf8d5}
+      \strng{authorfullhash}{a2499bab13798beeb031176cb146891d}
+      \strng{authorfullhashraw}{a2499bab13798beeb031176cb146891d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1476-1122, 1476-4660}
+      \field{journaltitle}{Nature Materials}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Single-Bonded Cubic Form of Nitrogen}
+      \field{urlday}{19}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{3}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+      \field{pages}{558\bibrangedash 563}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/nmat1146
+      \endverb
+    \endentry
+    \entry{Xu2024}{article}{}{}
+      \name{author}{12}{}{%
+        {{hash=a4b723281fbf3a33c319751c46137d13}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Yuxuan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=cf1de2400e8de2cde563d7a0fed132fc}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Guo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=56bc77e3823dba8395256a3c31a95435}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod}}}%
+        {{hash=dbe83fd8da75338203d4e8dd0e20be17}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Ming},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5b8af381910e81163051a42edff14902}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Liangfei},
+           giveni={L\bibinitperiod}}}%
+        {{hash=0ceb40a2935713581590ddad276cc537}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Deyuan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b881686cdf68b52745dbcb6374b8008b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xiaodong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=9fb0e0d0c23b60ca3a5eb335f8fb0074}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Junfeng},
+           giveni={J\bibinitperiod}}}%
+        {{hash=724d10cda13cb03869e19d0191dacf1d}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Zhi},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=e2954b671a9c72d92195246a8a6417bf}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Ruibin},
+           giveni={R\bibinitperiod}}}%
+        {{hash=faa7d37fbfa80da1cc3b1def7265badf}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Haiqing},
+           giveni={H\bibinitperiod}}}%
+        {{hash=65b66b47eebb2a88953007bed1c30056}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xianlong},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{84c0d0678d19541adc26a1308fba4ce2}
+      \strng{fullhash}{261e35630d8be1a8c05a2b8817a6806f}
+      \strng{fullhashraw}{261e35630d8be1a8c05a2b8817a6806f}
+      \strng{bibnamehash}{261e35630d8be1a8c05a2b8817a6806f}
+      \strng{authorbibnamehash}{261e35630d8be1a8c05a2b8817a6806f}
+      \strng{authornamehash}{84c0d0678d19541adc26a1308fba4ce2}
+      \strng{authorfullhash}{261e35630d8be1a8c05a2b8817a6806f}
+      \strng{authorfullhashraw}{261e35630d8be1a8c05a2b8817a6806f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2375-2548}
+      \field{journaltitle}{Science Advances}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{39}
+      \field{title}{Free-Standing Cubic Gauche Nitrogen Stable at 760 {{K}} under Ambient Pressure}
+      \field{urlday}{19}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{10}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \field{pages}{eadq5299}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1126/sciadv.adq5299
+      \endverb
+    \endentry
+    \entry{Laniel2020}{article}{}{}
+      \name{author}{9}{}{%
+        {{hash=ee36ce241ef327b8b2db0a4ea527847e}{%
+           family={Laniel},
+           familyi={L\bibinitperiod},
+           given={Dominique},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f9393b267358a11f0e670a5c79953d08}{%
+           family={Winkler},
+           familyi={W\bibinitperiod},
+           given={Bjoern},
+           giveni={B\bibinitperiod}}}%
+        {{hash=15b3305e285680960107837d0c3f1bf4}{%
+           family={Fedotenko},
+           familyi={F\bibinitperiod},
+           given={Timofey},
+           giveni={T\bibinitperiod}}}%
+        {{hash=493d80673005ca645a2f578f6a93bf7a}{%
+           family={Pakhomova},
+           familyi={P\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6dc2c27e72bdaa49f483d2c959dae487}{%
+           family={Chariton},
+           familyi={C\bibinitperiod},
+           given={Stella},
+           giveni={S\bibinitperiod}}}%
+        {{hash=698600862cf64c093bce445fd66a02a7}{%
+           family={Milman},
+           familyi={M\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=67b209c5e3f49712a97133723da16b6d}{%
+           family={Prakapenka},
+           familyi={P\bibinitperiod},
+           given={Vitali},
+           giveni={V\bibinitperiod}}}%
+        {{hash=cc9d8104a3043473f1e1ee3f0f60f78d}{%
+           family={Dubrovinsky},
+           familyi={D\bibinitperiod},
+           given={Leonid},
+           giveni={L\bibinitperiod}}}%
+        {{hash=85831104faa1d5edc45ea41ea411db98}{%
+           family={Dubrovinskaia},
+           familyi={D\bibinitperiod},
+           given={Natalia},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{e663dc4f3ed8b30c9668da080caa692e}
+      \strng{fullhash}{60c64334264ac3e5fec75a4bcf8397fd}
+      \strng{fullhashraw}{60c64334264ac3e5fec75a4bcf8397fd}
+      \strng{bibnamehash}{60c64334264ac3e5fec75a4bcf8397fd}
+      \strng{authorbibnamehash}{60c64334264ac3e5fec75a4bcf8397fd}
+      \strng{authornamehash}{e663dc4f3ed8b30c9668da080caa692e}
+      \strng{authorfullhash}{60c64334264ac3e5fec75a4bcf8397fd}
+      \strng{authorfullhashraw}{60c64334264ac3e5fec75a4bcf8397fd}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0031-9007, 1079-7114}
+      \field{journaltitle}{Physical Review Letters}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{21}
+      \field{title}{High-{{Pressure Polymeric Nitrogen Allotrope}} with the {{Black Phosphorus Structure}}}
+      \field{urlday}{19}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{124}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{216001}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.124.216001
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
