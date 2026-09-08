@@ -793,7 +793,6 @@
       \field{labeltitlesource}{title}
       \field{issn}{0002-7863, 1520-5126}
       \field{journaltitle}{Journal of the American Chemical Society}
-      \field{langid}{english}
       \field{month}{3}
       \field{number}{8}
       \field{title}{High-{{Pressure Synthesis}} of {{K}}{\textsubscript{4}} {{N}}{\textsubscript{6}} with {{All Nitrogen Atoms Forming Aromatic Hexazine}} [{{N}}{\textsubscript{6}} ]{\textsuperscript{4--}} {{Anions}}}
@@ -807,6 +806,155 @@
       \range{pages}{7}
       \verb{doi}
       \verb 10.1021/jacs.5c21993
+      \endverb
+    \endentry
+    \entry{Zurek2009}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=f9322e07d154743de2529c07c2bd9c44}{%
+           family={Zurek},
+           familyi={Z\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod}}}%
+        {{hash=271db4f234ae916af3c7a824ffb7ef70}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={Peter\bibnamedelima P.},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=9a4e4258d9f2854b80180823b18dc242}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={Roald},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{4fafb57335e2d40b271d7d5f6ce15f02}
+      \strng{fullhash}{193e74d3b37b30da669e921b47d90dca}
+      \strng{fullhashraw}{193e74d3b37b30da669e921b47d90dca}
+      \strng{bibnamehash}{193e74d3b37b30da669e921b47d90dca}
+      \strng{authorbibnamehash}{193e74d3b37b30da669e921b47d90dca}
+      \strng{authornamehash}{4fafb57335e2d40b271d7d5f6ce15f02}
+      \strng{authorfullhash}{193e74d3b37b30da669e921b47d90dca}
+      \strng{authorfullhashraw}{193e74d3b37b30da669e921b47d90dca}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1433-7851, 1521-3773}
+      \field{journaltitle}{Angewandte Chemie International Edition}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{44}
+      \field{title}{A {{Molecular Perspective}} on {{Lithium}}--{{Ammonia Solutions}}}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{48}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \field{pages}{8198\bibrangedash 8232}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1002/anie.200900373
+      \endverb
+    \endentry
+    \entry{Dye1974}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=3a4a3bbb3cec6ea34ba9473392c7f257}{%
+           family={Dye},
+           familyi={D\bibinitperiod},
+           given={James\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=87d70a45d505a94f68cfeca247d4810c}{%
+           family={Ceraso},
+           familyi={C\bibinitperiod},
+           given={Joseph\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a20eb4cb1e97b1c3e905ee19e74a23a5}{%
+           family={Lok},
+           familyi={L\bibinitperiod},
+           given={Mei},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3b48b5cd7424e7efc81fc68d9cbf88a4}{%
+           family={Barnett},
+           familyi={B\bibinitperiod},
+           given={B.\bibnamedelimi L.},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c3a5d7239471fdbe4cd4eb7bca8270da}{%
+           family={Tehan},
+           familyi={T\bibinitperiod},
+           given={Frederick\bibnamedelima J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1bcc5ff2516223b380e7b22b569323b1}
+      \strng{fullhash}{295d6b77de1c5d9e2886864231edac0a}
+      \strng{fullhashraw}{295d6b77de1c5d9e2886864231edac0a}
+      \strng{bibnamehash}{295d6b77de1c5d9e2886864231edac0a}
+      \strng{authorbibnamehash}{295d6b77de1c5d9e2886864231edac0a}
+      \strng{authornamehash}{1bcc5ff2516223b380e7b22b569323b1}
+      \strng{authorfullhash}{295d6b77de1c5d9e2886864231edac0a}
+      \strng{authorfullhashraw}{295d6b77de1c5d9e2886864231edac0a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0002-7863, 1520-5126}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{2}
+      \field{title}{Crystalline Salt of the Sodium Anion ({{Na-}})}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{96}
+      \field{year}{1974}
+      \field{urldateera}{ce}
+      \field{pages}{608\bibrangedash 609}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1021/ja00809a060
+      \endverb
+    \endentry
+    \entry{DeBacker1971}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=14b7789b154aa1ab2618a16f2a9700c4}{%
+           family={DeBacker},
+           familyi={D\bibinitperiod},
+           given={Marc\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=3a4a3bbb3cec6ea34ba9473392c7f257}{%
+           family={Dye},
+           familyi={D\bibinitperiod},
+           given={James\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{55b446428e05a77ea3eb2a4f7fd311df}
+      \strng{fullhash}{55b446428e05a77ea3eb2a4f7fd311df}
+      \strng{fullhashraw}{55b446428e05a77ea3eb2a4f7fd311df}
+      \strng{bibnamehash}{55b446428e05a77ea3eb2a4f7fd311df}
+      \strng{authorbibnamehash}{55b446428e05a77ea3eb2a4f7fd311df}
+      \strng{authornamehash}{55b446428e05a77ea3eb2a4f7fd311df}
+      \strng{authorfullhash}{55b446428e05a77ea3eb2a4f7fd311df}
+      \strng{authorfullhashraw}{55b446428e05a77ea3eb2a4f7fd311df}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-3654, 1541-5740}
+      \field{journaltitle}{The Journal of Physical Chemistry}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{20}
+      \field{title}{Metal-Ethylenediamine Solutions. {{Extinction}} Coefficients and Equilibriums}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{75}
+      \field{year}{1971}
+      \field{urldateera}{ce}
+      \field{pages}{3092\bibrangedash 3096}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1021/j100689a010
       \endverb
     \endentry
   \enddatalist

@@ -187,7 +187,7 @@
             \end{subfigure}
             \caption{\ce{H7O3+}和\ce{H9O4+}的结构}
         \end{figure}
-    \item \ce{H13O6+}.它最初被发现于笼状阳离子\ce{[(C9H18)3(NH)2Cl]^+}在盐酸溶液析出的结晶中.该固体中的\ce{H13O6+}被周围的\ce{Cl-}离子所稳定.下面是该笼状阳离子结构和水合氢离子的结构.
+    \item \ce{H13O6+}.它最初被发现于笼状阳离子\ce{[(C9H18)3(NH)2Cl]^+}在盐酸溶液析出的结晶~\ce{[(C9H18)3(NH)2Cl][H13O6]Cl2}中\cite{Bell1975}.该固体中的\ce{H13O6+}被周围的\ce{Cl-}离子所稳定.下面是该笼状阳离子结构和水合氢离子的结构.
         \begin{figure}[H]\centering
             \begin{subfigure}[c]{.35\linewidth}\centering
                 \includegraphics{figure/(C9H18)3(NH)2Cl+.eps}
@@ -242,7 +242,7 @@
 \subsubsection{\ce{H2O2}的酸碱性}
 \ce{H2O2}是比\ce{H2O}稍强的酸:
 \begin{tightcenter}
-    \ce{H2O2 + H2O <=> H3O^ + HOO^-}\ \ \ $K_\text a=1.78\times10^{-12}$
+    \ce{H2O2 + H2O <=> H3O^+ + HOO^-}\ \ \ $K_\text a=1.78\times10^{-12}$
 \end{tightcenter}
 这可能是由于~\ce{O}的吸电子效应所致.另一方面,~\ce{HOO^-}是比~\ce{HO^-}更好的亲核试剂,因为两个~\ce{O}原子的孤对电子排斥使得HOMO能量升高.\\
 \indent 也正因为~\ce{O}的吸电子效应,~\ce{H2O2}的碱性比~\ce{H2O}弱得多.下面这一反应
@@ -250,7 +250,19 @@
     \ce{H3O2^+ + H2O -> H3O^+ + H2O2}
 \end{tightcenter}
 的平衡常数估计在$10^6$以上.\\
-\indent 液氨能与~\ce{H2O2}反应生成白色的~\ce{NH4OOH}固体,其中含有~\ce{NH4+}和~\ce{OOH-}离子,但熔融时似乎只存在由氢键联系的~\ce{NH3}和~\ce{H2O2}分子.这导致其熔点只有$25\tccentigrade$,明显低于一般的离子化合物.
+\indent 液氨能与~\ce{H2O2}反应生成白色的~\ce{NH4OOH}固体,其熔点只有$\SI{25}{\celsius}$.固态~\ce{NH4OOH}中含有~\ce{NH4+}和~\ce{OOH-}离子,其中存在~\ce{OOH-}离子以氢键连接的长链,链间由~\ce{NH4+}离子通过氢键连接:
+\begin{figure}[H]\centering
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics[scale=0.125]{figure/NH4OOH-a+c.png}
+        \caption{\ce{NH4OOH}沿$\vec{a}+\vec{c}$方向的投影图}
+    \end{subfigure}
+    \begin{subfigure}[b]{.45\linewidth}
+        \centering\includegraphics[scale=0.125]{figure/NH4OOH-b.png}
+        \caption{\ce{NH4OOH}沿$b$轴的投影图}
+    \end{subfigure}
+    \caption{\ce{NH4OOH}的晶体结构\quad$\text{P}\,2_1/\text{c}$\quad$a=\SI{619.9}{\pico\meter},\,b=\SI{674.0}{\pico\meter},\,c=\SI{613.9}{\pico\meter},\,\beta=115.5^\circ$}
+\end{figure}
+计算结果表明~\ce{OOH-}长链中的氢键非常强,大约在$\SI{120}{\kilo\joule\per\mole}$,而~\ce{NH4+}与长链之间形成的氢键则大约在$\SI{50}{\kilo\joule\per\mole}$\cite{Churakov2010}.而熔融时似乎只存在由氢键联系的~\ce{NH3}和~\ce{H2O2}分子.
 \subsubsection{\ce{H2O2}的氧化还原性}
 在酸性条件下,~\ce{H2O2}是很好的氧化剂,但在强氧化剂存在时也可以作为还原剂.
 \begin{tightcenter}
@@ -273,7 +285,7 @@
     \ce{2Fe^3+ + H2O2 -> 2Fe^2+ + O2 + 2H^+}\\
     总反应:~\ce{2H2O2 ->T[\ce{Fe^3+}][\ce{Fe^2+}] 2H2O + O2}
 \end{tightcenter}
-因此,在酸性溶液中还原电势处于$\SI{0.68}{\volt}$和$\SI{1.77}{\volt}$之间的物质理论上均可催化这一反应.各种过渡金属离子,例如~\ce{Fe^2+},~\ce{Mn^2+},~\ce{Cr^3+}的存在都会加速这一反应.此外,光照或加热也可以促使~\ce{H2O2}分解.因此需要将其存放在棕色瓶中在避光阴凉处保存,并加入稳定剂.常用的有~\ce{Na2SnO3},~\ce{Na4P2O7}和8-羟基喹啉等.后两者作为络合剂对金属离子配位形成稳定配合物离子阻止上述催化反应;而~\ce{Na2SnO3}在水中缓慢水解形成~\ce{SnO2.xH2O}胶体,吸附各种金属离子并阻止催化反应\cite{Lewis1960}.
+因此,在酸性溶液中还原电势处于$\SI{0.68}{\volt}$和$\SI{1.77}{\volt}$之间的物质理论上均可催化这一反应.各种过渡金属离子,例如~\ce{Fe^2+},~\ce{Mn^2+},~\ce{Cr^3+}的存在都会加速这一反应.此外,光照或加热也可以促使~\ce{H2O2}分解.因此需要将其存放在棕色瓶中在避光阴凉处保存,并加入稳定剂.常用的有~\ce{Na2SnO3},~\ce{Na4P2O7}和8-羟基喹啉等.后两者作为络合剂对金属离子配位形成稳定配合物离子阻止上述催化反应;而~\ce{Na2SnO3}在水中缓慢水解形成~\ce{SnO2.$x$H2O}胶体,吸附各种金属离子并阻止催化反应\cite{Lewis1960}.
 \subsubsection{\ce{H2O2}的制备}
 J.L.Thenard于1818年首次通过酸化~\ce{BaO2}的方式后减压蒸除~\ce{H2O}的方式制得了~\ce{H2O2}\cite{Thenard1818}.
 \begin{tightcenter}
@@ -419,12 +431,12 @@ HOF具有强烈的氧化性.典型的反应如下.
 下面列举了一些常见的碱金属或碱土金属的~\ce{O2^2-}盐.这些过氧化物在工业上通常作为漂白剂和强氧化剂使用.同时,我们在~\ce{O2}的制备中也提到过氧化物可以提供~\ce{O2}.\\
 \tbf{1.过氧化锂~\ce{Li2O2}}\\
 \indent 过氧化锂~\ce{Li2O2}是白色固体,热稳定性尚可,在$\SI{195}{\celsius}$以上开始分解为~\ce{Li2O}.工业上制备~\ce{Li2O2}是让~\ce{LiOH}与~\ce{H2O2}反应后减压脱水得到.\\
-\indent 除了~\ce{Li2O2}以外,其它碱金属的过氧化物都有着较好的热稳定性,这是由于~\ce{Li+}强烈的极化作用使得~\ce{O2^{2-}}不稳定.
+\indent 除了~\ce{Li2O2}以外,其它碱金属的过氧化物都有着较好的热稳定性,这是由于~\ce{Li+}强烈的反极化作用使得~\ce{O2^{2-}}不稳定.\\
 \tbf{2.过氧化钠~\ce{Na2O2}}\\
 \indent 过氧化钠~\ce{Na2O2}本身是白色固体,但由于通常制备的样品含有少量黄色的~\ce{NaO2},因此通常呈现为浅黄色粉末状固体.~\ce{Na2O2}是~\ce{Na}在过量~\ce{O2}下燃烧的最终产物,直到约$\SI{675}{\celsius}$以上才开始分解.~\ce{Na}元素也是碱金属中唯一一个燃烧终产物为过氧化物的.\\
 \indent 直接对~\ce{Na2O}氧化就可以制备~\ce{Na2O2}.用这种方法制备~\ce{K2O2},~\ce{Rb2O2}和~\ce{Cs2O2}则较为困难,因为它们很容易被继续氧化为超氧化物.\\
 \tbf{3.过氧化钙~\ce{CaO2}}\\
-\indent 过氧化钙~\ce{BaO2}是白色到淡黄色固体,在$\SI{300}{\celsius}$以上分解.因此,一般采用复分解反应制备~\ce{CaO2}:
+\indent 过氧化钙~\ce{CaO2}是白色到淡黄色固体,在$\SI{300}{\celsius}$以上分解.因此,一般采用复分解反应制备~\ce{CaO2}:
 \begin{tightcenter}
     \ce{CaCl2 + H2O2 + 2NH3 + 8H2O -> CaO2.8H2O + 2NH4Cl}\\
     \ce{CaO2.8H2O ->[$\SI{130}{\celsius}$] CaO2 + 8H2O}

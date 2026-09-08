@@ -2390,6 +2390,9 @@
     <bcf:citekey order="9" intorder="1">Laniel2019a</bcf:citekey>
     <bcf:citekey order="10" intorder="1">Laniel2023</bcf:citekey>
     <bcf:citekey order="11" intorder="1">Zhang2026</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">Zurek2009</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">Dye1974</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">DeBacker1971</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
