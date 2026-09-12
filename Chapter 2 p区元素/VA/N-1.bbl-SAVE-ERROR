@@ -914,6 +914,49 @@
       \verb 10.1021/ja00809a060
       \endverb
     \endentry
+    \entry{DeBacker1971}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=14b7789b154aa1ab2618a16f2a9700c4}{%
+           family={DeBacker},
+           familyi={D\bibinitperiod},
+           given={Marc\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=3a4a3bbb3cec6ea34ba9473392c7f257}{%
+           family={Dye},
+           familyi={D\bibinitperiod},
+           given={James\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{55b446428e05a77ea3eb2a4f7fd311df}
+      \strng{fullhash}{55b446428e05a77ea3eb2a4f7fd311df}
+      \strng{fullhashraw}{55b446428e05a77ea3eb2a4f7fd311df}
+      \strng{bibnamehash}{55b446428e05a77ea3eb2a4f7fd311df}
+      \strng{authorbibnamehash}{55b446428e05a77ea3eb2a4f7fd311df}
+      \strng{authornamehash}{55b446428e05a77ea3eb2a4f7fd311df}
+      \strng{authorfullhash}{55b446428e05a77ea3eb2a4f7fd311df}
+      \strng{authorfullhashraw}{55b446428e05a77ea3eb2a4f7fd311df}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-3654, 1541-5740}
+      \field{journaltitle}{The Journal of Physical Chemistry}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{20}
+      \field{title}{Metal-Ethylenediamine Solutions. {{Extinction}} Coefficients and Equilibriums}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{75}
+      \field{year}{1971}
+      \field{urldateera}{ce}
+      \field{pages}{3092\bibrangedash 3096}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1021/j100689a010
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
