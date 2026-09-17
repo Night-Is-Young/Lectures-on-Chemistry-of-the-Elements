@@ -1,0 +1,3 @@
+interface:
+  display_name: "元素化学讲义审阅"
+  short_description: "仅在本项目核查元素化学讲义的科学准确性、论证、文献与习题一致性"

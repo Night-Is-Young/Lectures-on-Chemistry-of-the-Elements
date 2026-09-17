@@ -957,6 +957,175 @@
       \verb 10.1021/j100689a010
       \endverb
     \endentry
+    \entry{Kohata1982}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=3297f313bb1d3e343b028c397dda32a5}{%
+           family={Kohata},
+           familyi={K\bibinitperiod},
+           given={Kunio},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9105ee40be2309a7d17da33bef7b058b}{%
+           family={Fukuyama},
+           familyi={F\bibinitperiod},
+           given={Tsutomu},
+           giveni={T\bibinitperiod}}}%
+        {{hash=422d4b1b7df100952b1e04f58f767ee7}{%
+           family={Kuchitsu},
+           familyi={K\bibinitperiod},
+           given={Kozo},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{af5de501ffc77d483a6da96b3571e7cf}
+      \strng{fullhash}{731a4f7fec1303164f622cea0c5af5bd}
+      \strng{fullhashraw}{731a4f7fec1303164f622cea0c5af5bd}
+      \strng{bibnamehash}{731a4f7fec1303164f622cea0c5af5bd}
+      \strng{authorbibnamehash}{731a4f7fec1303164f622cea0c5af5bd}
+      \strng{authornamehash}{af5de501ffc77d483a6da96b3571e7cf}
+      \strng{authorfullhash}{731a4f7fec1303164f622cea0c5af5bd}
+      \strng{authorfullhashraw}{731a4f7fec1303164f622cea0c5af5bd}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-3654, 1541-5740}
+      \field{journaltitle}{The Journal of Physical Chemistry}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{5}
+      \field{shortjournal}{J. Phys. Chem.}
+      \field{title}{Molecular Structure of Hydrazine as Studied by Gas Electron Diffraction}
+      \field{volume}{86}
+      \field{year}{1982}
+      \field{dateera}{ce}
+      \field{pages}{602\bibrangedash 606}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1021/j100394a005
+      \endverb
+    \endentry
+    \entry{Thiele1892}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=7a5b0793ad12a6db0b7835055ce81d26}{%
+           family={Thiele},
+           familyi={T\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a5b0793ad12a6db0b7835055ce81d26}
+      \strng{fullhash}{7a5b0793ad12a6db0b7835055ce81d26}
+      \strng{fullhashraw}{7a5b0793ad12a6db0b7835055ce81d26}
+      \strng{bibnamehash}{7a5b0793ad12a6db0b7835055ce81d26}
+      \strng{authorbibnamehash}{7a5b0793ad12a6db0b7835055ce81d26}
+      \strng{authornamehash}{7a5b0793ad12a6db0b7835055ce81d26}
+      \strng{authorfullhash}{7a5b0793ad12a6db0b7835055ce81d26}
+      \strng{authorfullhashraw}{7a5b0793ad12a6db0b7835055ce81d26}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0075-4617}
+      \field{journaltitle}{Justus Liebigs Annalen der Chemie}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Justus Liebigs Ann. Chem.}
+      \field{title}{Ueber {{Azodicarbonsäure}} ({{Diimiddicarbonsäure}})}
+      \field{volume}{271}
+      \field{year}{1892}
+      \field{dateera}{ce}
+      \field{pages}{127\bibrangedash 136}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1002/jlac.18922710120
+      \endverb
+    \endentry
+    \entry{Foner1958}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=0d17ac75ce040c45971387d12c6589bc}{%
+           family={Foner},
+           familyi={F\bibinitperiod},
+           given={S.\bibnamedelimi N.},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=f62403da0402f9ab0fc66db37ed1371d}{%
+           family={Hudson},
+           familyi={H\bibinitperiod},
+           given={R.\bibnamedelimi L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{ccbfbbdf795fb1a4beb06aad73611e02}
+      \strng{fullhash}{ccbfbbdf795fb1a4beb06aad73611e02}
+      \strng{fullhashraw}{ccbfbbdf795fb1a4beb06aad73611e02}
+      \strng{bibnamehash}{ccbfbbdf795fb1a4beb06aad73611e02}
+      \strng{authorbibnamehash}{ccbfbbdf795fb1a4beb06aad73611e02}
+      \strng{authornamehash}{ccbfbbdf795fb1a4beb06aad73611e02}
+      \strng{authorfullhash}{ccbfbbdf795fb1a4beb06aad73611e02}
+      \strng{authorfullhashraw}{ccbfbbdf795fb1a4beb06aad73611e02}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{0021-9606, 1089-7690}
+      \field{journaltitle}{The Journal of Chemical Physics}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{Diimide—{{Identification}} and {{Study}} by {{Mass Spectrometry}}}
+      \field{volume}{28}
+      \field{year}{1958}
+      \field{dateera}{ce}
+      \field{pages}{719\bibrangedash 720}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1063/1.1744223
+      \endverb
+    \endentry
+    \entry{Corey1961}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=622e05d7e08691534c7acc6434eb8118}{%
+           family={Corey},
+           familyi={C\bibinitperiod},
+           given={E.J.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=613489d25bbdfb6d4ceb1605b5c404a7}{%
+           family={Mock},
+           familyi={M\bibinitperiod},
+           given={W.L.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=00368df621e600a6122f9f5d779f8805}{%
+           family={Pasto},
+           familyi={P\bibinitperiod},
+           given={D.J.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{5edb5e26a89808fae821aa5cbfc92a73}
+      \strng{fullhash}{54c8e48874a35ab759d6dcef16cac88f}
+      \strng{fullhashraw}{54c8e48874a35ab759d6dcef16cac88f}
+      \strng{bibnamehash}{54c8e48874a35ab759d6dcef16cac88f}
+      \strng{authorbibnamehash}{54c8e48874a35ab759d6dcef16cac88f}
+      \strng{authornamehash}{5edb5e26a89808fae821aa5cbfc92a73}
+      \strng{authorfullhash}{54c8e48874a35ab759d6dcef16cac88f}
+      \strng{authorfullhashraw}{54c8e48874a35ab759d6dcef16cac88f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00404039}
+      \field{journaltitle}{Tetrahedron Letters}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{11}
+      \field{shortjournal}{Tetrahedron Letters}
+      \field{title}{Chemistry of Diimide. {{Some}} New Systems for the Hydrogenation of Multiple Bonds}
+      \field{volume}{2}
+      \field{year}{1961}
+      \field{dateera}{ce}
+      \field{pages}{347\bibrangedash 352}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/S0040-4039(01)91637-5
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

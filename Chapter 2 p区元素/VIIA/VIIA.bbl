@@ -52,6 +52,165 @@
       \field{pages}{423}
       \range{pages}{1}
     \endentry
+    \entry{Patel2023}{article}{}{}
+      \name{author}{13}{}{%
+        {{hash=f933c56393fc9f6d6a397b6f29c149fc}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Calum},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c2f09141ef7734bb19bfe2514a0e07cc}{%
+           family={André-Joyaux},
+           familyi={A\bibinithyphendelim J\bibinitperiod},
+           given={Emy},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d06de6f2d0e10e0f53bdbea82e37a10c}{%
+           family={Leitch},
+           familyi={L\bibinitperiod},
+           given={Jamie\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=54db7d79b8bea86e9ca72788b834b571}{%
+           family={De\bibnamedelima Irujo-Labalde},
+           familyi={D\bibinitperiod\bibinitdelim I\bibinithyphendelim L\bibinitperiod},
+           given={Xabier\bibnamedelima Martínez},
+           giveni={X\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=c35d7fdb54c5baf61af751dcbd489ad8}{%
+           family={Ibba},
+           familyi={I\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=5375a5021e0c096a9bcacb79ba529c8e}{%
+           family={Struijs},
+           familyi={S\bibinitperiod},
+           given={Job},
+           giveni={J\bibinitperiod}}}%
+        {{hash=695c021e2e0fb5749aee344d9498ffcf}{%
+           family={Ellwanger},
+           familyi={E\bibinitperiod},
+           given={Mathias\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0ba15e0739759c3cbf52f0c09520e1f4}{%
+           family={Paton},
+           familyi={P\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=12fcca0026b478f37ddb7786d0569816}{%
+           family={Browne},
+           familyi={B\bibinitperiod},
+           given={Duncan\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=21c26889d183c5353ea2d62f541e65dd}{%
+           family={Pupo},
+           familyi={P\bibinitperiod},
+           given={Gabriele},
+           giveni={G\bibinitperiod}}}%
+        {{hash=369ad4bff26e9bb2ee63db438e08b41f}{%
+           family={Aldridge},
+           familyi={A\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=95d4c08614b320c4714a89e1f215807f}{%
+           family={Hayward},
+           familyi={H\bibinitperiod},
+           given={Michael\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=fe45dc22a5e73d39ef93d776f70fb38f}{%
+           family={Gouverneur},
+           familyi={G\bibinitperiod},
+           given={Véronique},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c22cdacbca0e011ec799930b333e7dd}
+      \strng{fullhash}{3cfea3eedb10dacbad89d6bdd5153de6}
+      \strng{fullhashraw}{3cfea3eedb10dacbad89d6bdd5153de6}
+      \strng{bibnamehash}{3cfea3eedb10dacbad89d6bdd5153de6}
+      \strng{authorbibnamehash}{3cfea3eedb10dacbad89d6bdd5153de6}
+      \strng{authornamehash}{9c22cdacbca0e011ec799930b333e7dd}
+      \strng{authorfullhash}{3cfea3eedb10dacbad89d6bdd5153de6}
+      \strng{authorfullhashraw}{3cfea3eedb10dacbad89d6bdd5153de6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{issn}{0036-8075, 1095-9203}
+      \field{journaltitle}{Science}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{6655}
+      \field{shortjournal}{Science}
+      \field{title}{Fluorochemicals from Fluorspar via a Phosphate-Enabled Mechanochemical Process That Bypasses {{HF}}}
+      \field{volume}{381}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{302\bibrangedash 306}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1126/science.adi1557
+      \endverb
+    \endentry
+    \entry{Klose2024}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=3ee51ee7b0d8f006e4cc0d10924272c1}{%
+           family={Klose},
+           familyi={K\bibinitperiod},
+           given={Immo},
+           giveni={I\bibinitperiod}}}%
+        {{hash=f933c56393fc9f6d6a397b6f29c149fc}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Calum},
+           giveni={C\bibinitperiod}}}%
+        {{hash=056ce1b7433a1b4fcde244c77ae5ebb4}{%
+           family={Mondal},
+           familyi={M\bibinitperiod},
+           given={Anirban},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6d2afb08506c83c7758b399a9c0dcf2a}{%
+           family={Schwarz},
+           familyi={S\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=21c26889d183c5353ea2d62f541e65dd}{%
+           family={Pupo},
+           familyi={P\bibinitperiod},
+           given={Gabriele},
+           giveni={G\bibinitperiod}}}%
+        {{hash=fe45dc22a5e73d39ef93d776f70fb38f}{%
+           family={Gouverneur},
+           familyi={G\bibinitperiod},
+           given={Véronique},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{4833cdd30e788252d4e842fafd1f93ca}
+      \strng{fullhash}{e45121ed7c34da993a52dce4e6c528cc}
+      \strng{fullhashraw}{e45121ed7c34da993a52dce4e6c528cc}
+      \strng{bibnamehash}{e45121ed7c34da993a52dce4e6c528cc}
+      \strng{authorbibnamehash}{e45121ed7c34da993a52dce4e6c528cc}
+      \strng{authornamehash}{4833cdd30e788252d4e842fafd1f93ca}
+      \strng{authorfullhash}{e45121ed7c34da993a52dce4e6c528cc}
+      \strng{authorfullhashraw}{e45121ed7c34da993a52dce4e6c528cc}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{14}
+      \field{issn}{0028-0836, 1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{8038}
+      \field{shortjournal}{Nature}
+      \field{title}{Fluorspar to Fluorochemicals upon Low-Temperature Activation in Water}
+      \field{volume}{635}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{359\bibrangedash 364}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/s41586-024-08125-1
+      \endverb
+    \endentry
     \entry{Jabeen2020}{article}{}{}
       \name{author}{4}{}{%
         {{hash=50c2107bee1edfd0e4e5a0086566d6b4}{%
@@ -83,8 +242,8 @@
       \strng{authornamehash}{19a8e8af85b6c3d7289c49ae25f3e9e9}
       \strng{authorfullhash}{a15ce6dfc5b703ec1f75d8e48f9a06fa}
       \strng{authorfullhashraw}{a15ce6dfc5b703ec1f75d8e48f9a06fa}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Abstract A unique approach is used to relate the HOMO-LUMO energy difference to the difference between the ionization potential (IP) and electron affinity (EA) to assist in deducing not only the colors, but also chromophores in elemental nonmetals. Our analysis focuses on compounds with lone pair electrons and σ electrons, namely X2 (X = F, Cl, Br, I), S8 and P4. For the dihalogens, the [IP - EA] energies are found to be: F2 (12.58 eV), Cl2 (8.98 eV), Br2 (7.90 eV), I2 (6.78 eV). We suggest that the interahalogen X-X bond itself is the chromophore for these dihalogens, in which the light absorbed by the F2, Cl2, Br2, I2 leads to longer wavelengths in the visible by a π → σ* transition. Trace impurities are a likely case of cyclic S8 which contains amounts of selenium leading to a yellow color, where the [IP - EA] energy of S8 is found to be 7.02 eV. Elemental P4 with an [IP - EA] energy of 9.09 eV contains a tetrahedral and σ aromatic structure. In future work, refinement of the analysis will be required for compounds with π electrons and σ electrons, such as polycyclic aromatic hydrocarbons (PAHs).}
@@ -139,8 +298,8 @@
       \strng{authornamehash}{175e99ba3063e7a04f8fa49ae3673581}
       \strng{authorfullhash}{d60aea2dd756be819c6b9ccc50501194}
       \strng{authorfullhashraw}{d60aea2dd756be819c6b9ccc50501194}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Acta Crystallographica}
@@ -197,8 +356,8 @@
       \strng{authornamehash}{68dd77e6f28287ac7d88ab1431f3c28b}
       \strng{authorfullhash}{9307c86dc65dcf7f4640cceae50111a0}
       \strng{authorfullhashraw}{9307c86dc65dcf7f4640cceae50111a0}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Abstract The crystal structures of α-F2 and β-F2 have been reinvestigated using neutron powder diffraction. For the low-temperature phase α-F2, which is stable below circa 45.6 K, the monoclinic space group C2/c with lattice parameters a=5.4780(12), b=3.2701(7), c=7.2651(17) Å, β=102.088(18)°, V=127.26(5) Å3, mS8, Z=4 at 10 K can now be confirmed. The structure model was significantly improved, allowed for the anisotropic refinement of the F atom, and an F−F bond length of 1.404(12) Å was obtained, which is in excellent agreement with spectroscopic data and high-level quantum chemical predictions. The high-temperature phase β-F2, stable between circa 45.6 K and the melting point of 53.53 K, crystallizes in the cubic primitive space group Pm n with the lattice parameter a=6.5314(15) Å, V=278.62(11) Å3, cP16, Z=8, at 48 K. β-F2 is isotypic to γ-O2 and δ-N2. The centres of gravity of the F2 molecules are arranged like the atoms in the Cr3Si structure type.}
@@ -244,8 +403,8 @@
       \strng{authornamehash}{8046f10292a18229025314db1e33cab8}
       \strng{authorfullhash}{8046f10292a18229025314db1e33cab8}
       \strng{authorfullhashraw}{8046f10292a18229025314db1e33cab8}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Abstract The article contains sections titled: 1. Sodium Sulfate 1.1. History and Natural Occurrence 1.2. Properties 1.3. Extraction and Production 1.3.1. Crystallization and Calcination 1.3.2. Production as a Byproduct of the Chemical Industry 1.3.3. Production from Natural Sources 1.3.4. Production of Sodium Sulfate 1.4. Exploitation of Byproduct Sodium Sulfate 1.4.1. Electrochemical Decomposition of Sodium Sulfate 1.4.2. Conversion Processes 1.4.3. Reduction Processes 1.5. Uses 1.6. Quality Specifications and Analysis 1.7. Occupational Health and Environmental Protection 1.8. Economic Aspects 2. Sodium Hydrogensulfate}
@@ -288,8 +447,8 @@
       \strng{authornamehash}{57002dec049d71166a4985e677fc4d28}
       \strng{authorfullhash}{57002dec049d71166a4985e677fc4d28}
       \strng{authorfullhashraw}{57002dec049d71166a4985e677fc4d28}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{3}
@@ -322,8 +481,8 @@
       \strng{authornamehash}{de543bae8328f6d23e461b23d10e56d3}
       \strng{authorfullhash}{10fcac1937955b7091a2f2d1951c0328}
       \strng{authorfullhashraw}{10fcac1937955b7091a2f2d1951c0328}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The infrared vibrational spectra of amorphous solid water thin films doped with HF at 40K reveal a strong continuous absorbance in the 1000-3275cm−1 range. This so-called Zundel continuum is the spectroscopic hallmark for aqueous protons. The extensive ionic dissociation of HF at such low temperature suggests that the reaction enthalpy remains negative down to 40K. These observations support the interpretation that dilute HF aqueous solutions behave as weak acids largely due to the large positive reaction entropy resulting from the structure making character of the hydrated fluoride ion.}
@@ -382,8 +541,8 @@
       \strng{authornamehash}{a67ae8cd19bc3238e289382092856754}
       \strng{authorfullhash}{5962601626287c8cf1fbcffd41236bef}
       \strng{authorfullhashraw}{5962601626287c8cf1fbcffd41236bef}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Acta Crystallographica}
@@ -425,8 +584,8 @@
       \strng{authornamehash}{2daf5e206c9b7a5055e5843106264d7e}
       \strng{authorfullhash}{2daf5e206c9b7a5055e5843106264d7e}
       \strng{authorfullhashraw}{2daf5e206c9b7a5055e5843106264d7e}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Acta Crystallographica}
@@ -870,8 +1029,8 @@
       \strng{authornamehash}{cfa15de4443415086f709bb60b068a3c}
       \strng{authorfullhash}{9008fc204e18b533ce9944091cf297ad}
       \strng{authorfullhashraw}{9008fc204e18b533ce9944091cf297ad}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of the American Chemical Society}
@@ -1267,8 +1426,8 @@
       \strng{authornamehash}{63128c00c8d2a79f37b98e5cf1b23cf3}
       \strng{authorfullhash}{63128c00c8d2a79f37b98e5cf1b23cf3}
       \strng{authorfullhashraw}{63128c00c8d2a79f37b98e5cf1b23cf3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ChemInform}
@@ -1306,8 +1465,8 @@
       \strng{authornamehash}{d611ff3070e5d643083a380d5a5d1d04}
       \strng{authorfullhash}{d611ff3070e5d643083a380d5a5d1d04}
       \strng{authorfullhashraw}{d611ff3070e5d643083a380d5a5d1d04}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Crystals of commercial iodic(V) acid, HIO${\sb 3}$, were investigated using single-crystal and powder X-ray diffraction. The crystals turned out to be HI${\sb 3}$O${\sb 8}$ or HIO${\sb 3}${$\cdot$}I${\sb 2}$O${\sb 5}$ [iodic acid{--}diiodine penta{\-}oxide (1/1)] instead, whose structure has been determined previously [Feikema & Vos (1966). {\it Acta Cryst.} {\bf 20}, 769{--}777]. Redetermination of the structure gave higher precision and allowed the location of the H atom.}
@@ -1551,6 +1710,124 @@
       \verb https://doi.org/10.1021/acs.chemrev.5b00484
       \endverb
     \endentry
+    \entry{Hassel1954}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=c7c9912ce19245fd44d8dbcd83505231}{%
+           family={Hassel},
+           familyi={H\bibinitperiod},
+           given={Odd},
+           giveni={O\bibinitperiod}}}%
+        {{hash=1d9b5b0777c781d54be6acbd2351db54}{%
+           family={Hvoslef},
+           familyi={H\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{d79ce081b10413948d4e3aedd702f457}
+      \strng{fullhash}{d79ce081b10413948d4e3aedd702f457}
+      \strng{fullhashraw}{d79ce081b10413948d4e3aedd702f457}
+      \strng{bibnamehash}{d79ce081b10413948d4e3aedd702f457}
+      \strng{authorbibnamehash}{d79ce081b10413948d4e3aedd702f457}
+      \strng{authornamehash}{d79ce081b10413948d4e3aedd702f457}
+      \strng{authorfullhash}{d79ce081b10413948d4e3aedd702f457}
+      \strng{authorfullhashraw}{d79ce081b10413948d4e3aedd702f457}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Chemica Scandinavica}
+      \field{title}{The Structure of Bromine 1,4-Dioxanate}
+      \field{volume}{8}
+      \field{year}{1954}
+      \field{pages}{873}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3891/acta.chem.scand.08-0873
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3891/acta.chem.scand.08-0873
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3891/acta.chem.scand.08-0873
+      \endverb
+    \endentry
+    \entry{Desiraju2013XB}{article}{}{}
+      \name{author}{9}{}{%
+        {{hash=b5e8ce6c85220a8362366fe9513c1145}{%
+           family={Desiraju},
+           familyi={D\bibinitperiod},
+           given={Gautam\bibnamedelima R.},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=5c25240c7990b89577fb7d16ead66120}{%
+           family={Ho},
+           familyi={H\bibinitperiod},
+           given={P.\bibnamedelimi Shing},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5ca9ff077ba4eab593021e51746c9790}{%
+           family={Kloo},
+           familyi={K\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3033b74b4064f2988fb3ea66865b24ed}{%
+           family={Legon},
+           familyi={L\bibinitperiod},
+           given={Anthony\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=8afecd4fb21b5de1ab416ec62a7c7254}{%
+           family={Marquardt},
+           familyi={M\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=da23fa3ae8abdfeff3b27568fd0bd0bb}{%
+           family={Metrangolo},
+           familyi={M\bibinitperiod},
+           given={Pierangelo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=67f4deee7f52186b4dad8d84beb4d215}{%
+           family={Politzer},
+           familyi={P\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a39b84423cfd1d0395af89144c948c23}{%
+           family={Resnati},
+           familyi={R\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod}}}%
+        {{hash=e052cb7830d416d82d5eab8754a2a803}{%
+           family={Rissanen},
+           familyi={R\bibinitperiod},
+           given={Kari},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{513955acf62b3cd9ac0d48515f221938}
+      \strng{fullhash}{d2015236a9a11a48b1c89aaad5776518}
+      \strng{fullhashraw}{d2015236a9a11a48b1c89aaad5776518}
+      \strng{bibnamehash}{d2015236a9a11a48b1c89aaad5776518}
+      \strng{authorbibnamehash}{d2015236a9a11a48b1c89aaad5776518}
+      \strng{authornamehash}{513955acf62b3cd9ac0d48515f221938}
+      \strng{authorfullhash}{d2015236a9a11a48b1c89aaad5776518}
+      \strng{authorfullhashraw}{d2015236a9a11a48b1c89aaad5776518}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pure and Applied Chemistry}
+      \field{number}{8}
+      \field{title}{Definition of the Halogen Bond ({IUPAC} Recommendations 2013)}
+      \field{volume}{85}
+      \field{year}{2013}
+      \field{pages}{1711\bibrangedash 1713}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1351/PAC-REC-12-05-10
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1351/PAC-REC-12-05-10
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1351/PAC-REC-12-05-10
+      \endverb
+    \endentry
     \entry{Bundhun2013}{article}{}{}
       \name{author}{4}{}{%
         {{hash=8a01ec7b013c07272a059dc49a581090}{%
@@ -1652,6 +1929,100 @@
       \verb https://www.sciencedirect.com/science/article/pii/S1877750314000039
       \endverb
     \endentry
+    \entry{Riley2013}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=76354b0b6d2643b8b3e685dd8c5d36af}{%
+           family={Riley},
+           familyi={R\bibinitperiod},
+           given={Kevin\bibnamedelima E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=bc292f67802ed46614a33453b85f3c5d}{%
+           family={Hobza},
+           familyi={H\bibinitperiod},
+           given={Pavel},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{6c688c586c980ba57d4eb413285bae13}
+      \strng{fullhash}{6c688c586c980ba57d4eb413285bae13}
+      \strng{fullhashraw}{6c688c586c980ba57d4eb413285bae13}
+      \strng{bibnamehash}{6c688c586c980ba57d4eb413285bae13}
+      \strng{authorbibnamehash}{6c688c586c980ba57d4eb413285bae13}
+      \strng{authornamehash}{6c688c586c980ba57d4eb413285bae13}
+      \strng{authorfullhash}{6c688c586c980ba57d4eb413285bae13}
+      \strng{authorfullhashraw}{6c688c586c980ba57d4eb413285bae13}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Chemistry Chemical Physics}
+      \field{number}{41}
+      \field{title}{The Relative Roles of Electrostatics and Dispersion in the Stabilization of Halogen Bonds}
+      \field{volume}{15}
+      \field{year}{2013}
+      \field{pages}{17742\bibrangedash 17751}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1039/C3CP52768A
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1039/C3CP52768A
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1039/C3CP52768A
+      \endverb
+    \endentry
+    \entry{Thirman2018}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=39c3f5035642978e30a8c49ed1027055}{%
+           family={Thirman},
+           familyi={T\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=610a16ad520c305b7f5e574d9436d721}{%
+           family={Engelage},
+           familyi={E\bibinitperiod},
+           given={Elric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=39ab235a073bcb5b64d8e8bb67a7675a}{%
+           family={Huber},
+           familyi={H\bibinitperiod},
+           given={Stefan\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{%
+           family={Head-Gordon},
+           familyi={H\bibinithyphendelim G\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ef603b45eaf8a141364a117ce576abf4}
+      \strng{fullhash}{a0a8c39880ef92347c38b52deb6a8766}
+      \strng{fullhashraw}{a0a8c39880ef92347c38b52deb6a8766}
+      \strng{bibnamehash}{a0a8c39880ef92347c38b52deb6a8766}
+      \strng{authorbibnamehash}{a0a8c39880ef92347c38b52deb6a8766}
+      \strng{authornamehash}{ef603b45eaf8a141364a117ce576abf4}
+      \strng{authorfullhash}{a0a8c39880ef92347c38b52deb6a8766}
+      \strng{authorfullhashraw}{a0a8c39880ef92347c38b52deb6a8766}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Chemistry Chemical Physics}
+      \field{number}{2}
+      \field{title}{Characterizing the Interplay of {Pauli} Repulsion, Electrostatics, Dispersion and Charge Transfer in Halogen Bonding with Energy Decomposition Analysis}
+      \field{volume}{20}
+      \field{year}{2018}
+      \field{pages}{905\bibrangedash 915}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1039/C7CP06959F
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1039/C7CP06959F
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1039/C7CP06959F
+      \endverb
+    \endentry
     \entry{Herbstein1975}{article}{}{}
       \name{author}{2}{}{%
         {{hash=d4099277f8f602d457bbbb713bb53df8}{%
@@ -1676,8 +2047,8 @@
       \strng{authornamehash}{fbd6534c628404f33e6fd264606ecb67}
       \strng{authorfullhash}{fbd6534c628404f33e6fd264606ecb67}
       \strng{authorfullhashraw}{fbd6534c628404f33e6fd264606ecb67}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Crystal structure analysis shows that (theobromine).HI is a polyiodide salt composed of alternating cationic and anionic layers; the former consist of hydrogen-bonded protonated theobromine species and the latter of I polyiodide ions.}
@@ -1695,6 +2066,455 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1039/C39750000677
+      \endverb
+    \endentry
+    \entry{Bruce2008}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=182e8cb767873704c50bb2701e8ea3c6}{%
+           family={Bruce},
+           familyi={B\bibinitperiod},
+           given={Duncan\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=da23fa3ae8abdfeff3b27568fd0bd0bb}{%
+           family={Metrangolo},
+           familyi={M\bibinitperiod},
+           given={Pierangelo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8009833a0e1b9185db084e8b50933190}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={Franck},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ea31ae05694bed6e693b2986b70377ca}{%
+           family={Prásang},
+           familyi={P\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a39b84423cfd1d0395af89144c948c23}{%
+           family={Resnati},
+           familyi={R\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod}}}%
+        {{hash=68228b245fc83af6b040735e269e4075}{%
+           family={Terraneo},
+           familyi={T\bibinitperiod},
+           given={Giancarlo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=6876dae09ae990ec529ef1db691e3b38}{%
+           family={Whitwood},
+           familyi={W\bibinitperiod},
+           given={Adrian\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5c044c6b9c68dae918c0e645f52feae}
+      \strng{fullhash}{2dbeccf26636139715b7132fd106f67f}
+      \strng{fullhashraw}{2dbeccf26636139715b7132fd106f67f}
+      \strng{bibnamehash}{2dbeccf26636139715b7132fd106f67f}
+      \strng{authorbibnamehash}{2dbeccf26636139715b7132fd106f67f}
+      \strng{authornamehash}{a5c044c6b9c68dae918c0e645f52feae}
+      \strng{authorfullhash}{2dbeccf26636139715b7132fd106f67f}
+      \strng{authorfullhashraw}{2dbeccf26636139715b7132fd106f67f}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New Journal of Chemistry}
+      \field{number}{3}
+      \field{title}{Mesogenic, Trimeric, Halogen-Bonded Complexes from Alkoxystilbazoles and 1,4-Diiodotetrafluorobenzene}
+      \field{volume}{32}
+      \field{year}{2008}
+      \field{pages}{477\bibrangedash 482}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1039/B709107A
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1039/B709107A
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1039/B709107A
+      \endverb
+    \endentry
+    \entry{Walsh2001}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=62516009f092d44293662b0666c1022d}{%
+           family={Walsh},
+           familyi={W\bibinitperiod},
+           given={Rosa\bibnamedelima Bailey},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=c563fc34b5cde403f31b3b3db568c8f6}{%
+           family={Padgett},
+           familyi={P\bibinitperiod},
+           given={Clifford\bibnamedelima W.},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=da23fa3ae8abdfeff3b27568fd0bd0bb}{%
+           family={Metrangolo},
+           familyi={M\bibinitperiod},
+           given={Pierangelo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a39b84423cfd1d0395af89144c948c23}{%
+           family={Resnati},
+           familyi={R\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d1f313a8e6af5a2c5b9fcfaa989dc86b}{%
+           family={Hanks},
+           familyi={H\bibinitperiod},
+           given={T.\bibnamedelimi W.},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=c5c00d3fa4438d34d93c57018abb7c38}{%
+           family={Pennington},
+           familyi={P\bibinitperiod},
+           given={William\bibnamedelima T.},
+           giveni={W\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{44b6a7de8b360f9cdf954c0fabaf7d5d}
+      \strng{fullhash}{1d1a2dca6dfcd8b8c78334356dca4e12}
+      \strng{fullhashraw}{1d1a2dca6dfcd8b8c78334356dca4e12}
+      \strng{bibnamehash}{1d1a2dca6dfcd8b8c78334356dca4e12}
+      \strng{authorbibnamehash}{1d1a2dca6dfcd8b8c78334356dca4e12}
+      \strng{authornamehash}{44b6a7de8b360f9cdf954c0fabaf7d5d}
+      \strng{authorfullhash}{1d1a2dca6dfcd8b8c78334356dca4e12}
+      \strng{authorfullhashraw}{1d1a2dca6dfcd8b8c78334356dca4e12}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Crystal Growth \& Design}
+      \field{number}{2}
+      \field{title}{Crystal Engineering through Halogen Bonding: Complexes of Nitrogen Heterocycles with Organic Iodides}
+      \field{volume}{1}
+      \field{year}{2001}
+      \field{pages}{165\bibrangedash 175}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1021/cg005540m
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/cg005540m
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/cg005540m
+      \endverb
+    \endentry
+    \entry{Syssa-Magalé2005}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=52ea94b6c99cc9cb513e874f8c52ccee}{%
+           family={Syssa-Magalé},
+           familyi={S\bibinithyphendelim M\bibinitperiod},
+           given={Jean-Laurent},
+           giveni={J\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=11c79692396449e89144e1f54fa1b47e}{%
+           family={Boubekeur},
+           familyi={B\bibinitperiod},
+           given={Kamal},
+           giveni={K\bibinitperiod}}}%
+        {{hash=1464703f2845031330d4452831eb3ae1}{%
+           family={Palvadeau},
+           familyi={P\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e7b8e814b2da1c9e63cf74d83224df90}{%
+           family={Meerschaut},
+           familyi={M\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bff6ae98fb62e7f7d7f5fdf353c8ae37}{%
+           family={Schöllhorn},
+           familyi={S\bibinitperiod},
+           given={Bernd},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8351b3b0a3ac18ea0ef1dfd223e7f74}
+      \strng{fullhash}{efa84edef23f0506f36d073f45a1300a}
+      \strng{fullhashraw}{efa84edef23f0506f36d073f45a1300a}
+      \strng{bibnamehash}{efa84edef23f0506f36d073f45a1300a}
+      \strng{authorbibnamehash}{efa84edef23f0506f36d073f45a1300a}
+      \strng{authornamehash}{b8351b3b0a3ac18ea0ef1dfd223e7f74}
+      \strng{authorfullhash}{efa84edef23f0506f36d073f45a1300a}
+      \strng{authorfullhashraw}{efa84edef23f0506f36d073f45a1300a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1466-8033}
+      \field{journaltitle}{CrystEngComm}
+      \field{langid}{english}
+      \field{number}{50}
+      \field{shortjournal}{CrystEngComm}
+      \field{shorttitle}{The Tailoring of Crystal Structures via the Self-Assembly of Organic Coordination Compounds by {{N}}⋯{{I}} Non-Covalent Halogen Bonds}
+      \field{title}{The Tailoring of Crystal Structures via the Self-Assembly of Organic Coordination Compounds by {{N}}⋯{{I}} Non-Covalent Halogen Bonds: Co-Crystals of Sterically Hindered {{N-heterocycles}} and 1,4-Diiodo-Tetrafluorobenzene}
+      \field{volume}{7}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{pages}{302\bibrangedash 308}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1039/B500009B
+      \endverb
+    \endentry
+    \entry{Reddy2006}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=7c086801853ff27f432bee6358e4e0ad}{%
+           family={Reddy},
+           familyi={R\bibinitperiod},
+           given={C.\bibnamedelimi Malla},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=79df345329d0e2991585e44edc021b08}{%
+           family={Kirchner},
+           familyi={K\bibinitperiod},
+           given={Michael\bibnamedelima T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=326acf58ee694080f1d25d0cae62d71c}{%
+           family={Gundakaram},
+           familyi={G\bibinitperiod},
+           given={Ravi\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=47d6ba781d2551a859f41d88e6ff88ce}{%
+           family={Padmanabhan},
+           familyi={P\bibinitperiod},
+           given={K.\bibnamedelimi Anantha},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=b5e8ce6c85220a8362366fe9513c1145}{%
+           family={Desiraju},
+           familyi={D\bibinitperiod},
+           given={Gautam\bibnamedelima R.},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{30f6aae95942f505a16f296093e22e78}
+      \strng{fullhash}{4be69873882dbbac42ee604aa014af90}
+      \strng{fullhashraw}{4be69873882dbbac42ee604aa014af90}
+      \strng{bibnamehash}{4be69873882dbbac42ee604aa014af90}
+      \strng{authorbibnamehash}{4be69873882dbbac42ee604aa014af90}
+      \strng{authornamehash}{30f6aae95942f505a16f296093e22e78}
+      \strng{authorfullhash}{4be69873882dbbac42ee604aa014af90}
+      \strng{authorfullhashraw}{4be69873882dbbac42ee604aa014af90}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0947-6539, 1521-3765}
+      \field{journaltitle}{Chemistry – A European Journal}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{8}
+      \field{shortjournal}{Chemistry A European J}
+      \field{shorttitle}{Isostructurality, {{Polymorphism}} and {{Mechanical Properties}} of {{Some Hexahalogenated Benzenes}}}
+      \field{title}{Isostructurality, {{Polymorphism}} and {{Mechanical Properties}} of {{Some Hexahalogenated Benzenes}}: {{The Nature}} of {{Halogen}}⋅⋅⋅{{Halogen Interactions}}}
+      \field{volume}{12}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{pages}{2222\bibrangedash 2234}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1002/chem.200500983
+      \endverb
+    \endentry
+    \entry{Zheng2015}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=a235296217b5babe4359a1b888dfb824}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Qing-Na},
+           giveni={Q\bibinithyphendelim N\bibinitperiod}}}%
+        {{hash=298e3003959cec323f3c9f1cc75d42be}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xuan-He},
+           giveni={X\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=b240c653612b8157a41dd4282347398a}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Ting},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b96db3f8156b79a54e8ba1b55eda659b}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Hui-Juan},
+           giveni={H\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=6008ac80c2c10cf16faec590b82f9fe4}{%
+           family={Cook},
+           familyi={C\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4695c12fc5e5638d83abfb67ab9d459c}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Dong},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2d87647031c130c7f21760ac6339c57e}{%
+           family={Stang},
+           familyi={S\bibinitperiod},
+           given={Peter\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=41fa94cdf3266e1b4edc5a1b8b8960d5}{%
+           family={Wan},
+           familyi={W\bibinitperiod},
+           given={Li-Jun},
+           giveni={L\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{877a3f32454799bb4242c2680b6929a0}
+      \strng{fullhash}{5920e86ac100aece07b87e58df927b5a}
+      \strng{fullhashraw}{5920e86ac100aece07b87e58df927b5a}
+      \strng{bibnamehash}{5920e86ac100aece07b87e58df927b5a}
+      \strng{authorbibnamehash}{5920e86ac100aece07b87e58df927b5a}
+      \strng{authornamehash}{877a3f32454799bb4242c2680b6929a0}
+      \strng{authorfullhash}{5920e86ac100aece07b87e58df927b5a}
+      \strng{authorfullhashraw}{5920e86ac100aece07b87e58df927b5a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{20}
+      \field{issn}{0002-7863, 1520-5126}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{19}
+      \field{shortjournal}{J. Am. Chem. Soc.}
+      \field{title}{Formation of {{Halogen Bond-Based 2D Supramolecular Assemblies}} by {{Electric Manipulation}}}
+      \field{volume}{137}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{6128\bibrangedash 6131}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1021/jacs.5b02206
+      \endverb
+    \endentry
+    \entry{Gong2021}{article}{}{}
+      \name{author}{11}{}{%
+        {{hash=004c10398abd4160773d2884a0c0447b}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Guanfei},
+           giveni={G\bibinitperiod}}}%
+        {{hash=3a9a4066e74d529fdf83aa12e2966ded}{%
+           family={Lv},
+           familyi={L\bibinitperiod},
+           given={Siheng},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fa3dac37028277dbd31b7f8c005c2cc3}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Jixin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=26de5717593615bf39a692837053baee}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9885f16be76c4e68e9c2aaf363a53600}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=3bf6d56009952d82234b5cddd600b017}{%
+           family={Xia},
+           familyi={X\bibinitperiod},
+           given={Ning},
+           giveni={N\bibinitperiod}}}%
+        {{hash=c14a2b98f3681abab1366793dca49c73}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=426a0c83bf824d0896deb25b742107f7}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=55f210233ac686af68eba11a97bd84e2}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f0982471c0a9c4a3208f92a994b72fe5}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jike},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5019a97da3518b192349543ed05cb685}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Shigui},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{aecb4a7559b51bdc395e4891fa9b9416}
+      \strng{fullhash}{a257b97ea848ab06b1e637315fdb0493}
+      \strng{fullhashraw}{a257b97ea848ab06b1e637315fdb0493}
+      \strng{bibnamehash}{a257b97ea848ab06b1e637315fdb0493}
+      \strng{authorbibnamehash}{a257b97ea848ab06b1e637315fdb0493}
+      \strng{authornamehash}{aecb4a7559b51bdc395e4891fa9b9416}
+      \strng{authorfullhash}{a257b97ea848ab06b1e637315fdb0493}
+      \strng{authorfullhashraw}{a257b97ea848ab06b1e637315fdb0493}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{25}
+      \field{issn}{0044-8249, 1521-3757}
+      \field{journaltitle}{Angewandte Chemie}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{27}
+      \field{shortjournal}{Angewandte Chemie}
+      \field{shorttitle}{Halogen‐{{Bonded Organic Framework}} ({{XOF}}) {{Based}} on {{Iodonium}}‐{{Bridged N}}⋅⋅⋅{{I}}{\textsuperscript{+}} ⋅⋅⋅{{N Interactions}}}
+      \field{title}{Halogen‐{{Bonded Organic Framework}} ({{XOF}}) {{Based}} on {{Iodonium}}‐{{Bridged N}}⋅⋅⋅{{I}}{\textsuperscript{+}} ⋅⋅⋅{{N Interactions}}: {{A Type}} of {{Diphase Periodic Organic Network}}}
+      \field{volume}{133}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{14957\bibrangedash 14961}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1002/ange.202102448
+      \endverb
+    \endentry
+    \entry{Gunawardana2018}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=dc72d5c512b334937ad44faac143d067}{%
+           family={Gunawardana},
+           familyi={G\bibinitperiod},
+           given={Chamara\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=3d095e4077f87055e12e59cc1746a4cb}{%
+           family={{Đ}aković},
+           familyi={Đ\bibinitperiod},
+           given={Marijana},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6bcfce59bb6b76969145f9416962855c}{%
+           family={Aakeröy},
+           familyi={A\bibinitperiod},
+           given={Christer\bibnamedelima B.},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{badebafad5ac99a4d2aaf01f87543cd8}
+      \strng{fullhash}{dd5c7e344d61bb110a888c779f094793}
+      \strng{fullhashraw}{dd5c7e344d61bb110a888c779f094793}
+      \strng{bibnamehash}{dd5c7e344d61bb110a888c779f094793}
+      \strng{authorbibnamehash}{dd5c7e344d61bb110a888c779f094793}
+      \strng{authornamehash}{badebafad5ac99a4d2aaf01f87543cd8}
+      \strng{authorfullhash}{dd5c7e344d61bb110a888c779f094793}
+      \strng{authorfullhashraw}{dd5c7e344d61bb110a888c779f094793}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Communications}
+      \field{number}{6}
+      \field{title}{Diamondoid Architectures from Halogen-Bonded Halides}
+      \field{volume}{54}
+      \field{year}{2018}
+      \field{pages}{607\bibrangedash 610}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1039/C7CC08839F
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1039/C7CC08839F
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1039/C7CC08839F
       \endverb
     \endentry
   \enddatalist

@@ -957,6 +957,52 @@
       \verb 10.1021/j100689a010
       \endverb
     \endentry
+    \entry{Kohata1982}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=3297f313bb1d3e343b028c397dda32a5}{%
+           family={Kohata},
+           familyi={K\bibinitperiod},
+           given={Kunio},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9105ee40be2309a7d17da33bef7b058b}{%
+           family={Fukuyama},
+           familyi={F\bibinitperiod},
+           given={Tsutomu},
+           giveni={T\bibinitperiod}}}%
+        {{hash=422d4b1b7df100952b1e04f58f767ee7}{%
+           family={Kuchitsu},
+           familyi={K\bibinitperiod},
+           given={Kozo},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{af5de501ffc77d483a6da96b3571e7cf}
+      \strng{fullhash}{731a4f7fec1303164f622cea0c5af5bd}
+      \strng{fullhashraw}{731a4f7fec1303164f622cea0c5af5bd}
+      \strng{bibnamehash}{731a4f7fec1303164f622cea0c5af5bd}
+      \strng{authorbibnamehash}{731a4f7fec1303164f622cea0c5af5bd}
+      \strng{authornamehash}{af5de501ffc77d483a6da96b3571e7cf}
+      \strng{authorfullhash}{731a4f7fec1303164f622cea0c5af5bd}
+      \strng{authorfullhashraw}{731a4f7fec1303164f622cea0c5af5bd}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-3654, 1541-5740}
+      \field{journaltitle}{The Journal of Physical Chemistry}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{5}
+      \field{shortjournal}{J. Phys. Chem.}
+      \field{title}{Molecular Structure of Hydrazine as Studied by Gas Electron Diffraction}
+      \field{volume}{86}
+      \field{year}{1982}
+      \field{dateera}{ce}
+      \field{pages}{602\bibrangedash 606}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1021/j100394a005
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

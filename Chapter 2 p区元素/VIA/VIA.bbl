@@ -217,6 +217,60 @@
       \verb https://doi.org/10.1021/jp903486u
       \endverb
     \endentry
+    \entry{Bell1975}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=f76eed3b441433238eeb9101c5874224}{%
+           family={Bell},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6fedba0fe9dd9a367370b99b641f3bff}{%
+           family={Christoph},
+           familyi={C\bibinitperiod},
+           given={Gary\bibnamedelima G.},
+           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=7a86aa50c70c1eb88cf07b4b8be7d438}{%
+           family={Fronczek},
+           familyi={F\bibinitperiod},
+           given={Frank\bibnamedelima R.},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=0ad6b5b8b62ea9929e67c93d839685f7}{%
+           family={Marsh},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{db0e535fe9502e2be1bc8b3387d65c9a}
+      \strng{fullhash}{368263cbaa8c5746584a9f1151cd560b}
+      \strng{fullhashraw}{368263cbaa8c5746584a9f1151cd560b}
+      \strng{bibnamehash}{368263cbaa8c5746584a9f1151cd560b}
+      \strng{authorbibnamehash}{368263cbaa8c5746584a9f1151cd560b}
+      \strng{authornamehash}{db0e535fe9502e2be1bc8b3387d65c9a}
+      \strng{authorfullhash}{368263cbaa8c5746584a9f1151cd560b}
+      \strng{authorfullhashraw}{368263cbaa8c5746584a9f1151cd560b}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0036-8075, 1095-9203}
+      \field{journaltitle}{Science}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{4210}
+      \field{shorttitle}{The {{Cation H}}{\textsubscript{13}} {{O}}{\textsubscript{6}}{\textsuperscript{+}}}
+      \field{title}{The {{Cation H}}{\textsubscript{13}} {{O}}{\textsubscript{6}}{\textsuperscript{+}} : {{A Short}}, {{Symmetric Hydrogen Bond}}}
+      \field{urlday}{19}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{190}
+      \field{year}{1975}
+      \field{urldateera}{ce}
+      \field{pages}{151\bibrangedash 152}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1126/science.190.4210.151
+      \endverb
+    \endentry
     \entry{cmglee2011}{online}{}{}
       \name{author}{1}{}{%
         {{hash=63be37eb23dc88361a0deca071ffd509}{%
@@ -231,8 +285,8 @@
       \strng{authornamehash}{63be37eb23dc88361a0deca071ffd509}
       \strng{authorfullhash}{63be37eb23dc88361a0deca071ffd509}
       \strng{authorfullhashraw}{63be37eb23dc88361a0deca071ffd509}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Own work. Licensed under CC BY-SA 3.0}
@@ -271,8 +325,8 @@
       \strng{authornamehash}{57002dec049d71166a4985e677fc4d28}
       \strng{authorfullhash}{57002dec049d71166a4985e677fc4d28}
       \strng{authorfullhashraw}{57002dec049d71166a4985e677fc4d28}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{3rd}
@@ -300,8 +354,8 @@
       \strng{authornamehash}{298133a6b79dcce8ef5f6cb15b60f119}
       \strng{authorfullhash}{298133a6b79dcce8ef5f6cb15b60f119}
       \strng{authorfullhashraw}{298133a6b79dcce8ef5f6cb15b60f119}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{1}
@@ -338,8 +392,8 @@
       \strng{authornamehash}{fa2582d278d00b7bf3c7c06aff8e1285}
       \strng{authorfullhash}{fa2582d278d00b7bf3c7c06aff8e1285}
       \strng{authorfullhashraw}{fa2582d278d00b7bf3c7c06aff8e1285}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The lattice statistical problem of calculating the residual entropy of ice has been considered in some detail for the hexagonal and cubic ice lattices as well as for a two-dimensional icelike lattice. Even for the two-dimensional lattice, this problem appears to be intractable using exact methods, so an approximation method is in order. The series method of DiMarzio and Stillinger has been developed so that the series is completely characterized by the numbers of various kinds of cycles on the lattice. The first five terms of the series have been evaluated and used to extrapolate values of the residual entropy S(0) within rather narrow limits for all practical purposes. The result for hexagonal ice and cubic ice is S(0) = .8145 ± .0002 cal/deg/mole which agrees with experiment even better than Pauling's original approximation. Some other methods are also discussed, and their results tend to confirm the series results.}
@@ -399,8 +453,8 @@
       \strng{authornamehash}{3e274da532ecac62db5670b2d5adb280}
       \strng{authorfullhash}{884cde5c23e95a6bca237c8a11865081}
       \strng{authorfullhashraw}{884cde5c23e95a6bca237c8a11865081}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{19}
@@ -696,6 +750,70 @@
       \verb https://doi.org/10.1021/acs.jpclett.7b01142
       \endverb
     \endentry
+    \entry{Churakov2010}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=34467bd95f2817e0c83088c89f2f1a82}{%
+           family={Churakov},
+           familyi={C\bibinitperiod},
+           given={Andrei\bibnamedelima V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=e7f3c44737d9fb72c85056164626fdc7}{%
+           family={Prikhodchenko},
+           familyi={P\bibinitperiod},
+           given={Petr\bibnamedelima V.},
+           giveni={P\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=231ea5719319b0998eff93f057d49ffb}{%
+           family={Lev},
+           familyi={L\bibinitperiod},
+           given={Ovadia},
+           giveni={O\bibinitperiod}}}%
+        {{hash=fcb16d4d5c827e6d4b2321846158f141}{%
+           family={Medvedev},
+           familyi={M\bibinitperiod},
+           given={Alexander\bibnamedelima G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=fd7b5716e35fd5729b6f0edd20bb2897}{%
+           family={Tripol'skaya},
+           familyi={T\bibinitperiod},
+           given={Tatiana\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=879dd122851ad177232645d7241ff03d}{%
+           family={Vener},
+           familyi={V\bibinitperiod},
+           given={Mikhail\bibnamedelima V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{c87d0a1214d8a9097936233b567eb479}
+      \strng{fullhash}{588e158b49f36a586073de47a68ef61e}
+      \strng{fullhashraw}{588e158b49f36a586073de47a68ef61e}
+      \strng{bibnamehash}{588e158b49f36a586073de47a68ef61e}
+      \strng{authorbibnamehash}{588e158b49f36a586073de47a68ef61e}
+      \strng{authornamehash}{c87d0a1214d8a9097936233b567eb479}
+      \strng{authorfullhash}{588e158b49f36a586073de47a68ef61e}
+      \strng{authorfullhashraw}{588e158b49f36a586073de47a68ef61e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0021-9606, 1089-7690}
+      \field{journaltitle}{The Journal of Chemical Physics}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{16}
+      \field{shorttitle}{A Model Proton-Transfer System in the Condensed Phase}
+      \field{title}{A Model Proton-Transfer System in the Condensed Phase: {{NH4}}+{{OOH}}-, a Crystal with Short Intermolecular {{H-bonds}}}
+      \field{urlday}{19}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{volume}{133}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \field{pages}{164506}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.3493688
+      \endverb
+    \endentry
     \entry{Lewis1960}{article}{}{}
       \name{author}{2}{}{%
         {{hash=bbdefa0802605a89b50443ae2a2cb28e}{%
@@ -885,8 +1003,8 @@
       \strng{authornamehash}{f15db105a646f678a2feafa27740999c}
       \strng{authorfullhash}{22536fcb51d8922545b3991666a948e8}
       \strng{authorfullhashraw}{22536fcb51d8922545b3991666a948e8}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0009-2673, 1348-0634}
@@ -963,8 +1081,8 @@
       \strng{authornamehash}{229108430e852848daede0404f46d629}
       \strng{authorfullhash}{0c639e745f7e031083a7c87261d6639f}
       \strng{authorfullhashraw}{0c639e745f7e031083a7c87261d6639f}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0897-4756, 1520-5002}
@@ -1366,8 +1484,8 @@
       \strng{authornamehash}{e7bc77cb5085b593082f1cf5cf9d0882}
       \strng{authorfullhash}{e7bc77cb5085b593082f1cf5cf9d0882}
       \strng{authorfullhashraw}{e7bc77cb5085b593082f1cf5cf9d0882}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Abstract Development of solventothermal methods in the intermediate-temperature (100-600°C) range has been motivated by current interest in the design of solid-state compounds with open framework structures. The preparation of nanoporous chalcogenidometalates by this technique is particularly promising, as a combination of the typical ion-exchanging and catalytic features of zeolite-like phases with the unique optoelectronic properties of transition metal and group 13-16 chalcogenides could afford novel multifunctional materials. Superheated strongly polarizing solvents such as water, methanol, and amines at temperatures in the range 110-200°C provide reaction conditions adequate to greatly enhance solubility, diffusion, and crystallization but still mild enough to leave molecular building blocks such as chains and rings intact to participate in the formation of polymeric anions. Such intermediate temperatures often allow the isolation of metastable solid-state compounds and thermodynamically stable phases that decompose at higher temperatures. The dimensionality and pore size of the anion network can be influenced by the choice of a suitable structure-directing alkali metal or alkyl-ammonium cation. Methanolothermal conditions have been found to be particularly suitable for the preparation of selenido- and telluridometalates, and have afforded a new class of very tellurium-rich alkali metal tellurides such as RbTe6 and Cs3Te22. This article presents a comprehensive review of the application of mild solventothermal techniques to the preparation of heavier group 14-16 and transition metal chalcogenidometalates.}
@@ -1413,8 +1531,8 @@
       \strng{authornamehash}{347f9339a254e45bf22c5a3274432706}
       \strng{authorfullhash}{347f9339a254e45bf22c5a3274432706}
       \strng{authorfullhashraw}{347f9339a254e45bf22c5a3274432706}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Lithium-sulfur (Li-S) batteries supply a theoretical specific energy 5 times higher than that of lithium-ion batteries (2500 vs. ~500 W h kg-1). However, the insulating properties and polysulfide shuttle effects of the sulfur cathode and safety concerns of the lithium anode in liquid electrolytes are still key limitations to practical use of traditional Li-S batteries. In this review, we start with a brief discussion on fundamentals of Li-S batteries and key challenges associated with conventional liquid cells. We then introduce the most recent progress in liquid systems, including sulfur positive electrodes, lithium negative electrodes, and electrolytes and binders. We discuss the significance of investigating electrode reaction mechanisms in liquid cells using in situ techniques to monitor the compositional and morphological changes. We also discuss the importance of this game-changing shift, moving from traditional liquid cells to recently developed solid cells, with positive advances in both solid electrolytes and electrode materials. Finally, the opportunities and perspectives for future research on Li-S batteries are presented.}
@@ -1817,8 +1935,8 @@
       \strng{authornamehash}{df857968a607a47f36cb9b8dcff5e2ae}
       \strng{authorfullhash}{df857968a607a47f36cb9b8dcff5e2ae}
       \strng{authorfullhashraw}{df857968a607a47f36cb9b8dcff5e2ae}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of the American Chemical Society}
@@ -1867,8 +1985,8 @@
       \strng{authornamehash}{a5f1529509353e60b3c39734d55e456b}
       \strng{authorfullhash}{b38fbb2139406213fdd64ac610a352a7}
       \strng{authorfullhashraw}{b38fbb2139406213fdd64ac610a352a7}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The mechanism of SO2+O2 and O+SO3(D3h) reactions have been investigated at the MP2/6-31+G(d) and CCSD(T)/cc-pV(Q+d)Z//MP2 levels on the triplet and singlet PESs. Although, no stable collision complexes have been found for the SO2+O2(3∑g-), O(3P)+SO3(D3h) and O(1D)+SO3(D3h) reactions, 1IN(O2S-O2) has been considered on the singlet PES for the SO2+O2(1Δg) reaction. The results show that there are no favorable paths for the OSO ring formation of SO4(C2v) in the atmospheric reactions of the SO2+O2(3∑g-), SO2+O2(1Δg) and O(3P)+SO3(D3h) while, the O(1D)+SO3(D3h) reaction can be suitable for the SO4(C2v) formation on the singlet PES.}
@@ -2316,8 +2434,8 @@
       \strng{authornamehash}{2dfc046f32c0e4b250e593d0868ab562}
       \strng{authorfullhash}{2dfc046f32c0e4b250e593d0868ab562}
       \strng{authorfullhashraw}{2dfc046f32c0e4b250e593d0868ab562}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{issn}{0020-1669, 1520-510X}

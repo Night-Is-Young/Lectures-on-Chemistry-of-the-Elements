@@ -2393,6 +2393,10 @@
     <bcf:citekey order="12" intorder="1">Zurek2009</bcf:citekey>
     <bcf:citekey order="13" intorder="1">Dye1974</bcf:citekey>
     <bcf:citekey order="14" intorder="1">DeBacker1971</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Kohata1982</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">Thiele1892</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">Foner1958</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">Corey1961</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
